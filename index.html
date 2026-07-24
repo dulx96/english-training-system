@@ -1,45 +1,32 @@
 <!DOCTYPE html>
-<html lang="vi">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>English Training System — Amira</title>
 <meta name="description" content="Tài liệu phương pháp xây dựng dữ liệu từ điển của Amira.">
 <style>
-:root{--paper:#FCFBF9;--panel:#F4F1EB;--line:#E1DCD2;--ink:#23201B;--muted:#6B6258;--faint:#928a7e;--accent:#1C5158;--accent-soft:#e5eeee;--accent-line:#bcd2d2;
---serif:'Iowan Old Style',Georgia,'Times New Roman',serif;--sans:system-ui,-apple-system,'Segoe UI',sans-serif;}
+:root{--paper:#FCFBF9;--panel:#F4F1EB;--line:#E1DCD2;--ink:#23201B;--muted:#6B6258;--faint:#928a7e;--accent:#1C5158;--accent-soft:#e5eeee;--accent-line:#bcd2d2;--serif:'Iowan Old Style',Georgia,'Times New Roman',serif;--sans:system-ui,-apple-system,'Segoe UI',sans-serif;}
 @media (prefers-color-scheme:dark){:root{--paper:#15141a;--panel:#1f1e25;--line:#33313c;--ink:#ecebf0;--muted:#a49dab;--faint:#7d7684;--accent:#6fbcc4;--accent-soft:#163035;--accent-line:#2b545a;}}
-*{box-sizing:border-box}
-body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);line-height:1.6;-webkit-font-smoothing:antialiased}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);line-height:1.6}
 .wrap{max-width:720px;margin:0 auto;padding:clamp(40px,9vw,110px) clamp(18px,5vw,40px)}
 .eyebrow{font-family:var(--sans);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);font-weight:700}
-h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.08;margin:.3em 0 .3em;letter-spacing:-.015em}
+h1{font-size:clamp(2rem,5vw,2.9rem);line-height:1.08;margin:.3em 0}
 .dek{font-family:var(--sans);font-size:1.02rem;color:var(--muted);max-width:60ch;margin-bottom:34px}
-.docs{display:flex;flex-direction:column;gap:14px}
 a.card{display:block;text-decoration:none;color:inherit;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:22px 24px;transition:border-color .15s,transform .15s}
 a.card:hover{border-color:var(--accent-line);transform:translateY(-2px)}
 a.card:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
 .card .k{font-family:var(--sans);font-size:.68rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);background:var(--accent-soft);border-radius:5px;padding:.2em .6em;display:inline-block;margin-bottom:11px}
-.card h2{font-family:var(--serif);font-size:1.35rem;margin:0 0 6px}
-.card p{font-family:var(--sans);font-size:.92rem;color:var(--muted);margin:0}
+.card h2{font-family:var(--serif);font-size:1.35rem;margin:0 0 6px}.card p{font-family:var(--sans);font-size:.92rem;color:var(--muted);margin:0}
 .card .go{font-family:var(--sans);font-size:.86rem;color:var(--accent);font-weight:600;margin-top:12px;display:inline-block}
 footer{font-family:var(--sans);font-size:.78rem;color:var(--faint);margin-top:40px;border-top:1px solid var(--line);padding-top:18px}
-</style>
-</head>
-<body>
+</style></head><body>
 <div class="wrap">
   <div class="eyebrow">Amira · English Training System</div>
   <h1>Tài liệu phương pháp xây dựng từ điển</h1>
   <p class="dek">Bộ tài liệu mô tả cách Amira xây dựng dữ liệu từ điển tiếng Anh: quy trình từng bước và nguồn trích dẫn cho mỗi trường dữ liệu.</p>
-  <div class="docs">
-    <a class="card" href="./how-to-build-common-dictionary/">
-      <span class="k">Common dictionary</span>
-      <h2>Cách xây dựng dữ liệu common — quy trình &amp; nguồn</h2>
-      <p>7 bước xây dữ liệu và nguồn từng bước; kèm từ ví dụ với đầy đủ trường theo schema và URL nguồn từng trường.</p>
-      <span class="go">Mở tài liệu →</span>
-    </a>
-  </div>
+  <a class="card" href="./how-to-build-common-dictionary/">
+    <span class="k">Common dictionary</span>
+    <h2>Cách xây dựng dữ liệu common — quy trình &amp; nguồn</h2>
+    <p>8 bước xây dữ liệu và nguồn từng bước; kèm từ ví dụ với đầy đủ trường theo schema và URL nguồn từng trường.</p>
+    <span class="go">Mở tài liệu →</span>
+  </a>
   <footer>© Amira. Nguồn dữ liệu mở/học thuật (CC BY-SA, ghi nguồn theo yêu cầu).</footer>
-</div>
-</body>
-</html>
+</div></body></html>
