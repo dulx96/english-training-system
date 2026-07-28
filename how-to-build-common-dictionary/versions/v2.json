@@ -1,0 +1,1912 @@
+{
+  "version": "v2",
+  "date": "2026-07-24",
+  "words": [
+    {
+      "term": "form",
+      "cefr": "A1",
+      "band": "High",
+      "synonyms": [],
+      "family_flat": null,
+      "family": {
+        "adjective": [
+          {
+            "term": "formless",
+            "pos": "adjective",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "information",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "uniform",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "compound"
+        },
+        {
+          "term": "formal",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "format",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "formula",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "inform",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "transform",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "transformation",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "formation",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "informal",
+          "pos": "adjective",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "reform",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "formality",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Low",
+          "relationship": "derivative"
+        },
+        {
+          "term": "formulate",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Low",
+          "relationship": "cognate"
+        },
+        {
+          "term": "conform",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "formative",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "deform",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "derivative"
+        }
+      ],
+      "root_siblings": [
+        "uniform",
+        "information",
+        "format",
+        "transform",
+        "formula"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "describe",
+      "cefr": "A1",
+      "band": "High",
+      "synonyms": [],
+      "family_flat": null,
+      "family": {
+        "adjective": [
+          {
+            "term": "indescribable",
+            "pos": "adjective",
+            "cefr": "B2",
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "description",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "script",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "prescription",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "inscribe",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "inscription",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "descriptive",
+          "pos": "adjective",
+          "cefr": "B2",
+          "band": "Low",
+          "relationship": "derivative"
+        },
+        {
+          "term": "prescribe",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "transcript",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "scribe",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "scripture",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "subscribe",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "subscription",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "manuscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "compound"
+        },
+        {
+          "term": "postscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "compound"
+        }
+      ],
+      "root_siblings": [
+        "subscribe",
+        "script",
+        "prescription",
+        "manuscript",
+        "description"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "advanced",
+          "examples": 2,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "photograph",
+      "cefr": "A2",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "picture",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "photo",
+            "pos": "noun",
+            "cefr": "A1",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "photographer",
+            "pos": "noun",
+            "cefr": "A2",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "photography",
+            "pos": "noun",
+            "cefr": "A2",
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adjective": [
+          {
+            "term": "photographic",
+            "pos": "adjective",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "paragraph",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "photocopy",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "compound"
+        },
+        {
+          "term": "graph",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "graphic",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "biography",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "geography",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "autograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "telegraph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "calligraphy",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "photography",
+        "photocopy",
+        "autograph",
+        "paragraph",
+        "telegraph",
+        "biography"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "produce",
+      "cefr": "A2",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "make",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "grow",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "producer",
+            "pos": "noun",
+            "cefr": "B1",
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "introduce",
+          "pos": "verb",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "product",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "production",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "productive",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "reproduce",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "conduct",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "reduce",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "educate",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "conductor",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "deduce",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "induce",
+          "pos": "verb",
+          "cefr": "C2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "productivity",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "byproduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "compound"
+        },
+        {
+          "term": "aqueduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        },
+        {
+          "term": "viaduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "conduct",
+        "introduce",
+        "reduce",
+        "educate",
+        "aqueduct",
+        "conductor"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 1,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 1,
+          "from_source": 0
+        },
+        {
+          "level": "beginner",
+          "examples": 1,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "predict",
+      "cefr": "A2",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "guess",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "predictability",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "prediction",
+            "pos": "noun",
+            "cefr": "A2",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "predictor",
+            "pos": "noun",
+            "cefr": "B2",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "unpredictability",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adjective": [
+          {
+            "term": "predictable",
+            "pos": "adjective",
+            "cefr": "B2",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "predictive",
+            "pos": "adjective",
+            "cefr": "B2",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "unpredictable",
+            "pos": "adjective",
+            "cefr": "B1",
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adverb": [
+          {
+            "term": "predictably",
+            "pos": "adverb",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "dictionary",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "indicate",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "dedicate",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "dictator",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "contradict",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "verdict",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "dictate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "dictation",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "dictionary",
+        "dictate",
+        "contradict",
+        "verdict",
+        "dictator"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 1,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "transport",
+      "cefr": "B1",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "carry",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "move",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "take",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "transportation",
+            "pos": "noun",
+            "cefr": "B1",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "transporter",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "report",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "support",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "export",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "import",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "portable",
+          "pos": "adjective",
+          "cefr": "C1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "portability",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        },
+        {
+          "term": "deport",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "portfolio",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "porter",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "import",
+        "export",
+        "portable",
+        "report",
+        "support"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "beginner",
+          "examples": 1,
+          "from_source": 0
+        },
+        {
+          "level": "advanced",
+          "examples": 1,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "construct",
+      "cefr": "B1",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "build",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "make",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "construction",
+            "pos": "noun",
+            "cefr": "B1",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "constructivist",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "constructors",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "reconstruction",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adjective": [
+          {
+            "term": "constructional",
+            "pos": "adjective",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "constructive",
+            "pos": "adjective",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adverb": [
+          {
+            "term": "constructively",
+            "pos": "adverb",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "verb": [
+          {
+            "term": "reconstruct",
+            "pos": "verb",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "structure",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "destroy",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "instruction",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "destruction",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "instruct",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "structural",
+          "pos": "adjective",
+          "cefr": "C1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "constructor",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "derivative"
+        },
+        {
+          "term": "obstruct",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "infrastructure",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "compound"
+        }
+      ],
+      "root_siblings": [
+        "structure",
+        "construction",
+        "destroy",
+        "instruct",
+        "infrastructure"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "advanced",
+          "examples": 2,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "visible",
+      "cefr": "B1",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "clear",
+          "pos": null,
+          "cefr": "A2",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "invisibility",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "visibility",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adjective": [
+          {
+            "term": "invisible",
+            "pos": "adjective",
+            "cefr": "B2",
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adverb": [
+          {
+            "term": "invisibly",
+            "pos": "adverb",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "visibly",
+            "pos": "adverb",
+            "cefr": "B2",
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "video",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "review",
+          "pos": "verb",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "television",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "evidence",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "provide",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "vision",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "visual",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "visually",
+          "pos": "adverb",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "evident",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "supervise",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "visualize",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "derivative"
+        },
+        {
+          "term": "visor",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "derivative"
+        },
+        {
+          "term": "envision",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "vista",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "vision",
+        "video",
+        "visual",
+        "television",
+        "evident"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 2,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "manufacture",
+      "cefr": "B2",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "make",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "produce",
+          "pos": null,
+          "cefr": "A2",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "build",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "manufacturer",
+            "pos": "noun",
+            "cefr": "B2",
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "factory",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "manage",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "fact",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "effect",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "perfect",
+          "pos": "adjective",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "maintain",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "benefit",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "manufacturing",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "manual",
+          "pos": "adjective",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "manipulate",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "factor",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "manuscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "manual",
+        "manuscript",
+        "factory",
+        "fact",
+        "effect"
+      ],
+      "senses": [
+        {
+          "level": "intermediate",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 1,
+          "from_source": 0
+        },
+        {
+          "level": "advanced",
+          "examples": 1,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "pose",
+      "cefr": "B2",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "ask",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "raise",
+          "pos": null,
+          "cefr": "A2",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "sit",
+          "pos": null,
+          "cefr": "A1",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {},
+      "root_related": [
+        {
+          "term": "position",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "oppose",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "purpose",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "positive",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "propose",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "proposal",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "compose",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "composition",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "expose",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "suppose",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "deposit",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "component",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "impose",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "derivative"
+        },
+        {
+          "term": "opponent",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "postpone",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "posture",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "exposure",
+          "pos": "noun",
+          "cefr": null,
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "dispose",
+          "pos": "verb",
+          "cefr": null,
+          "band": "High",
+          "relationship": "derivative"
+        }
+      ],
+      "root_siblings": [
+        "position",
+        "propose",
+        "compose",
+        "expose",
+        "deposit"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 1,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "diminish",
+      "cefr": "C2",
+      "band": "Mid",
+      "synonyms": [
+        {
+          "term": "decrease",
+          "pos": null,
+          "cefr": "B1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "reduce",
+          "pos": null,
+          "cefr": "B1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "shrink",
+          "pos": null,
+          "cefr": "B2",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "lessen",
+          "pos": null,
+          "cefr": "B1",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "go down",
+          "pos": null,
+          "cefr": "A2",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "diminution",
+            "pos": "noun",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adjective": [
+          {
+            "term": "undiminished",
+            "pos": "adjective",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "minute",
+          "pos": "adjective",
+          "cefr": "A1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "minus",
+          "pos": "preposition",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "minimum",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "minimize",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "minor",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "minority",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "minister",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "diminutive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "derivative"
+        },
+        {
+          "term": "minimal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "minuscule",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        },
+        {
+          "term": "mince",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "minus",
+        "minimum",
+        "minor",
+        "minute"
+      ],
+      "senses": [
+        {
+          "level": "intermediate",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "advanced",
+          "examples": 1,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    },
+    {
+      "term": "provoke",
+      "cefr": "C1",
+      "band": "High",
+      "synonyms": [
+        {
+          "term": "cause",
+          "pos": null,
+          "cefr": "A2",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "annoy",
+          "pos": null,
+          "cefr": "A2",
+          "band": null,
+          "relationship": null
+        },
+        {
+          "term": "trigger",
+          "pos": null,
+          "cefr": "B2",
+          "band": null,
+          "relationship": null
+        }
+      ],
+      "family_flat": null,
+      "family": {
+        "noun": [
+          {
+            "term": "provocation",
+            "pos": "noun",
+            "cefr": "C2",
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adjective": [
+          {
+            "term": "provocative",
+            "pos": "adjective",
+            "cefr": "C1",
+            "band": null,
+            "relationship": null
+          },
+          {
+            "term": "unprovoked",
+            "pos": "adjective",
+            "cefr": null,
+            "band": null,
+            "relationship": null
+          }
+        ],
+        "adverb": [
+          {
+            "term": "provocatively",
+            "pos": "adverb",
+            "cefr": "C1",
+            "band": null,
+            "relationship": null
+          }
+        ]
+      },
+      "root_related": [
+        {
+          "term": "voice",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "vocabulary",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "invoke",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "evoke",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "provoker",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "derivative"
+        },
+        {
+          "term": "vocal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "vocation",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "revoke",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "relationship": "cognate"
+        },
+        {
+          "term": "advocate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "High",
+          "relationship": "cognate"
+        },
+        {
+          "term": "vociferous",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        },
+        {
+          "term": "convoke",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "relationship": "cognate"
+        }
+      ],
+      "root_siblings": [
+        "voice",
+        "vocal",
+        "vocabulary",
+        "invoke",
+        "revoke",
+        "advocate"
+      ],
+      "senses": [
+        {
+          "level": "beginner",
+          "examples": 2,
+          "from_source": 0
+        },
+        {
+          "level": "intermediate",
+          "examples": 2,
+          "from_source": 0
+        }
+      ],
+      "audio": null
+    }
+  ]
+}
