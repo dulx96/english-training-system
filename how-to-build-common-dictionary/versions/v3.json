@@ -1,6 +1,6 @@
 {
   "version": "v3",
-  "date": "2026-07-28",
+  "date": "2026-08-02",
   "words": [
     {
       "term": "form",
@@ -11,6 +11,14 @@
       ],
       "cefr": "A1",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "forma",
+        "formo"
+      ],
+      "root_names": {
+        "forma": "fōrma",
+        "formo": "fōrmō"
+      },
       "frequency_band": "High",
       "frequency_rank": 1000,
       "frequency_source": "bnc",
@@ -86,22 +94,17 @@
       },
       "same_root_related": [
         {
-          "term": "information",
-          "pos": "noun",
-          "cefr": "A1",
+          "term": "inform",
+          "pos": "verb",
+          "cefr": "B1",
           "band": "High",
           "band_rank": 1000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
-        },
-        {
-          "term": "uniform",
-          "pos": "noun",
-          "cefr": "A2",
-          "band": "High",
-          "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "compound"
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
         },
         {
           "term": "formal",
@@ -110,52 +113,11 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "format",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "formula",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "inform",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 1000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "transform",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "transformation",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
         },
         {
           "term": "formation",
@@ -164,16 +126,37 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
         },
         {
-          "term": "informal",
-          "pos": "adjective",
-          "cefr": "B2",
-          "band": "Mid",
-          "band_rank": 4000,
+          "term": "formula",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
+        },
+        {
+          "term": "platform",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
         },
         {
           "term": "reform",
@@ -182,25 +165,36 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "formo"
+          ]
         },
         {
-          "term": "formality",
-          "pos": "noun",
-          "cefr": "C1",
-          "band": "Low",
-          "band_rank": 12000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
-        },
-        {
-          "term": "formulate",
+          "term": "transform",
           "pos": "verb",
-          "cefr": "C1",
-          "band": "Low",
-          "band_rank": 12000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
+        },
+        {
+          "term": "uniform",
+          "pos": "adjective",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
         },
         {
           "term": "conform",
@@ -209,16 +203,10 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "formative",
-          "pos": "adjective",
-          "cefr": null,
-          "band": "Mid",
-          "band_rank": 7000,
-          "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "formo"
+          ]
         },
         {
           "term": "deform",
@@ -227,7 +215,74 @@
           "band": "Mid",
           "band_rank": 6000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
+        },
+        {
+          "term": "formative",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "formo"
+          ]
+        },
+        {
+          "term": "cuneiform",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
+        },
+        {
+          "term": "forma",
+          "pos": null,
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
+        },
+        {
+          "term": "formant",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "formo"
+          ]
+        },
+        {
+          "term": "piriform",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "forma",
+            "formo"
+          ]
         }
       ],
       "excluded": [],
@@ -297,6 +352,14 @@
       ],
       "cefr": "A1",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "describo",
+        "scribo"
+      ],
+      "root_names": {
+        "describo": "dēscrībō",
+        "scribo": "scrībō"
+      },
       "frequency_band": "High",
       "frequency_rank": 2000,
       "frequency_source": "bnc",
@@ -374,106 +437,11 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "script",
-          "pos": "noun",
-          "cefr": "A2",
-          "band": "Mid",
-          "band_rank": 4000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "prescription",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 4000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "inscribe",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "inscription",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "descriptive",
-          "pos": "adjective",
-          "cefr": "B2",
-          "band": "Low",
-          "band_rank": 12000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
-        },
-        {
-          "term": "prescribe",
-          "pos": "verb",
-          "cefr": "B2",
-          "band": "Mid",
-          "band_rank": 4000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "transcript",
-          "pos": "noun",
-          "cefr": "B2",
-          "band": "Mid",
-          "band_rank": 4000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "scribe",
-          "pos": "noun",
-          "cefr": null,
-          "band": "Mid",
-          "band_rank": 8000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "scripture",
-          "pos": "noun",
-          "cefr": null,
-          "band": "Mid",
-          "band_rank": 5000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "subscribe",
-          "pos": "verb",
-          "cefr": null,
-          "band": "Mid",
-          "band_rank": 4000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "subscription",
-          "pos": "noun",
-          "cefr": null,
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "describo",
+            "scribo"
+          ]
         },
         {
           "term": "manuscript",
@@ -482,7 +450,180 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "compound"
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "prescribe",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "script",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "subscribe",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "scripture",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "ascribe",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "inscribe",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "inscription",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "scribble",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "conscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "scribe",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "circumscribe",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "descriptor",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "describo",
+            "scribo"
+          ]
+        },
+        {
+          "term": "proscribe",
+          "pos": "verb",
+          "cefr": "C2",
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "nondescript",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "describo",
+            "scribo"
+          ]
         },
         {
           "term": "postscript",
@@ -491,7 +632,58 @@
           "band": "Low",
           "band_rank": 20000,
           "band_source": "wordfreq~",
-          "relationship": "compound"
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "subscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "superscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "oversubscribe",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
+        },
+        {
+          "term": "scriptorium",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "scribo"
+          ]
         }
       ],
       "excluded": [],
@@ -537,6 +729,16 @@
       ],
       "cefr": "A2",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "γραφω",
+        "φαοσ",
+        "φωσ"
+      ],
+      "root_names": {
+        "γραφω": "γράφω",
+        "φαοσ": "φᾰ́ος",
+        "φωσ": "φῶς"
+      },
       "frequency_band": "High",
       "frequency_rank": 1000,
       "frequency_source": "bnc",
@@ -635,31 +837,16 @@
       },
       "same_root_related": [
         {
-          "term": "paragraph",
+          "term": "geography",
           "pos": "noun",
-          "cefr": "A1",
+          "cefr": "B1",
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "photocopy",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 7000,
-          "band_source": "bnc",
-          "relationship": "compound"
-        },
-        {
-          "term": "graph",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 4000,
-          "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
         },
         {
           "term": "graphic",
@@ -668,7 +855,22 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "paragraph",
+          "pos": "verb",
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
         },
         {
           "term": "biography",
@@ -677,16 +879,82 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
         },
         {
-          "term": "geography",
+          "term": "cinema",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "diagram",
           "pos": "noun",
           "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
+          "band": "Mid",
+          "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "gram",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "grammar",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "ethnography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "graft",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
         },
         {
           "term": "autograph",
@@ -695,25 +963,685 @@
           "band": "Mid",
           "band_rank": 7000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
         },
         {
-          "term": "telegraph",
+          "term": "graffiti",
           "pos": "noun",
           "cefr": null,
           "band": "Mid",
-          "band_rank": 5000,
+          "band_rank": 7000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
         },
         {
-          "term": "calligraphy",
+          "term": "phosphate",
           "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photocopy",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "biographer",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "graphite",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "scribe",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "iconography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "phosphorus",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photosynthesis",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photovoltaic",
+          "pos": "adjective",
           "cefr": null,
           "band": "Low",
           "band_rank": 12000,
           "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "chronograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "crystallography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "gramophone",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "historiography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "mammogram",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "oceanography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "photoelectric",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photojournalist",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photoreceptor",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photosensitive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "radiography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "telephoto",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω",
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "agraphia",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "astrophotography",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω",
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "cardiogram",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "cardiograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "coronagraph",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "echocardiograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "electrocardiograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "epigram",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "epigraph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "grapheme",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "graphology",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "hagiography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "lexicography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "orography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "petrography",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "phosgene",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "phosphide",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "phospholipase",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "phospholipid",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photocell",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photodetector",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photodiode",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photogravure",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photolithography",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photometer",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photomicrograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photomontage",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "photomultiplier",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "sgraffito",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "sonograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
+        },
+        {
+          "term": "spectrophotometer",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "φαοσ",
+            "φωσ"
+          ]
+        },
+        {
+          "term": "ultrasonograph",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "γραφω"
+          ]
         }
       ],
       "excluded": [],
@@ -765,6 +1693,14 @@
       ],
       "cefr": "A2",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "duco",
+        "produco"
+      ],
+      "root_names": {
+        "duco": "dūcō",
+        "produco": "prōdūcō"
+      },
       "frequency_band": "High",
       "frequency_rank": 2000,
       "frequency_source": "bnc",
@@ -813,13 +1749,28 @@
       },
       "same_root_related": [
         {
+          "term": "educate",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 1000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
           "term": "introduce",
           "pos": "verb",
           "cefr": "A1",
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
           "term": "product",
@@ -828,43 +1779,11 @@
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "production",
-          "pos": "noun",
-          "cefr": "A2",
-          "band": "High",
-          "band_rank": 1000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
-        },
-        {
-          "term": "productive",
-          "pos": "adjective",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
-        },
-        {
-          "term": "reproduce",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "conduct",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco",
+            "produco"
+          ]
         },
         {
           "term": "reduce",
@@ -873,34 +1792,47 @@
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
-          "term": "educate",
+          "term": "conduct",
           "pos": "verb",
           "cefr": "B1",
           "band": "High",
-          "band_rank": 1000,
+          "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
-          "term": "conductor",
-          "pos": "noun",
-          "cefr": "B2",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
-        },
-        {
-          "term": "deduce",
+          "term": "reproduce",
           "pos": "verb",
-          "cefr": "B2",
-          "band": "Mid",
-          "band_rank": 7000,
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco",
+            "produco"
+          ]
+        },
+        {
+          "term": "deduct",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
           "term": "induce",
@@ -909,16 +1841,118 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
-          "term": "productivity",
+          "term": "seduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "abduct",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "duct",
           "pos": "noun",
           "cefr": null,
           "band": "Mid",
           "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "induct",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "subdue",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "deduce",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "conducive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "conduit",
+          "pos": "noun",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "transducer",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
           "term": "byproduct",
@@ -927,7 +1961,23 @@
           "band": "Low",
           "band_rank": 12000,
           "band_source": "wordfreq~",
-          "relationship": "compound"
+          "relationship": "cognate",
+          "roots": [
+            "duco",
+            "produco"
+          ]
+        },
+        {
+          "term": "conn",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
           "term": "aqueduct",
@@ -936,16 +1986,216 @@
           "band": "Low",
           "band_rank": 20000,
           "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         },
         {
-          "term": "viaduct",
+          "term": "inductive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "inductor",
           "pos": "noun",
           "cefr": null,
           "band": "Low",
           "band_rank": 20000,
           "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "overproduction",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco",
+            "produco"
+          ]
+        },
+        {
+          "term": "redoubt",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "reductive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "abductee",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "adduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "adduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "andouille",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "conduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "ductule",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "educe",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "oviduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "reprographics",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco",
+            "produco"
+          ]
+        },
+        {
+          "term": "subduct",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "traduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
+        },
+        {
+          "term": "transduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "duco"
+          ]
         }
       ],
       "excluded": [],
@@ -1029,6 +2279,14 @@
       ],
       "cefr": "A2",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "dico",
+        "praedico"
+      ],
+      "root_names": {
+        "dico": "dīcō",
+        "praedico": "praedicō"
+      },
       "frequency_band": "High",
       "frequency_rank": 3000,
       "frequency_source": "bnc",
@@ -1160,13 +2418,16 @@
       },
       "same_root_related": [
         {
-          "term": "dictionary",
+          "term": "condition",
           "pos": "noun",
-          "cefr": "A1",
-          "band": "Mid",
-          "band_rank": 4000,
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
         },
         {
           "term": "indicate",
@@ -1175,25 +2436,22 @@
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
         },
         {
-          "term": "dedicate",
-          "pos": "verb",
-          "cefr": "B1",
+          "term": "addict",
+          "pos": "noun",
+          "cefr": "B2",
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "dictator",
-          "pos": "noun",
-          "cefr": "B2",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
         },
         {
           "term": "contradict",
@@ -1202,16 +2460,22 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
         },
         {
-          "term": "verdict",
-          "pos": "noun",
-          "cefr": "C1",
-          "band": "Mid",
-          "band_rank": 4000,
+          "term": "dedicate",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
         },
         {
           "term": "dictate",
@@ -1220,16 +2484,301 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
         },
         {
-          "term": "dictation",
+          "term": "index",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "dictionary",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "jurisdiction",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "preach",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico",
+            "praedico"
+          ]
+        },
+        {
+          "term": "verdict",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "indict",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "sturdy",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "predicament",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico",
+            "praedico"
+          ]
+        },
+        {
+          "term": "predicate",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico",
+            "praedico"
+          ]
+        },
+        {
+          "term": "avenge",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "dictum",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "edict",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "indigo",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "ditto",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "benediction",
           "pos": "noun",
           "cefr": null,
           "band": "Low",
           "band_rank": 20000,
           "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "diction",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "ditty",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "interdict",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "benison",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "diktat",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "indicia",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "malediction",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "malison",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
+        },
+        {
+          "term": "valedictory",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "dico"
+          ]
         }
       ],
       "excluded": [],
@@ -1278,6 +2827,12 @@
       ],
       "cefr": "B1",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "porto"
+      ],
+      "root_names": {
+        "porto": "portō"
+      },
       "frequency_band": "High",
       "frequency_rank": 3000,
       "frequency_source": "bnc",
@@ -1347,22 +2902,52 @@
       },
       "same_root_related": [
         {
+          "term": "important",
+          "pos": "adjective",
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 1000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
           "term": "report",
           "pos": "noun",
           "cefr": "A2",
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "sport",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 1000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
         },
         {
           "term": "support",
-          "pos": "verb",
+          "pos": "noun",
           "cefr": "A2",
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
         },
         {
           "term": "export",
@@ -1371,43 +2956,34 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
         },
         {
           "term": "import",
-          "pos": "verb",
+          "pos": "noun",
           "cefr": "B2",
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
         },
         {
-          "term": "portable",
-          "pos": "adjective",
-          "cefr": "C1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "portability",
+          "term": "importance",
           "pos": "noun",
-          "cefr": null,
-          "band": "Low",
-          "band_rank": 20000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
-        },
-        {
-          "term": "deport",
-          "pos": "verb",
-          "cefr": null,
-          "band": "Mid",
-          "band_rank": 6000,
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
         },
         {
           "term": "portfolio",
@@ -1416,7 +2992,70 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "porch",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "deport",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "portable",
+          "pos": "adjective",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "portal",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "purport",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
         },
         {
           "term": "porter",
@@ -1425,7 +3064,70 @@
           "band": "Mid",
           "band_rank": 7000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "portage",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "portico",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "portmanteau",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "comport",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
+        },
+        {
+          "term": "disport",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "porto"
+          ]
         }
       ],
       "excluded": [],
@@ -1504,6 +3206,16 @@
       ],
       "cefr": "B1",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "constructus",
+        "construo",
+        "struo"
+      ],
+      "root_names": {
+        "constructus": "cōnstrūctus",
+        "construo": "cōnstruō",
+        "struo": "struō"
+      },
       "frequency_band": "High",
       "frequency_rank": 3000,
       "frequency_source": "bnc",
@@ -1637,40 +3349,16 @@
       },
       "same_root_related": [
         {
-          "term": "structure",
-          "pos": "noun",
-          "cefr": "A2",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
           "term": "destroy",
           "pos": "verb",
           "cefr": "A2",
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "instruction",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
-        },
-        {
-          "term": "destruction",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "struo"
+          ]
         },
         {
           "term": "instruct",
@@ -1679,34 +3367,61 @@
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "struo"
+          ]
         },
         {
-          "term": "structural",
-          "pos": "adjective",
-          "cefr": "C1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "term": "instrument",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "struo"
+          ]
         },
         {
-          "term": "obstruct",
+          "term": "structure",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "struo"
+          ]
+        },
+        {
+          "term": "construe",
           "pos": "verb",
           "cefr": null,
           "band": "Mid",
-          "band_rank": 4000,
+          "band_rank": 6000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "construo",
+            "struo"
+          ]
         },
         {
-          "term": "infrastructure",
-          "pos": "noun",
+          "term": "deconstruct",
+          "pos": "verb",
           "cefr": null,
           "band": "Mid",
-          "band_rank": 4000,
+          "band_rank": 7000,
           "band_source": "bnc",
-          "relationship": "compound"
+          "relationship": "cognate",
+          "roots": [
+            "constructus",
+            "construo",
+            "struo"
+          ]
         }
       ],
       "excluded": [],
@@ -1762,6 +3477,14 @@
       ],
       "cefr": "B1",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "uideo",
+        "uidere"
+      ],
+      "root_names": {
+        "uideo": "videō",
+        "uidere": "videre"
+      },
       "frequency_band": "High",
       "frequency_rank": 3000,
       "frequency_source": "bnc",
@@ -1859,25 +3582,46 @@
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         },
         {
-          "term": "review",
+          "term": "visit",
           "pos": "verb",
-          "cefr": "A1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "television",
-          "pos": "noun",
           "cefr": "A1",
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "advice",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "advise",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         },
         {
           "term": "evidence",
@@ -1886,7 +3630,22 @@
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "interview",
+          "pos": "verb",
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         },
         {
           "term": "provide",
@@ -1895,34 +3654,10 @@
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "vision",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "visual",
-          "pos": "adjective",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "visually",
-          "pos": "adverb",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         },
         {
           "term": "evident",
@@ -1931,7 +3666,46 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "provision",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "review",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "revise",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         },
         {
           "term": "supervise",
@@ -1940,34 +3714,108 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         },
         {
-          "term": "visualize",
+          "term": "survey",
           "pos": "verb",
-          "cefr": null,
-          "band": "Low",
-          "band_rank": 12000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
-        },
-        {
-          "term": "visor",
-          "pos": "noun",
-          "cefr": null,
-          "band": "Low",
-          "band_rank": 10000,
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "uideo",
+            "uidere"
+          ]
         },
         {
-          "term": "envision",
+          "term": "vision",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "visual",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "devise",
           "pos": "verb",
           "cefr": null,
           "band": "Mid",
-          "band_rank": 9000,
+          "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "improvise",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "prudent",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "visa",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo",
+            "uidere"
+          ]
+        },
+        {
+          "term": "divisive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         },
         {
           "term": "vista",
@@ -1976,7 +3824,155 @@
           "band": "Mid",
           "band_rank": 8000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uideo",
+            "uidere"
+          ]
+        },
+        {
+          "term": "envision",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "foresight",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "proviso",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "purvey",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "providence",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "prudential",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "voyeur",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "jurisprudence",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "provident",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "purview",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "vide",
+          "pos": null,
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
+        },
+        {
+          "term": "visage",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uideo"
+          ]
         }
       ],
       "excluded": [],
@@ -2028,6 +4024,22 @@
       ],
       "cefr": "B2",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "facio",
+        "factura",
+        "facturus",
+        "factus",
+        "manu",
+        "manus"
+      ],
+      "root_names": {
+        "facio": "faciō",
+        "factura": "factūra",
+        "facturus": "factūrus",
+        "factus": "factus",
+        "manu": "manu",
+        "manus": "manus"
+      },
       "frequency_band": "High",
       "frequency_rank": 3000,
       "frequency_source": "bnc",
@@ -2103,22 +4115,16 @@
       },
       "same_root_related": [
         {
-          "term": "factory",
+          "term": "face",
           "pos": "noun",
           "cefr": "A1",
           "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "manage",
-          "pos": "verb",
-          "cefr": "A2",
-          "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
         },
         {
           "term": "fact",
@@ -2127,16 +4133,35 @@
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
         },
         {
-          "term": "effect",
-          "pos": "noun",
+          "term": "manage",
+          "pos": "verb",
           "cefr": "A2",
           "band": "High",
-          "band_rank": 2000,
+          "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "officer",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 1000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
         },
         {
           "term": "perfect",
@@ -2145,16 +4170,23 @@
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
         },
         {
-          "term": "maintain",
+          "term": "affect",
           "pos": "verb",
           "cefr": "B1",
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
         },
         {
           "term": "benefit",
@@ -2163,25 +4195,184 @@
           "band": "High",
           "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
         },
         {
-          "term": "manual",
-          "pos": "adjective",
-          "cefr": "B2",
+          "term": "command",
+          "pos": "noun",
+          "cefr": "B1",
           "band": "High",
-          "band_rank": 3000,
+          "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
         },
         {
-          "term": "manipulate",
+          "term": "demand",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "effect",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "fashion",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "feature",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factura",
+            "facturus",
+            "factus"
+          ]
+        },
+        {
+          "term": "identify",
           "pos": "verb",
           "cefr": "B2",
           "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "maintain",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manu",
+            "manus"
+          ]
+        },
+        {
+          "term": "manner",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "recommend",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "satisfy",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "affection",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "deficit",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "effective",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "efficient",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
         },
         {
           "term": "factor",
@@ -2190,7 +4381,144 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "infect",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "manifest",
+          "pos": "verb",
+          "cefr": null,
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manual",
+          "pos": "adjective",
+          "cefr": "B2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "profit",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "sacrifice",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "satisfaction",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "sufficient",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "defect",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "faction",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "interface",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "mandate",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
         },
         {
           "term": "manuscript",
@@ -2199,7 +4527,1018 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "manu",
+            "manus"
+          ]
+        },
+        {
+          "term": "satisfactory",
+          "pos": "adjective",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "seminar",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "verify",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "commend",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "efficacy",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "facial",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "feasible",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "mandatory",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "superficial",
+          "pos": "adjective",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "disseminate",
+          "pos": "verb",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "facet",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "feat",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "stew",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "suffice",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "amen",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "artifact",
+          "pos": "noun",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "commando",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "emancipate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "facade",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "manifesto",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manure",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "proficient",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "benefactor",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "chauffeur",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "confection",
+          "pos": "noun",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "counterfeit",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "maniac",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manicure",
+          "pos": "verb",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "masturbate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "seminal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "facsimile",
+          "pos": "noun",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "fetish",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "mania",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "remand",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "chafe",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "fiat",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "mandible",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "officiate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "semen",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "commandant",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "olfactory",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "prefect",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "prefecture",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factura",
+            "facturus",
+            "factus"
+          ]
+        },
+        {
+          "term": "affectation",
+          "pos": "noun",
+          "cefr": "C2",
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "blackface",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "commandeer",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "confit",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "craniofacial",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "deface",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "effectual",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "efficacious",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "facies",
+          "pos": null,
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "facile",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "liquefaction",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "malfeasance",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "mange",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manse",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manufactory",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manus",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "mastiff",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "maxillofacial",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "refectory",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "abortifacient",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "amanuensis",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "comfit",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "confect",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "countermand",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "discomfit",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "effectuate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "factious",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "inseminate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "liquefy",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "malefaction",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "malefactor",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "manacle",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manche",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "mandamus",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "manumit",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manu",
+            "manus"
+          ]
+        },
+        {
+          "term": "messuage",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "manus"
+          ]
+        },
+        {
+          "term": "olfaction",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
+        },
+        {
+          "term": "prehensile",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "soffit",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio",
+            "factus"
+          ]
+        },
+        {
+          "term": "stupefy",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "facio"
+          ]
         }
       ],
       "excluded": [],
@@ -2278,6 +5617,22 @@
       ],
       "cefr": "B2",
       "cefr_source": "cefr-j",
+      "root_keys": [
+        "pausa",
+        "pauso",
+        "pono",
+        "sino",
+        "παυσισ",
+        "παυω"
+      ],
+      "root_names": {
+        "pausa": "pausa",
+        "pauso": "pausō",
+        "pono": "pōnō",
+        "sino": "sinō",
+        "παυσισ": "παῦσις",
+        "παυω": "παύω"
+      },
       "frequency_band": "High",
       "frequency_rank": 3000,
       "frequency_source": "bnc",
@@ -2335,79 +5690,36 @@
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
-          "term": "oppose",
+          "term": "post",
           "pos": "verb",
-          "cefr": "A2",
+          "cefr": "A1",
           "band": "High",
-          "band_rank": 2000,
+          "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
-          "term": "purpose",
+          "term": "situation",
           "pos": "noun",
           "cefr": "A2",
           "band": "High",
-          "band_rank": 2000,
+          "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "positive",
-          "pos": "adjective",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 2000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "propose",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 2000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "proposal",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
-        },
-        {
-          "term": "compose",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "derivative"
-        },
-        {
-          "term": "composition",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
-        },
-        {
-          "term": "expose",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 2000,
-          "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "sino"
+          ]
         },
         {
           "term": "suppose",
@@ -2416,16 +5728,115 @@
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
-          "term": "deposit",
+          "term": "expose",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "oppose",
+          "pos": "verb",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "opposite",
+          "pos": "adjective",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "pause",
           "pos": "noun",
           "cefr": "B1",
           "band": "High",
-          "band_rank": 3000,
+          "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "pausa",
+            "παυσισ",
+            "παυω"
+          ]
+        },
+        {
+          "term": "positive",
+          "pos": "adjective",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "propose",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "purpose",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "site",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "High",
+          "band_rank": 2000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "sino"
+          ]
         },
         {
           "term": "component",
@@ -2434,7 +5845,50 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "compose",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "compound",
+          "pos": "verb",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "deposit",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
           "term": "impose",
@@ -2443,7 +5897,11 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
           "term": "opponent",
@@ -2452,7 +5910,24 @@
           "band": "High",
           "band_rank": 3000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "poster",
+          "pos": "noun",
+          "cefr": "A1",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
           "term": "postpone",
@@ -2461,7 +5936,88 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "proposition",
+          "pos": "noun",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "composite",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "compost",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "depot",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "disposition",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "parasite",
+          "pos": "noun",
+          "cefr": "C1",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "sino"
+          ]
         },
         {
           "term": "posture",
@@ -2470,25 +6026,480 @@
           "band": "Mid",
           "band_rank": 5000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
-          "term": "exposure",
+          "term": "deposition",
           "pos": "noun",
           "cefr": null,
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         },
         {
-          "term": "dispose",
+          "term": "presuppose",
+          "pos": "verb",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "proponent",
+          "pos": "noun",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "exposition",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "menopause",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pausa",
+            "παυσισ",
+            "παυω"
+          ]
+        },
+        {
+          "term": "posit",
+          "pos": "verb",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "postgraduate",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "amenable",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "exponent",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "expound",
           "pos": "verb",
           "cefr": null,
-          "band": "High",
-          "band_rank": 3000,
+          "band": "Mid",
+          "band_rank": 9000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "postoperative",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "repose",
+          "pos": "verb",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pauso",
+            "παυσισ",
+            "παυω"
+          ]
+        },
+        {
+          "term": "transpose",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "provost",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "puny",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "supposition",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 10000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "postdoctoral",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "postnatal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "postsynaptic",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "preposition",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "suppository",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "appose",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "apposite",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "apposition",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "cornpone",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "deponent",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "impost",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "imposture",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "interpose",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "ovipositor",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "parasitologist",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "sino"
+          ]
+        },
+        {
+          "term": "pone",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "postie",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "postprandial",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "propound",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
+        },
+        {
+          "term": "puisne",
+          "pos": null,
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "pono",
+            "sino"
+          ]
         }
       ],
       "excluded": [],
@@ -2559,6 +6570,12 @@
       ],
       "cefr": "C2",
       "cefr_source": "octanove",
+      "root_keys": [
+        "minuo"
+      ],
+      "root_names": {
+        "minuo": "minuō"
+      },
       "frequency_band": "Mid",
       "frequency_rank": 4000,
       "frequency_source": "bnc",
@@ -2624,102 +6641,63 @@
       "same_root_related": [
         {
           "term": "minute",
-          "pos": "adjective",
+          "pos": "noun",
           "cefr": "A1",
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "minus",
-          "pos": "preposition",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 2000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "minimum",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "minimize",
-          "pos": "verb",
-          "cefr": "B1",
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
-        },
-        {
-          "term": "minor",
-          "pos": "adjective",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 2000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "minority",
-          "pos": "noun",
-          "cefr": "B1",
-          "band": "High",
-          "band_rank": 3000,
-          "band_source": "wordfreq~",
-          "relationship": "cognate"
-        },
-        {
-          "term": "minister",
-          "pos": "noun",
-          "cefr": "B2",
-          "band": "High",
-          "band_rank": 2000,
-          "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "minuo"
+          ]
         },
         {
           "term": "diminutive",
-          "pos": "adjective",
+          "pos": "noun",
           "cefr": null,
           "band": "Mid",
           "band_rank": 9000,
           "band_source": "bnc",
-          "relationship": "derivative"
+          "relationship": "cognate",
+          "roots": [
+            "minuo"
+          ]
         },
         {
-          "term": "minimal",
-          "pos": "adjective",
-          "cefr": null,
-          "band": "Mid",
-          "band_rank": 4000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "minuscule",
-          "pos": "adjective",
+          "term": "minuet",
+          "pos": "noun",
           "cefr": null,
           "band": "Low",
-          "band_rank": 10000,
-          "band_source": "bnc",
-          "relationship": "cognate"
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "minuo"
+          ]
         },
         {
-          "term": "mince",
-          "pos": "verb",
+          "term": "minuend",
+          "pos": "noun",
           "cefr": null,
-          "band": "Mid",
-          "band_rank": 6000,
-          "band_source": "bnc",
-          "relationship": "cognate"
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "minuo"
+          ]
+        },
+        {
+          "term": "minutia",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "minuo"
+          ]
         }
       ],
       "excluded": [],
@@ -2796,6 +6774,14 @@
       ],
       "cefr": "C1",
       "cefr_source": "octanove",
+      "root_keys": [
+        "uoco",
+        "uox"
+      ],
+      "root_names": {
+        "uoco": "vocō",
+        "uox": "vōx"
+      },
       "frequency_band": "High",
       "frequency_rank": 3000,
       "frequency_source": "bnc",
@@ -2894,25 +6880,37 @@
           "band": "High",
           "band_rank": 1000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
-          "term": "vocabulary",
-          "pos": "noun",
-          "cefr": "A2",
-          "band": "Mid",
-          "band_rank": 5000,
-          "band_source": "bnc",
-          "relationship": "cognate"
-        },
-        {
-          "term": "invoke",
+          "term": "avoid",
           "pos": "verb",
-          "cefr": "B2",
-          "band": "Mid",
-          "band_rank": 4000,
+          "cefr": "A2",
+          "band": "High",
+          "band_rank": 2000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "advocate",
+          "pos": "noun",
+          "cefr": null,
+          "band": "High",
+          "band_rank": 3000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
           "term": "evoke",
@@ -2921,16 +6919,24 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
-          "term": "provoker",
-          "pos": "noun",
-          "cefr": null,
-          "band": "ít gặp",
-          "band_rank": 40000,
-          "band_source": "wordfreq~",
-          "relationship": "derivative"
+          "term": "invoke",
+          "pos": "verb",
+          "cefr": "B2",
+          "band": "Mid",
+          "band_rank": 4000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
           "term": "vocal",
@@ -2939,7 +6945,10 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uox"
+          ]
         },
         {
           "term": "vocation",
@@ -2948,7 +6957,37 @@
           "band": "Mid",
           "band_rank": 4000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "vocabulary",
+          "pos": "noun",
+          "cefr": "A2",
+          "band": "Mid",
+          "band_rank": 5000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "equivocal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 6000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
           "term": "revoke",
@@ -2957,16 +6996,62 @@
           "band": "Mid",
           "band_rank": 7000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
-          "term": "advocate",
+          "term": "vowel",
+          "pos": "noun",
+          "cefr": "B1",
+          "band": "Mid",
+          "band_rank": 7000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uox"
+          ]
+        },
+        {
+          "term": "irrevocable",
+          "pos": "adjective",
+          "cefr": "C2",
+          "band": "Mid",
+          "band_rank": 8000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "evocative",
+          "pos": "adjective",
+          "cefr": null,
+          "band": "Mid",
+          "band_rank": 9000,
+          "band_source": "bnc",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "avow",
           "pos": "verb",
           "cefr": null,
-          "band": "High",
-          "band_rank": 3000,
+          "band": "Low",
+          "band_rank": 10000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
           "term": "vociferous",
@@ -2975,7 +7060,62 @@
           "band": "Low",
           "band_rank": 10000,
           "band_source": "bnc",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uox"
+          ]
+        },
+        {
+          "term": "vouch",
+          "pos": "verb",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 12000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "convocation",
+          "pos": "noun",
+          "cefr": null,
+          "band": "Low",
+          "band_rank": 20000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "advowson",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "avocation",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         },
         {
           "term": "convoke",
@@ -2984,7 +7124,37 @@
           "band": "ít gặp",
           "band_rank": 40000,
           "band_source": "wordfreq~",
-          "relationship": "cognate"
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "equivocate",
+          "pos": "verb",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
+        },
+        {
+          "term": "vocative",
+          "pos": "noun",
+          "cefr": null,
+          "band": "ít gặp",
+          "band_rank": 40000,
+          "band_source": "wordfreq~",
+          "relationship": "cognate",
+          "roots": [
+            "uoco",
+            "uox"
+          ]
         }
       ],
       "excluded": [],
