@@ -1,0 +1,2320 @@
+{
+  "version": "v1",
+  "date": "2026-07-21",
+  "words": [
+    {
+      "term": "form",
+      "ipa": "/ˈfɔɹm/",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "cefr": "A1",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "root",
+            "surface": "form",
+            "origin": "Latin forma",
+            "meaning": "shape, mold, appearance"
+          }
+        ],
+        "sibling_words": [
+          "uniform",
+          "information",
+          "format",
+          "transform",
+          "formula"
+        ],
+        "explanation_en": "The heart of this word is Latin forma, 'shape, mould, appearance' — picture a mould that gives things their shape. The same root hides in uniform (one shape), information (what gives shape to your knowledge), format and transform. From 'shape' it grew into 'a form to fill in' (a page with a ready-made mould for your details) and the verb 'to shape / to form'.",
+        "explanation_vi": "Cốt lõi của từ này nằm ở gốc Latin **_forma_** = \"hình dạng, khuôn, dáng vẻ\" — hãy hình dung một cái khuôn đúc tạo nên hình thù cho mọi thứ. Bạn đã gặp gốc này trong nhiều từ quen: **uniform** (đồng phục — *uni* \"một\" + *form* → \"cùng một dáng\"), **information** (thông tin — cái \"định hình\" hiểu biết trong đầu bạn), **format** (định dạng), **transform** (biến đổi — đổi sang hình dạng khác). Từ nghĩa gốc \"hình dạng\", *form* mở rộng thành \"tờ khai\" (một trang giấy có khuôn sẵn để điền) và động từ \"tạo hình, hình thành\". 👉 Cứ thấy **form** là nghĩ tới \"hình / khuôn — cái tạo nên dáng vẻ của sự vật\".",
+        "explanation_ja": "この単語の核はラテン語 **_forma_**（「形・型・姿」）で、物に形を与える「鋳型」をイメージしてください。すでに知っている **uniform**（制服＝*uni*「一つ」+*form*「形」→「一つの形」）、**information**（情報＝頭の中で知識を「形づくる」もの）、**format**（書式）、**transform**（変形＝別の形へ変える）にも同じ語根が隠れています。「形」という核から、*form* は「記入用紙（あらかじめ枠＝型が用意された紙）」や動詞「形づくる・形成する」へと広がりました。👉 **form** を見たら「形・型」を思い出しましょう。",
+        "memory_hook_vi": "Thấy **form** → nghĩ \"hình dạng / cái khuôn tạo nên dáng vẻ\".",
+        "memory_hook_ja": "**form** を見たら「形・型」を思い出す。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "formal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "following accepted rules or conventions; official"
+        },
+        {
+          "term": "formality",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a formal act or procedure; the state of being formal"
+        },
+        {
+          "term": "format",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the way something is arranged, organized or presented"
+        },
+        {
+          "term": "formation",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the act of forming, or the way something is arranged"
+        },
+        {
+          "term": "formative",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "having a strong influence in shaping development"
+        },
+        {
+          "term": "formula",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a fixed rule or set of symbols; literally a 'little shape'"
+        },
+        {
+          "term": "formulate",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to express or create an idea in a precise form"
+        },
+        {
+          "term": "inform",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to tell someone facts; to give shape to their knowledge"
+        },
+        {
+          "term": "information",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "facts or knowledge given to someone"
+        },
+        {
+          "term": "informal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "relaxed and friendly; not following official rules"
+        },
+        {
+          "term": "transform",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to change something completely into another form"
+        },
+        {
+          "term": "transformation",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a complete change in form or appearance"
+        },
+        {
+          "term": "reform",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to change something to improve it; to re-form it"
+        },
+        {
+          "term": "conform",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to behave according to a shared form, rule or standard"
+        },
+        {
+          "term": "deform",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to spoil or distort the normal shape of something"
+        },
+        {
+          "term": "uniform",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "compound",
+          "meaning": "special clothes of one same form worn by a group"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [],
+      "no_easier_synonym": true,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "an official document with printed spaces where you write information",
+          "meaning_vi": "tờ khai / mẫu đơn có chỗ trống để điền thông tin",
+          "examples": [
+            {
+              "text": "Please fill in this form with your name and address.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "You need to sign the form at the bottom of the page.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "beginner",
+          "meaning": "the shape or appearance of someone or something",
+          "meaning_vi": "hình dạng, dáng vẻ của người hoặc vật",
+          "examples": [
+            {
+              "text": "They made a cake in the form of a heart.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "We could see a dark form moving through the fog.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "beginner",
+          "meaning": "to make something, give it a shape, or begin to exist",
+          "meaning_vi": "tạo thành, hình thành, tạo hình",
+          "examples": [
+            {
+              "text": "The children formed a circle around their teacher.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "Ice began to form on the inside of the window.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "describe",
+      "ipa": "/dɪˈskraɪb/",
+      "pos": [
+        "verb"
+      ],
+      "cefr": "A1",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "prefix",
+            "surface": "de-",
+            "origin": "Latin de-",
+            "meaning": "down"
+          },
+          {
+            "type": "root",
+            "surface": "scrib",
+            "origin": "Latin scrībere",
+            "meaning": "to write"
+          }
+        ],
+        "sibling_words": [
+          "subscribe",
+          "script",
+          "prescription",
+          "manuscript",
+          "description"
+        ],
+        "explanation_en": "The heart of this word is the Latin root scrīb-/script-, 'to write' — picture a hand writing something down. The same root hides in words you use every day: subscribe (originally 'write your name underneath'), script (a written text), prescription (what a doctor 'writes'), manuscript ('written by hand'). The prefix de- means 'down', so describe is to 'write/sketch something down in words' — you use words to draw a picture for the listener.",
+        "explanation_vi": "Gốc rễ của từ này là gốc Latin **_scrīb-/script-_** = \"viết\". Hãy nghĩ tới bàn tay đang viết ra, ghi lại. Gốc này ẩn trong loạt từ bạn dùng hằng ngày: **subscribe** (đăng ký — nút \"Subscribe\" trên YouTube, gốc là \"viết tên mình xuống dưới\"), **script** (kịch bản, chữ viết), **prescription** (đơn thuốc — bác sĩ \"viết ra\"), **manuscript** (bản thảo viết tay). Tiền tố **_de-_** nghĩa \"xuống\", nên *describe* = \"viết / vẽ ra một điều gì đó bằng lời\" — bạn dùng lời nói để \"phác họa\" ra hình ảnh cho người nghe. 👉 Cứ thấy **scrib-/script-** là nghĩ tới \"viết\".",
+        "explanation_ja": "この単語の核はラテン語の語根 **_scrīb-/script-_**（「書く」）で、手が文字を書き記すイメージです。日常でよく使う **subscribe**（登録＝YouTube の「Subscribe」、元は「下に名前を書く」）、**script**（脚本・文字）、**prescription**（処方箋＝医者が「書く」もの）、**manuscript**（手書きの原稿）にも同じ語根が隠れています。接頭辞 **_de-_**「下へ」が付き、*describe* は「言葉で書き出す・描き出す」、つまり言葉で相手の頭に絵を描いてあげることです。👉 **scrib-/script-** を見たら「書く」と思い出しましょう。",
+        "memory_hook_vi": "Thấy **scrib-/script-** → nghĩ \"viết\" (như nút Subscribe).",
+        "memory_hook_ja": "**scrib-/script-** を見たら「書く」（Subscribe と同じ）。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "description",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a spoken or written account of what someone or something is like"
+        },
+        {
+          "term": "descriptive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "describing something, especially in a vivid way"
+        },
+        {
+          "term": "scribe",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a person who copies out documents by hand"
+        },
+        {
+          "term": "script",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the written text of a play or film; handwriting"
+        },
+        {
+          "term": "scripture",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "sacred writings, especially the Bible"
+        },
+        {
+          "term": "prescribe",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to order a medicine or treatment in writing; to lay down officially"
+        },
+        {
+          "term": "prescription",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a doctor's written order for a medicine"
+        },
+        {
+          "term": "subscribe",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to sign up to receive something; literally 'write one's name under'"
+        },
+        {
+          "term": "subscription",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "an arrangement to receive something regularly by paying"
+        },
+        {
+          "term": "inscribe",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to write or carve words on a surface"
+        },
+        {
+          "term": "inscription",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "words written or carved on something"
+        },
+        {
+          "term": "manuscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "compound",
+          "meaning": "a handwritten or author's document; literally 'written by hand'"
+        },
+        {
+          "term": "transcript",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a written copy of spoken words or of a record"
+        },
+        {
+          "term": "postscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "compound",
+          "meaning": "an extra note added after a letter's signature (P.S.)"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [],
+      "no_easier_synonym": true,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "to say what someone or something is like, using words",
+          "meaning_vi": "miêu tả, tả lại bằng lời một người hoặc vật trông/nghe ra sao",
+          "examples": [
+            {
+              "text": "Can you describe the bag you lost?",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "She described her holiday to us in great detail.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "advanced",
+          "meaning": "to move in, or mark out, a particular shape or path (formal, literary)",
+          "meaning_vi": "vạch ra / tạo thành một hình nhất định (cách dùng trang trọng, văn chương)",
+          "examples": [
+            {
+              "text": "The plane described a wide circle before it landed.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "The dancer's arm described a graceful arc in the air.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "photograph",
+      "ipa": "/ˈfoʊtəˌɡɹæf/",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "cefr": "A2",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "root",
+            "surface": "photo",
+            "origin": "Greek phōs/phōtos",
+            "meaning": "light"
+          },
+          {
+            "type": "linking",
+            "surface": "-o-",
+            "origin": "Greek connecting vowel",
+            "meaning": "links the two roots"
+          },
+          {
+            "type": "root",
+            "surface": "graph",
+            "origin": "Greek graphein",
+            "meaning": "to write, to draw"
+          }
+        ],
+        "sibling_words": [
+          "photography",
+          "photocopy",
+          "autograph",
+          "paragraph",
+          "telegraph",
+          "biography"
+        ],
+        "explanation_en": "This word is built from TWO Greek roots: photo- (from phōs/phōtos, 'light') and -graph (from graphein, 'to write, to draw'). Put together it literally means 'to draw with light' — which is exactly how a camera works: light 'draws' the image onto the film or sensor. The 'write' root -graph turns up everywhere you already know: autograph (self-writing = a signature), paragraph, telegraph (writing from afar), biography (life-writing). The 'light' root photo- gives us photography and photocopy.",
+        "explanation_vi": "Từ này ghép từ **HAI gốc Hy Lạp**: **_photo-_** (từ *phōs/phōtos* = \"ánh sáng\") và **_-graph_** (từ *graphein* = \"viết, vẽ\"). Ghép lại, nghĩa đen là **\"vẽ / viết bằng ánh sáng\"** — và đó đúng là cách máy ảnh hoạt động: ánh sáng \"vẽ\" hình ảnh lên phim hoặc cảm biến! Gốc **_-graph_** \"viết\" xuất hiện khắp nơi bạn đã biết: **autograph** (chữ ký — *auto* \"tự\" + viết), **paragraph** (đoạn văn), **telegraph** (điện tín — *tele* \"xa\" + viết → \"viết từ xa\"), **biography** (tiểu sử — *bio* \"đời\" + viết → \"viết về cuộc đời\"). Còn gốc **_photo-_** \"ánh sáng\" cho ta **photography** (nhiếp ảnh) và **photocopy** (bản photo). 👉 Thấy **photo-** nghĩ \"ánh sáng\", thấy **-graph** nghĩ \"viết / vẽ\" → *photograph* = \"viết bằng ánh sáng\".",
+        "explanation_ja": "この単語は**二つのギリシャ語の語根**からできています：**_photo-_**（*phōs/phōtos*「光」）と **_-graph_**（*graphein*「書く・描く」）。直訳すると **「光で描く」**——まさにカメラの仕組みそのもので、光が像をフィルムやセンサーに「描き」ます。「書く」の **_-graph_** は身近な語にたくさん隠れています：**autograph**（サイン＝*auto*「自分」＋書く）、**paragraph**（段落）、**telegraph**（電報＝*tele*「遠い」＋書く＝遠くから書く）、**biography**（伝記＝*bio*「命」＋書く）。「光」の **_photo-_** からは **photography**（写真）や **photocopy**（コピー）が生まれました。👉 **photo-** は「光」、**-graph** は「書く・描く」。*photograph* は「光で描く」。",
+        "memory_hook_vi": "**photo-** = ánh sáng, **-graph** = viết → \"viết bằng ánh sáng\".",
+        "memory_hook_ja": "**photo-**「光」＋ **-graph**「書く」＝「光で描く」。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "photo",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a photograph (short, everyday form of the word)"
+        },
+        {
+          "term": "photography",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the art or practice of taking photographs"
+        },
+        {
+          "term": "photographer",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a person who takes photographs"
+        },
+        {
+          "term": "photographic",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "relating to photography or photographs"
+        },
+        {
+          "term": "photocopy",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "compound",
+          "meaning": "a copy of a document made by a machine using light"
+        },
+        {
+          "term": "graph",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a diagram showing how numbers or quantities relate"
+        },
+        {
+          "term": "graphic",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "relating to visual art; clear and vivid"
+        },
+        {
+          "term": "paragraph",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a section of a piece of writing, made of one or more sentences"
+        },
+        {
+          "term": "autograph",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a famous person's own signature; literally 'self-writing'"
+        },
+        {
+          "term": "telegraph",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "an old system for sending messages far away; 'far-writing'"
+        },
+        {
+          "term": "biography",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the written story of a person's life; 'life-writing'"
+        },
+        {
+          "term": "geography",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the study of the earth's surface; 'earth-writing/describing'"
+        },
+        {
+          "term": "calligraphy",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the art of beautiful handwriting; 'beautiful writing'"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "picture",
+          "cefr": "A1",
+          "note": "more general — any image (drawing, painting or photo), not only a camera photo"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "a picture that you make with a camera",
+          "meaning_vi": "tấm ảnh chụp bằng máy ảnh",
+          "examples": [
+            {
+              "text": "She showed me a photograph of her dog.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "There is an old photograph of my grandmother on the wall.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "beginner",
+          "meaning": "to take a picture of someone or something with a camera",
+          "meaning_vi": "chụp ảnh (ai đó / cái gì đó)",
+          "examples": [
+            {
+              "text": "He photographed the sunset from the top of the hill.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "Tourists love to photograph the old stone bridge.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "produce",
+      "ipa": "/prəˈdus/ (verb), /ˈproʊdus/ (noun)",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "cefr": "A2",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "prefix",
+            "surface": "pro-",
+            "origin": "Latin prō-",
+            "meaning": "forth, forward"
+          },
+          {
+            "type": "root",
+            "surface": "duc-/duct-",
+            "origin": "Latin dūcere",
+            "meaning": "to lead, bring"
+          }
+        ],
+        "sibling_words": [
+          "conduct",
+          "introduce",
+          "reduce",
+          "educate",
+          "aqueduct",
+          "conductor"
+        ],
+        "explanation_en": "The heart of produce is the Latin root duc-/duct- (from dūcere, \"to lead\"). You already know it in conduct (lead together), introduce (lead someone in), reduce (lead back/down) and educate (lead knowledge out). The prefix pro- means \"forward\", so produce = \"to lead forward\" — to bring something forth into existence. See duc-/duct- → think \"lead\".",
+        "explanation_vi": "Chìa khoá của từ này là gốc Latin **_dūcere_** (duc-/duct-), nghĩa là \"dẫn dắt, đưa đi\". Bạn đã gặp gốc này trong nhiều từ quen thuộc: **conduct** (chỉ huy — cùng *dẫn dắt*), **introduce** (giới thiệu — *dẫn* ai đó *vào*), **reduce** (giảm — *dẫn lùi* lại), **educate** (giáo dục — *dẫn* trí tuệ *ra ngoài*), thậm chí **aqueduct** (cầu máng — đường *dẫn* nước). Tiền tố **_pro-_** nghĩa là \"về phía trước\", nên *produce* = \"dẫn ra phía trước\" → đưa một thứ gì đó *ra đời*, tạo ra. 👉 Cứ thấy **duc-/duct-** là nghĩ ngay tới \"dẫn, đưa đi\".",
+        "explanation_ja": "この単語の核はラテン語の語根 **_dūcere_**（duc-/duct-）で、「導く・連れて行く」というイメージを持ちます。すでに知っている **conduct**（指揮する＝共に導く）、**introduce**（紹介する＝中へ導き入れる）、**reduce**（減らす＝後ろへ導く）、**educate**（教育する＝内なる力を外へ導き出す）、さらに **aqueduct**（水道橋＝水を導く道）にも同じ語根が隠れています。接頭辞 **_pro-_** が「前へ」という方向を添え、全体で「前へ導き出す」＝何かを世に生み出す、という意味になります。👉 **duc-/duct-** を見たら「導く」と思い出しましょう。",
+        "memory_hook_vi": "Thấy **duc-/duct-** → nghĩ \"dẫn, đưa\": pro-duce = dẫn ra phía trước = tạo ra.",
+        "memory_hook_ja": "**duc-/duct-** を見たら「導く」。pro-（前へ）+ duce（導く）＝生み出す。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "product",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a thing that is made or grown to be sold"
+        },
+        {
+          "term": "production",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the process of making or growing something"
+        },
+        {
+          "term": "productive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "making a lot of something; getting good results"
+        },
+        {
+          "term": "productivity",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "how much work or output is produced"
+        },
+        {
+          "term": "producer",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a person or company that makes something"
+        },
+        {
+          "term": "reproduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to make a copy; to have young"
+        },
+        {
+          "term": "byproduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "compound",
+          "meaning": "something extra produced while making another thing"
+        },
+        {
+          "term": "conduct",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to lead, carry out, or guide"
+        },
+        {
+          "term": "conductor",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a person who leads an orchestra; a material that carries electricity"
+        },
+        {
+          "term": "reduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to make something smaller or less"
+        },
+        {
+          "term": "introduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to present someone or something for the first time"
+        },
+        {
+          "term": "deduce",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to work something out by reasoning"
+        },
+        {
+          "term": "induce",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to cause or persuade something to happen"
+        },
+        {
+          "term": "aqueduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a channel or bridge that carries water"
+        },
+        {
+          "term": "viaduct",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a long bridge that carries a road or railway"
+        },
+        {
+          "term": "educate",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to teach; to lead out knowledge and skill"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "make",
+          "cefr": "A1",
+          "note": "the everyday word for creating goods or things"
+        },
+        {
+          "term": "grow",
+          "cefr": "A1",
+          "note": "for food and crops, e.g. 'this farm grows rice'"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "to make goods in a factory, or to grow food and other things",
+          "meaning_vi": "sản xuất (làm ra hàng hóa) hoặc trồng ra (nông sản)",
+          "examples": [
+            {
+              "text": "The factory produces about a thousand cars every week.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "This region produces some of the best coffee in the world.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "intermediate",
+          "meaning": "to cause a particular result, reaction, or effect",
+          "meaning_vi": "gây ra, tạo ra (một kết quả, phản ứng)",
+          "examples": [
+            {
+              "text": "Her honest answer produced a surprised reaction from everyone.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "intermediate",
+          "meaning": "to bring something out so it can be seen or used",
+          "meaning_vi": "lấy ra, trình ra (cho người khác thấy)",
+          "examples": [
+            {
+              "text": "He reached into his bag and produced a small gift.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "beginner",
+          "meaning": "(noun) fresh fruit and vegetables grown on farms",
+          "meaning_vi": "(danh từ) nông sản tươi (rau củ quả)",
+          "examples": [
+            {
+              "text": "The market sells fresh local produce every Saturday morning.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "predict",
+      "ipa": "/prɪˈdɪkt/",
+      "pos": [
+        "verb"
+      ],
+      "cefr": "A2",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "prefix",
+            "surface": "pre-",
+            "origin": "Latin prae-",
+            "meaning": "before"
+          },
+          {
+            "type": "root",
+            "surface": "dic-/dict-",
+            "origin": "Latin dīcere",
+            "meaning": "to say, tell"
+          }
+        ],
+        "sibling_words": [
+          "dictionary",
+          "dictate",
+          "contradict",
+          "verdict",
+          "dictator"
+        ],
+        "explanation_en": "The root dic-/dict- (from Latin dīcere, \"to say, tell\") is about spoken words. You know it in dictionary (a book of words and their sayings), dictate (say words aloud for someone to write) and contradict (say the opposite). The prefix pre- means \"before\", so predict = \"to say beforehand\" — to tell what will happen before it happens. See dict- → think \"say/tell\".",
+        "explanation_vi": "Hãy nhìn vào gốc Latin **_dīcere_** (dic-/dict-), nghĩa là \"nói, phát ngôn\". Bạn đã gặp gốc này trong những từ quen thuộc: **dictionary** (từ điển — kho các *lời*, các từ), **dictate** (đọc cho người khác chép — *nói* ra), **contradict** (mâu thuẫn — *nói* ngược lại), **verdict** (phán quyết — *lời* tuyên của tòa). Tiền tố **_pre-_** nghĩa là \"trước\", nên *predict* = \"nói trước\" → nói ra điều gì sẽ xảy ra *trước khi* nó xảy ra. 👉 Cứ thấy **dict-** là nghĩ ngay tới \"nói, lời\".",
+        "explanation_ja": "この単語の核はラテン語の語根 **_dīcere_**（dic-/dict-）で、「言う・告げる」というイメージを持ちます。すでに知っている **dictionary**（辞書＝言葉の集まり）、**dictate**（書き取らせる＝口で言う）、**contradict**（矛盾する＝反対のことを言う）、**verdict**（評決＝法廷の言葉）にも同じ語根が隠れています。接頭辞 **_pre-_** が「前に」という意味を添え、全体で「前もって言う」＝これから起こることを先に告げる、という意味になります。👉 **dict-** を見たら「言う・言葉」と思い出しましょう。",
+        "memory_hook_vi": "Thấy **dict-** → nghĩ \"nói, lời\": pre-dict = nói trước = dự đoán.",
+        "memory_hook_ja": "**dict-** を見たら「言う」。pre-（前に）+ dict（言う）＝予言・予測。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "prediction",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a statement about what will happen"
+        },
+        {
+          "term": "predictable",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "able to be known or expected in advance"
+        },
+        {
+          "term": "predictably",
+          "pos": "adverb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "in a way that was expected"
+        },
+        {
+          "term": "unpredictable",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "not able to be foreseen; changeable"
+        },
+        {
+          "term": "predictor",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a thing that helps forecast an outcome"
+        },
+        {
+          "term": "dictate",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to say words aloud to be written; to give orders"
+        },
+        {
+          "term": "dictation",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the act of saying words for someone to write down"
+        },
+        {
+          "term": "dictator",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a ruler with total power"
+        },
+        {
+          "term": "dictionary",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a book that lists words and their meanings"
+        },
+        {
+          "term": "contradict",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to say the opposite of; to deny"
+        },
+        {
+          "term": "verdict",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the decision of a jury or judge"
+        },
+        {
+          "term": "indicate",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to show or point something out"
+        },
+        {
+          "term": "dedicate",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to give or set apart for a special purpose"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "guess",
+          "cefr": "A1",
+          "note": "everyday word for saying what you think will happen; less certain than predict"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "to say that something will happen before it happens",
+          "meaning_vi": "dự đoán, nói trước điều sẽ xảy ra",
+          "examples": [
+            {
+              "text": "The weather app predicts rain for tomorrow afternoon.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "No one can really predict the future.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "intermediate",
+          "meaning": "to say what will happen based on knowledge, data, or experience",
+          "meaning_vi": "dự đoán (dựa trên hiểu biết, dữ liệu hoặc kinh nghiệm)",
+          "examples": [
+            {
+              "text": "Experts predict that prices will keep rising next year.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "transport",
+      "ipa": "/trænˈspɔɹt/ (verb), /ˈtrænspɔɹt/ (noun)",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "cefr": "B1",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "prefix",
+            "surface": "trans-",
+            "origin": "Latin trans-",
+            "meaning": "across, over"
+          },
+          {
+            "type": "root",
+            "surface": "port-",
+            "origin": "Latin portāre",
+            "meaning": "to carry"
+          }
+        ],
+        "sibling_words": [
+          "import",
+          "export",
+          "portable",
+          "report",
+          "support"
+        ],
+        "explanation_en": "The root port- (from Latin portāre, \"to carry\") is all about carrying. You already know it in portable (able to be carried), import (carry in), export (carry out) and report (carry news back). The prefix trans- means \"across\", so transport = \"to carry across\" — to move people or goods from one place to another. See port- → think \"carry\".",
+        "explanation_vi": "Từ này lớn lên từ gốc Latin **_portāre_** (port-), nghĩa là \"mang, khuân, chở\". Bạn đã gặp gốc này trong những từ quen thuộc: **portable** (xách tay — có thể *mang* đi), **import** (nhập khẩu — *chở* hàng *vào*), **export** (xuất khẩu — *chở* hàng *ra*), **report** (báo cáo — *mang* tin tức *trở về*). Tiền tố **_trans-_** nghĩa là \"băng qua, từ bên này sang bên kia\", nên *transport* = \"chở băng qua\" → đưa người hoặc hàng hóa từ nơi này sang nơi khác. 👉 Cứ thấy **port-** là nghĩ ngay tới \"mang, chở\".",
+        "explanation_ja": "この単語の核はラテン語の語根 **_portāre_**（port-）で、「運ぶ・持ち運ぶ」というイメージを持ちます。すでに知っている **portable**（携帯できる＝運べる）、**import**（輸入＝中へ運ぶ）、**export**（輸出＝外へ運ぶ）、**report**（報告＝知らせを持ち帰る）にも同じ語根が隠れています。接頭辞 **_trans-_** が「横切って・向こうへ」という意味を添え、全体で「越えて運ぶ」＝人や物をある場所から別の場所へ運ぶ、という意味になります。👉 **port-** を見たら「運ぶ」と思い出しましょう。",
+        "memory_hook_vi": "Thấy **port-** → nghĩ \"mang, chở\": trans-port = chở băng qua = vận chuyển.",
+        "memory_hook_ja": "**port-** を見たら「運ぶ」。trans-（越えて）+ port（運ぶ）＝輸送。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "transportation",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the act or system of moving people or goods"
+        },
+        {
+          "term": "transporter",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a vehicle or device that carries things"
+        },
+        {
+          "term": "portable",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "light and easy to carry or move"
+        },
+        {
+          "term": "portability",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the quality of being easy to carry"
+        },
+        {
+          "term": "export",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to send goods out to another country"
+        },
+        {
+          "term": "import",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to bring goods in from another country"
+        },
+        {
+          "term": "report",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "an account of something carried back to others"
+        },
+        {
+          "term": "support",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to hold up or carry the weight of something"
+        },
+        {
+          "term": "deport",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to force someone to leave a country"
+        },
+        {
+          "term": "portfolio",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a case for carrying papers; a collection of work"
+        },
+        {
+          "term": "porter",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a person whose job is to carry luggage"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "carry",
+          "cefr": "A1",
+          "note": "to hold and move something"
+        },
+        {
+          "term": "move",
+          "cefr": "A1",
+          "note": "to take something from one place to another"
+        },
+        {
+          "term": "take",
+          "cefr": "A1",
+          "note": "everyday: 'take' someone or something somewhere"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "to move people or goods from one place to another",
+          "meaning_vi": "vận chuyển, chở (người hoặc hàng hóa)",
+          "examples": [
+            {
+              "text": "Trucks transport fresh food to the city every night.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "Buses transport thousands of people every day.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "beginner",
+          "meaning": "(noun) a system or way of travelling and moving goods, such as buses, trains, and cars",
+          "meaning_vi": "(danh từ) phương tiện/hệ thống giao thông vận tải",
+          "examples": [
+            {
+              "text": "Public transport in the city is cheap and reliable.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "advanced",
+          "meaning": "to fill someone with a strong feeling, or carry them in imagination to another place or time",
+          "meaning_vi": "(nghĩa bóng) cuốn ai đó vào một cảm xúc mạnh; đưa tâm trí về nơi/thời điểm khác",
+          "examples": [
+            {
+              "text": "The old song transported her straight back to her childhood.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "construct",
+      "ipa": "/kənˈstrʌkt/ (verb), /ˈkɑnstrʌkt/ (noun)",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "cefr": "B1",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "prefix",
+            "surface": "con-",
+            "origin": "Latin com-",
+            "meaning": "together"
+          },
+          {
+            "type": "root",
+            "surface": "struct-/stru-",
+            "origin": "Latin struere (pp. structus)",
+            "meaning": "to pile up, build"
+          }
+        ],
+        "sibling_words": [
+          "structure",
+          "construction",
+          "destroy",
+          "instruct",
+          "infrastructure"
+        ],
+        "explanation_en": "The heart of this word is the Latin root struct-/stru- (from struere, 'to pile up, build') — picture bricks and layers stacked up to form a whole. You already meet it in structure (how parts are built up), construction, destroy (de- 'reverse' + build = tear down what was built), and instruct (as if 'building' knowledge into someone). The prefix con- means 'together', so construct = gather the parts and build them up together.",
+        "explanation_vi": "Nằm ở lõi từ là gốc Latin **_struct-/stru-_** (từ *struere* = \"xếp chồng, dựng lên\"), mang hình ảnh xếp từng viên gạch, từng tầng chồng lên nhau để tạo thành một khối hoàn chỉnh. Gốc này ẩn trong nhiều từ bạn đã quen: **structure** (cấu trúc — cách các phần được *dựng* lên), **construction** (công trình xây dựng), **destroy** (phá hủy — *de-* \"ngược lại\" + dựng → \"tháo dỡ cái đã dựng\"), **instruct** (chỉ dạy — như \"dựng\" kiến thức vào trong đầu ai đó). Tiền tố **_con-_** nghĩa là \"cùng nhau\", nên *construct* = \"gom các phần lại rồi dựng chúng lên cùng nhau\". 👉 Cứ thấy **struct-** là nghĩ tới \"xây, dựng lên\".",
+        "explanation_ja": "この単語の核はラテン語の語根 **_struct-/stru-_**（*struere*「積み上げる・建てる」から）で、レンガを一段ずつ積み重ねて一つの形をつくるイメージを持ちます。すでに知っている **structure**（構造＝部品がどう積み上げられているか）、**construction**（建設）、**destroy**（破壊する＝*de-*「逆」＋積み上げる→「築いたものを崩す」）、**instruct**（教える＝知識を人の中に「築く」）にも同じ語根が隠れています。接頭辞 **_con-_** は「一緒に」を表し、全体で「部品を寄せ集めて一緒に組み立てる」という意味になります。👉 **struct-** を見たら「築く・組み立てる」と思い出しましょう。",
+        "memory_hook_vi": "Thấy **struct-** → nghĩ \"xây / dựng lên\".",
+        "memory_hook_ja": "**struct-** を見たら「築く・建てる」。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "construction",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the act or process of building; a building being built"
+        },
+        {
+          "term": "constructive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "helpful and aimed at building or improving something"
+        },
+        {
+          "term": "constructor",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a person or thing that constructs something"
+        },
+        {
+          "term": "reconstruct",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to build or put together again"
+        },
+        {
+          "term": "reconstruction",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the act of building or forming something again"
+        },
+        {
+          "term": "structure",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the way parts are arranged or built together"
+        },
+        {
+          "term": "structural",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "relating to the structure of something"
+        },
+        {
+          "term": "instruct",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to teach or give someone directions"
+        },
+        {
+          "term": "instruction",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a direction or order; the act of teaching"
+        },
+        {
+          "term": "destroy",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to ruin or tear something down completely"
+        },
+        {
+          "term": "destruction",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the act of destroying; complete ruin"
+        },
+        {
+          "term": "obstruct",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to block or get in the way of something"
+        },
+        {
+          "term": "infrastructure",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "compound",
+          "meaning": "the basic physical systems built for a society (roads, power, water)"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "build",
+          "cefr": "A1",
+          "note": "closest everyday word for the physical sense"
+        },
+        {
+          "term": "make",
+          "cefr": "A1",
+          "note": "more general; works for building things and ideas"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "to build something by putting parts together",
+          "meaning_vi": "xây, lắp dựng (ghép các phần lại với nhau)",
+          "examples": [
+            {
+              "text": "They plan to construct a new bridge across the river.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "It took us the whole weekend to construct the bookshelf.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "advanced",
+          "meaning": "to form something abstract, such as an argument or idea, by putting parts together; (noun) an idea built in the mind rather than existing in nature",
+          "meaning_vi": "dựng nên (lập luận, ý tưởng); (danh từ) khái niệm do trí óc tạo ra chứ không có sẵn trong tự nhiên",
+          "examples": [
+            {
+              "text": "She carefully constructed her argument point by point.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "Money is a social construct that works only because we all agree on it.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "visible",
+      "ipa": "/ˈvɪzəbəl/",
+      "pos": [
+        "adjective"
+      ],
+      "cefr": "B1",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "root",
+            "surface": "vis-/vid-",
+            "origin": "Latin vidēre (pp. vīsus)",
+            "meaning": "to see; seen"
+          },
+          {
+            "type": "suffix",
+            "surface": "-ible",
+            "origin": "Latin -ibilis",
+            "meaning": "able to be"
+          }
+        ],
+        "sibling_words": [
+          "vision",
+          "video",
+          "visual",
+          "television",
+          "evident"
+        ],
+        "explanation_en": "The heart of this word is the Latin root vis-/vid- (from vidēre, 'to see') — a picture of an eye catching sight of something. It hides in dozens of familiar words: vision, video (a thing to watch), visual, television (tele- 'far' + vision = seeing from a distance), and evident (what everyone can plainly see). The suffix -ible means 'able to be', so visible = able to be seen.",
+        "explanation_vi": "Bí mật của từ này nằm ở gốc Latin **_vis-/vid-_** (từ *vidēre* = \"nhìn, thấy\"), mang hình ảnh con mắt đang trông thấy một điều gì đó. Gốc này ẩn trong vô số từ bạn đã quen: **vision** (tầm nhìn), **video** (thứ để *xem*), **visual** (thuộc về thị giác), **television** (*tele-* \"xa\" + *vision* → \"nhìn từ xa\"), **evident** (hiển nhiên — điều ai cũng thấy rõ). Hậu tố **_-ible_** nghĩa là \"có thể được\", nên *visible* = \"có thể được nhìn thấy\". 👉 Cứ thấy **vis-/vid-** là nghĩ tới \"nhìn, thấy\".",
+        "explanation_ja": "この単語の核はラテン語の語根 **_vis-/vid-_**（*vidēre*「見る」から）で、目が何かを見ている情景を表します。この語根は身近な多くの語に隠れています：**vision**（視覚・展望）、**video**（「見る」ためのもの）、**visual**（視覚の）、**television**（*tele-*「遠く」＋*vision*→「遠くを見る」）、**evident**（明白な＝誰の目にも見える）。接尾辞 **_-ible_** は「〜できる」を表し、全体で「見ることができる」という意味になります。👉 **vis-/vid-** を見たら「見る」と思い出しましょう。",
+        "memory_hook_vi": "Thấy **vis-/vid-** → nghĩ \"nhìn, thấy\".",
+        "memory_hook_ja": "**vis-/vid-** を見たら「見る」。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "visibility",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the state of being visible; how far one can see"
+        },
+        {
+          "term": "visibly",
+          "pos": "adverb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "in a way that can be clearly seen"
+        },
+        {
+          "term": "invisible",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "not able to be seen"
+        },
+        {
+          "term": "invisibility",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the state of being impossible to see"
+        },
+        {
+          "term": "vision",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the ability to see; a mental image of the future"
+        },
+        {
+          "term": "visual",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "relating to seeing or to the eyes"
+        },
+        {
+          "term": "visually",
+          "pos": "adverb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "in a way relating to sight"
+        },
+        {
+          "term": "visualize",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to form a mental picture of something"
+        },
+        {
+          "term": "visor",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a stiff shield on a cap or helmet that protects the eyes"
+        },
+        {
+          "term": "video",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "recorded moving images to watch (Latin 'I see')"
+        },
+        {
+          "term": "evident",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "clear and easy to see or understand"
+        },
+        {
+          "term": "evidence",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "facts that show something is true"
+        },
+        {
+          "term": "provide",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to supply what is needed (pro- 'ahead' + see = to see to in advance)"
+        },
+        {
+          "term": "review",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to look at or examine something again"
+        },
+        {
+          "term": "supervise",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to oversee and watch over work or people"
+        },
+        {
+          "term": "television",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a device for seeing images sent from far away"
+        },
+        {
+          "term": "envision",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to imagine or picture something in the mind"
+        },
+        {
+          "term": "vista",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a wide, pleasing view of a scene"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "clear",
+          "cefr": "A2",
+          "note": "only overlaps in the 'easy to see / notice' sense; usually means transparent or easy to understand, so an imperfect match"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "able to be seen",
+          "meaning_vi": "có thể nhìn thấy được",
+          "examples": [
+            {
+              "text": "The stars are visible on a clear night.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "A small scar is still visible on his hand.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "intermediate",
+          "meaning": "easy to notice; obvious",
+          "meaning_vi": "dễ nhận thấy, rõ ràng",
+          "examples": [
+            {
+              "text": "She made no visible effort to hide her boredom.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "There has been a visible improvement in his health.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "manufacture",
+      "ipa": "/ˌmænjəˈfæktʃər/",
+      "pos": [
+        "noun",
+        "verb"
+      ],
+      "cefr": "B2",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "root",
+            "surface": "manu-",
+            "origin": "Latin manus",
+            "meaning": "hand"
+          },
+          {
+            "type": "root",
+            "surface": "fact-/fac-",
+            "origin": "Latin facere (pp. factus)",
+            "meaning": "to make, do"
+          },
+          {
+            "type": "suffix",
+            "surface": "-ure",
+            "origin": "Latin -ūra",
+            "meaning": "the act or process of"
+          }
+        ],
+        "sibling_words": [
+          "manual",
+          "manuscript",
+          "factory",
+          "fact",
+          "effect"
+        ],
+        "explanation_en": "This word joins two Latin roots at once: manu- (from manus, 'hand') and fact-/fac- (from facere, 'to make'). Put together, the original meaning is literally 'to make by hand' — a craftsman shaping goods with his own hands before machines existed. You meet manu- in manual (by hand; a handbook), manuscript (handwritten), and manage (originally to handle a horse by hand); and fact-/fac- in factory (a place that makes things), fact (a thing done), effect (a result), and perfect (thoroughly made).",
+        "explanation_vi": "Từ này ghép hai gốc Latin cùng một lúc: **_manu-_** (từ *manus* = \"bàn tay\") và **_fact-/fac-_** (từ *facere* = \"làm, tạo ra\"). Ghép lại, nghĩa gốc đúng nghĩa là \"làm bằng tay\" — hình ảnh người thợ dùng chính đôi tay mình tạo ra sản phẩm, từ thời chưa có máy móc. Gốc **manu-** bạn đã gặp ở **manual** (bằng tay; sách hướng dẫn), **manuscript** (bản viết tay), **manage** (điều khiển — vốn là \"dắt ngựa bằng tay\"). Gốc **fact-/fac-** ẩn trong **factory** (nhà máy — nơi *làm* ra đồ), **fact** (sự thật — điều đã được *làm ra*), **effect** (kết quả), **perfect** (hoàn hảo — \"làm cho trọn vẹn\"). 👉 **manu-** = tay, **fac-/fact-** = làm → \"làm bằng tay\" → sản xuất.",
+        "explanation_ja": "この語はラテン語の二つの語根を同時に含みます：**_manu-_**（*manus*「手」）と **_fact-/fac-_**（*facere*「作る・する」）。合わせると本来の意味は文字どおり「手で作る」——機械が生まれる前、職人が自分の手で品物を作り出す情景です。**manu-** は **manual**（手動の・手引書）、**manuscript**（手書き原稿）、**manage**（扱う＝もとは「手で馬を御す」）に見られます。**fact-/fac-** は **factory**（工場＝物を作る場所）、**fact**（事実＝作られたこと）、**effect**（結果）、**perfect**（完全な＝「すっかり作り上げた」）に隠れています。👉 **manu-**＝手、**fac-/fact-**＝作る →「手で作る」→ 製造する。",
+        "memory_hook_vi": "**manu-** = tay, **fac-/fact-** = làm → \"làm bằng tay\".",
+        "memory_hook_ja": "**manu-**＝手、**fac-/fact-**＝作る →「手で作る」。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "manufacturer",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a company or person that makes goods in large quantities"
+        },
+        {
+          "term": "manufacturing",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the business or process of making goods on a large scale"
+        },
+        {
+          "term": "manual",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "done with the hands; also a book of instructions"
+        },
+        {
+          "term": "manuscript",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a handwritten or typed text, especially before printing"
+        },
+        {
+          "term": "manage",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to control or handle something (originally to handle a horse)"
+        },
+        {
+          "term": "manipulate",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to handle or control skillfully, often cleverly"
+        },
+        {
+          "term": "maintain",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to keep something in good condition (Latin 'hold in the hand')"
+        },
+        {
+          "term": "factory",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a building where goods are made"
+        },
+        {
+          "term": "fact",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "something known to be true; a thing done"
+        },
+        {
+          "term": "factor",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "one of the things that makes a result happen"
+        },
+        {
+          "term": "effect",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a result produced by a cause (ex- 'out' + make)"
+        },
+        {
+          "term": "perfect",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "complete and without fault (per- 'thoroughly' + made)"
+        },
+        {
+          "term": "benefit",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "an advantage or good result (bene 'well' + do)"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "make",
+          "cefr": "A1",
+          "note": "most general everyday word"
+        },
+        {
+          "term": "produce",
+          "cefr": "A2",
+          "note": "closest match for making goods, often in a factory"
+        },
+        {
+          "term": "build",
+          "cefr": "A1",
+          "note": "fits when the product is a structure or large object"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "intermediate",
+          "meaning": "to make goods in large quantities, usually using machines in a factory",
+          "meaning_vi": "sản xuất (hàng loạt, thường bằng máy trong nhà máy)",
+          "examples": [
+            {
+              "text": "The company manufactures parts for aircraft.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "These toys are manufactured in several different countries.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "intermediate",
+          "meaning": "(noun) the process of making goods, especially in large numbers",
+          "meaning_vi": "(danh từ) sự sản xuất, quá trình chế tạo",
+          "examples": [
+            {
+              "text": "The manufacture of steel uses huge amounts of energy.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "advanced",
+          "meaning": "to invent something false, such as a story or an excuse",
+          "meaning_vi": "bịa ra, dựng chuyện (nghĩa xấu)",
+          "examples": [
+            {
+              "text": "He manufactured an excuse to leave the party early.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "pose",
+      "ipa": "/poʊz/",
+      "pos": [
+        "verb",
+        "noun"
+      ],
+      "cefr": "B2",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "root",
+            "surface": "pos-/pon-",
+            "origin": "Latin pōnere (past participle positus)",
+            "meaning": "to place, to put"
+          }
+        ],
+        "sibling_words": [
+          "position",
+          "propose",
+          "compose",
+          "expose",
+          "deposit"
+        ],
+        "explanation_en": "The heart of pose is the Latin root pos-/pon- (from pōnere, 'to place, put'). You already meet it in position (where a thing is placed), propose (to put an idea forward), compose (to put parts together) and expose (to put something out into view). So 'pose a question' means to put a question forward, and 'pose for a photo' means to place your body in a set position. See pos-/pon- → think 'place, put'.",
+        "explanation_vi": "Cốt lõi của *pose* là gốc Latin **pos-/pon-** (từ động từ *pōnere* = 'đặt, để'), mang hình ảnh 'đặt một cái gì đó vào đúng chỗ'. Gốc này ẩn trong loạt từ bạn đã quen: **position** (vị trí — nơi vật được *đặt*), **propose** (đề xuất — *đặt* ý tưởng ra trước mọi người), **compose** (soạn, ghép — *đặt* nhiều phần lại với nhau), **expose** (phơi bày — *đặt* ra ngoài cho ai cũng thấy). Vì thế *pose a question* = 'đặt ra một câu hỏi', còn *pose for a photo* = 'đặt (giữ) cơ thể ở một tư thế'. 👉 Cứ thấy **pos-/pon-** là nghĩ ngay tới 'đặt, để'.",
+        "explanation_ja": "この単語の核はラテン語の語根 **pos-/pon-**（*pōnere*「置く・据える」から）で、「何かをある場所に置く」というイメージを持ちます。すでに知っている **position**（位置＝物が置かれる場所）、**propose**（提案する＝考えを前に置く）、**compose**（組み立てる＝部分を組み合わせて置く）、**expose**（さらす＝外に置いて見せる）にも同じ語根が隠れています。だから *pose a question* は「質問を前に置く＝投げかける」、*pose for a photo* は「体をある姿勢に置く」という意味になります。👉 **pos-/pon-** を見たら「置く」と思い出しましょう。",
+        "memory_hook_vi": "Thấy pos-/pon- → nghĩ 'đặt, để' (position, propose, compose).",
+        "memory_hook_ja": "pos-/pon- を見たら「置く」（position, propose, compose）。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "position",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the place where something is put; where a thing or person is"
+        },
+        {
+          "term": "positive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "firmly laid down, hence certain, sure, or hopeful"
+        },
+        {
+          "term": "propose",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to put an idea or plan forward for others to consider"
+        },
+        {
+          "term": "proposal",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "a plan or suggestion that has been put forward"
+        },
+        {
+          "term": "compose",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to put parts together; to write music or text"
+        },
+        {
+          "term": "composition",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the way parts are put together; a written or musical work"
+        },
+        {
+          "term": "component",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "one of the parts placed together to make a whole"
+        },
+        {
+          "term": "expose",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to put something out into view; to reveal"
+        },
+        {
+          "term": "exposure",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the state of being put out to view, weather, or risk"
+        },
+        {
+          "term": "impose",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to put a rule, tax, or burden onto someone"
+        },
+        {
+          "term": "oppose",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to set oneself against something; to resist"
+        },
+        {
+          "term": "opponent",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "a person placed against you in a game or argument"
+        },
+        {
+          "term": "suppose",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to assume; to put forward as probably true"
+        },
+        {
+          "term": "dispose",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "to arrange or place; (of) to get rid of"
+        },
+        {
+          "term": "deposit",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "money or matter that is put down and stored"
+        },
+        {
+          "term": "postpone",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to put something off until a later time"
+        },
+        {
+          "term": "purpose",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the aim you put before yourself; the reason for doing something"
+        },
+        {
+          "term": "posture",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the position in which you hold your body"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "ask",
+          "cefr": "A1",
+          "note": "for 'pose a question' — the everyday word"
+        },
+        {
+          "term": "raise",
+          "cefr": "A2",
+          "note": "for 'pose a question / problem' — to bring it up"
+        },
+        {
+          "term": "sit",
+          "cefr": "A1",
+          "note": "for 'pose for a photo' — you can sit (or stand) for a picture"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "beginner",
+          "meaning": "To hold a particular position so that someone can photograph, film, or paint you.",
+          "meaning_vi": "Tạo dáng, giữ một tư thế để người khác chụp ảnh hoặc vẽ.",
+          "examples": [
+            {
+              "text": "They posed for a family photo in front of the house.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "The model posed patiently while the artist sketched her.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "intermediate",
+          "meaning": "To present or put forward something such as a question, problem, or threat.",
+          "meaning_vi": "Đưa ra, nêu ra (câu hỏi, vấn đề, mối đe dọa).",
+          "examples": [
+            {
+              "text": "The teacher posed a difficult question to the whole class.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "Heavy rain can pose a serious threat to old wooden bridges.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "intermediate",
+          "meaning": "A particular position in which someone stands or sits, especially for a picture.",
+          "meaning_vi": "Tư thế, dáng (nhất là khi chụp ảnh hoặc làm mẫu).",
+          "examples": [
+            {
+              "text": "She held the same pose for almost an hour.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    },
+    {
+      "term": "diminish",
+      "ipa": "/dɪˈmɪnɪʃ/",
+      "pos": [
+        "verb"
+      ],
+      "cefr": "C1",
+      "cefr_source": "CEFR-J v1.6 (+ chọn tay cho C1)",
+      "frequency_band": null,
+      "frequency_rank": null,
+      "frequency_source": null,
+      "word_root": {
+        "components": [
+          {
+            "type": "prefix",
+            "surface": "di-",
+            "origin": "Latin dī-/dis- (in diminuere)",
+            "meaning": "apart, down — here it intensifies the 'lessening'"
+          },
+          {
+            "type": "root",
+            "surface": "minu-",
+            "origin": "Latin minuere, from minus 'less'",
+            "meaning": "to make smaller, to lessen"
+          },
+          {
+            "type": "suffix",
+            "surface": "-ish",
+            "origin": "via Old French -iss-, from Latin -iscere",
+            "meaning": "verb-forming ending"
+          }
+        ],
+        "sibling_words": [
+          "minus",
+          "minimum",
+          "minor",
+          "minute"
+        ],
+        "explanation_en": "The heart of diminish is the Latin root minu- (from minus, 'less'), carrying the image of making something smaller or fewer. You already meet it in minus (the take-away sign), minimum (the smallest amount), minor (small, lesser), minute (a tiny slice of time). The prefix di- (from dis-) adds a downward, step-by-step sense and -ish makes it a verb, so diminish = to make (or grow) steadily smaller or less. See min-/minu- → think 'small, less'.",
+        "explanation_vi": "Gốc rễ của *diminish* là gốc Latin **minu-** (từ *minus* = 'ít hơn'), mang hình ảnh 'làm cho nhỏ lại, ít đi'. Gốc này ẩn trong hàng loạt từ bạn đã quen: **minus** (dấu trừ, bớt đi), **minimum** (mức nhỏ nhất), **minor** (nhỏ, thứ yếu), **minute** (phút — một mẩu thời gian tí xíu). Tiền tố **di-** (từ *dis-*) thêm hướng 'đi xuống, giảm dần', còn đuôi **-ish** biến nó thành động từ. Ghép lại, *diminish* = 'khiến cái gì đó cứ nhỏ/ít dần đi từng chút một'. 👉 Thấy **min-/minu-** là nghĩ ngay 'nhỏ, ít'.",
+        "explanation_ja": "*diminish* の核はラテン語の語根 **minu-**（*minus*「より少ない」から）で、「小さく・少なくする」というイメージを持ちます。この語根は、あなたがすでに知っている **minus**（マイナス）、**minimum**（最小）、**minor**（小さい・重要でない）、**minute**（分＝ごく小さな時間）にも隠れています。接頭辞 **di-**（dis- から）が「下へ・だんだん減る」方向を加え、接尾辞 **-ish** が動詞に変えます。全体で「少しずつ小さく・少なくしていく」という意味になります。👉 **min-/minu-** を見たら「小さい・少ない」と思い出しましょう。",
+        "memory_hook_vi": "Thấy min-/minu- → nghĩ 'nhỏ, ít' (minus, minimum, minor).",
+        "memory_hook_ja": "min-/minu- を見たら「小さい・少ない」（minus, minimum, minor）。"
+      },
+      "word_family": null,
+      "family_flat": [
+        {
+          "term": "diminution",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "the act of making or becoming smaller; a reduction"
+        },
+        {
+          "term": "diminutive",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "derivative",
+          "meaning": "extremely small; tiny"
+        },
+        {
+          "term": "minus",
+          "pos": "preposition",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "less; reduced by; the subtraction sign (−)"
+        },
+        {
+          "term": "minimum",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the smallest possible amount or degree"
+        },
+        {
+          "term": "minimal",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "very small in amount; as little as possible"
+        },
+        {
+          "term": "minimize",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to make something as small as possible"
+        },
+        {
+          "term": "minor",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "small or lesser in size or importance"
+        },
+        {
+          "term": "minority",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "the smaller part or number of a group"
+        },
+        {
+          "term": "minute",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "extremely small (pronounced /maɪˈnjuːt/)"
+        },
+        {
+          "term": "minuscule",
+          "pos": "adjective",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "extremely tiny; very small indeed"
+        },
+        {
+          "term": "minister",
+          "pos": "noun",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "originally 'a lesser one, a servant'; now a senior official or clergy member"
+        },
+        {
+          "term": "mince",
+          "pos": "verb",
+          "cefr": null,
+          "band": null,
+          "relationship": "cognate",
+          "meaning": "to cut food into very small pieces"
+        }
+      ],
+      "same_root_related": null,
+      "lower_level_synonyms": [
+        {
+          "term": "decrease",
+          "cefr": "B1",
+          "note": "neutral, common word for getting smaller in number or size"
+        },
+        {
+          "term": "reduce",
+          "cefr": "B1",
+          "note": "usually to deliberately make something smaller"
+        },
+        {
+          "term": "shrink",
+          "cefr": "B2",
+          "note": "to get smaller in size, often visibly"
+        },
+        {
+          "term": "lessen",
+          "cefr": "B1",
+          "note": "to make or become less, esp. of pain, risk, or effect"
+        },
+        {
+          "term": "go down",
+          "cefr": "A2",
+          "note": "colloquial phrasal verb — prices/numbers go down"
+        }
+      ],
+      "no_easier_synonym": false,
+      "senses": [
+        {
+          "level": "intermediate",
+          "meaning": "To become or make something smaller, weaker, fewer, or less important.",
+          "meaning_vi": "Giảm đi, suy giảm; làm cho nhỏ đi, yếu đi, hoặc kém quan trọng hơn.",
+          "examples": [
+            {
+              "text": "Her enthusiasm for the project never diminished over the years.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            },
+            {
+              "text": "Public trust in the company slowly diminished after the scandal.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        },
+        {
+          "level": "advanced",
+          "meaning": "To make someone or something seem less impressive or valuable than they really are.",
+          "meaning_vi": "Xem nhẹ, hạ thấp (làm ai/cái gì đó có vẻ kém giá trị hơn thực tế).",
+          "examples": [
+            {
+              "text": "I don't want to diminish her achievements, but she had a lot of help.",
+              "src": "AI biên soạn (grounded) — bản v1 chưa lấy câu từ nguồn"
+            }
+          ]
+        }
+      ],
+      "audio": null,
+      "excluded": []
+    }
+  ]
+}
