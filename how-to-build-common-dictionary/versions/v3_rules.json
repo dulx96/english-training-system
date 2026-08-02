@@ -1,0 +1,549 @@
+{
+  "version": "v3",
+  "recorded": true,
+  "note": "Mỗi luật ghi rõ **ai thực thi**: “máy chặn” = sai thì dữ liệu không ghi ra được · “nguồn quyết định” = tra danh sách, AI không được chọn · “đề bài cho AI” = nằm trong prompt, chưa có máy chặn · “vòng chấm” = bắt bằng vòng chấm độc lập. Luật **MỚI** là luật vừa nhận, **chưa áp** lên 12 từ mẫu của bản v3.",
+  "anchor_howto": "Chọn dòng theo **loại từ của nghĩa đang viết ví dụ** (không phải loại từ của headword nói chung): một từ hai loại như *produce* (v) / *produce* (n) dùng hai mỏ neo khác nhau. Từ trừu tượng vs cụ thể phân theo “sờ/nhìn được không”. Không có dòng nào khớp (giới từ, liên từ, cụm cố định) → giữ luật nền VD-1…VD-5 và ghi rõ “không áp mỏ neo”.",
+  "counts": {
+    "total": 40,
+    "hard": 23,
+    "prompt": 11,
+    "judge": 6,
+    "live": 35,
+    "new": 3,
+    "todo": 2
+  },
+  "summary": [
+    [
+      "Đổi gì",
+      "Thêm **2 luật soạn câu PO giao ngày 02/08** (không dùng thương hiệu · mỗi loại từ một “mỏ neo tư duy”) và liệt kê **toàn bộ 40 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
+    ],
+    [
+      "Bằng chứng",
+      "40 luật: **23** do máy hoặc nguồn quyết định (AI không cãi được), 11 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 35 đang chạy · 3 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
+    ],
+    [
+      "Cần PO quyết",
+      "**Hai việc.** (1) Luật “không dùng thương hiệu” áp cho cả bộ chuyên ngành hay chỉ bộ common — bộ MBA đang cho điểm cao câu có công ty thật. (2) Có thêm một tiêu chí chấm riêng cho mỏ neo tư duy không; không có thì luật chỉ nằm ở đề bài, không ai chặn được khi sinh vài nghìn từ."
+    ]
+  ],
+  "example_rules": [
+    {
+      "id": "VD-1",
+      "text": "**Lấy câu từ nguồn trước.** Chỉ khi nguồn (Wiktextract / ngữ liệu) không có câu dùng được thì mới soạn; câu tự soạn phải **gắn nhãn “biên soạn”** trên trang.",
+      "by": "nguồn quyết định",
+      "status": "đang áp",
+      "where": "patch_examples_audio.py · PF5"
+    },
+    {
+      "id": "VD-2",
+      "text": "Ưu tiên câu **có chứa một từ trong gia đình từ** của headword — học 1 câu, ôn 2 từ.",
+      "by": "đề bài cho AI",
+      "status": "đang áp",
+      "where": "PF5"
+    },
+    {
+      "id": "VD-3",
+      "text": "Câu phải **đứng một mình hiểu được**: đủ chủ–vị, **20–400 ký tự**, kết thúc bằng `.` `!` `?`, không tham chiếu ngữ cảnh người học không có.",
+      "by": "máy chặn",
+      "status": "đang áp",
+      "where": "schema_v3.Example.text_well_formed"
+    },
+    {
+      "id": "VD-4",
+      "text": "**Không bịa số liệu, sự kiện, nghiên cứu, tên công ty.** Số minh hoạ chỉ dùng mốc tròn (5%, 10%, 50%) hoặc dữ kiện công khai kiểm được.",
+      "by": "đề bài cho AI",
+      "status": "đang áp",
+      "where": "prompts/system_prompt.py §3 · D2"
+    },
+    {
+      "id": "VD-5",
+      "text": "**Không đặt câu với thương hiệu cụ thể** (PO 2026-08-02). Câu phải hiểu được mà không cần biết thương hiệu đó là gì.",
+      "by": "đề bài cho AI",
+      "status": "MỚI — chưa áp",
+      "where": "PF-B"
+    },
+    {
+      "id": "VD-6",
+      "text": "**Mỗi câu phải dùng đúng “mỏ neo tư duy” theo loại từ** — bảng 5 dòng dưới (PO 2026-08-02). Mục tiêu: câu giúp nhớ từ, không chỉ đúng ngữ pháp.",
+      "by": "đề bài cho AI",
+      "status": "MỚI — chưa áp",
+      "where": "PF-B"
+    },
+    {
+      "id": "VD-7",
+      "text": "Câu tự soạn phải **khai loại từ + mỏ neo đã dùng** kèm theo câu. Có khai thì vòng chấm kiểm được luật VD-6, không chấm cảm tính.",
+      "by": "vòng chấm",
+      "status": "MỚI — chưa áp",
+      "where": "đề xuất — cần thêm tiêu chí chấm"
+    }
+  ],
+  "anchors": [
+    [
+      "Tính từ trạng thái / phẩm chất",
+      "Đặt câu có **sự đối lập rõ rệt**: tốt/xấu, tự do/áp bức.",
+      "The oppressed fought for freedom.",
+      "adj + nghĩa trừu tượng (phẩm chất, trạng thái tinh thần)"
+    ],
+    [
+      "Danh từ trừu tượng",
+      "Dựng **một sự đánh đổi** — chọn cái này, bỏ cái kia.",
+      "Choose integrity over quick money.",
+      "noun + không sờ/nhìn được"
+    ],
+    [
+      "Danh từ cụ thể",
+      "Gắn từ với **vị trí địa lý, hành động vật lý hoặc một công cụ cầm nắm được** trong đời thực.",
+      "The ship docked at the harbor.",
+      "noun + sờ/nhìn được"
+    ],
+    [
+      "Động từ hành động",
+      "Theo công thức **Ai đó + động từ + đối tượng bị tác động + kết quả**. Câu luôn cần một “nạn nhân” hoặc một “mục tiêu” để não hình dung ra hành động.",
+      "She mitigated the risk by hedging.",
+      "verb + có tân ngữ chịu tác động"
+    ],
+    [
+      "Tính từ tả trạng thái vật lý",
+      "Gắn ngay với **một vật thể quen thuộc hằng ngày** để tạo ấn tượng thị giác mạnh.",
+      "Handle this fragile glass box with extreme care.",
+      "adj + tả tính chất vật lý (giòn, nặng, trơn…)"
+    ]
+  ],
+  "steps": [
+    {
+      "n": 1,
+      "title": "Chọn từ · cấp độ · tần suất",
+      "rules": [
+        {
+          "id": "B1-1",
+          "text": "Từ vào bộ common phải **có trong danh sách phân cấp chuẩn**: CEFR-J v1.6 (A1–B2) + Octanove (C1–C2). **AI không được gán cấp độ.**",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "build_report_v2.load_cefr"
+        },
+        {
+          "id": "B1-2",
+          "text": "Nguồn không có cấp độ → **để trống**, không suy đoán.",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "build_report_v2.cefr_of"
+        },
+        {
+          "id": "B1-3",
+          "text": "Tần suất lấy từ BNC/COCA (danh mục 1k–10k); thiếu thì dùng wordfreq. Chia 4 mức: High 1k–3k · Mid 4k–9k · Low 10k–25k · ít gặp. **Nhãn tần suất không phải lý do loại từ** — không từ nào bị bỏ vì ít gặp.",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "build_report_v2.band_of · ADR-023"
+        },
+        {
+          "id": "B1-4",
+          "text": "**Cụm từ không gán cấp độ +1** so với từ khó nhất trong cụm — để trống khi không có nguồn (ADR-021 #2).",
+          "by": "máy chặn",
+          "status": "chưa code",
+          "where": "src/cefr.py — còn cộng +1, gỡ ở CF-2/CF-3"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Nghĩa tiếng Anh",
+      "rules": [
+        {
+          "id": "B2-1",
+          "text": "Nghĩa trích từ Wiktextract; AI chỉ chọn + rút gọn cho đúng cấp độ, **không tạo nghĩa mới**.",
+          "by": "đề bài cho AI",
+          "status": "đang áp",
+          "where": "version_steps._MEANING · D2"
+        },
+        {
+          "id": "B2-2",
+          "text": "Bộ common **bỏ nghĩa hiếm / nghĩa chuyên ngành**; giữ nghĩa đời thường. Nghĩa chuyên ngành thuộc bộ chuyên ngành, gắn sau lên cùng entry.",
+          "by": "đề bài cho AI",
+          "status": "đang áp",
+          "where": "ADR-020/021"
+        },
+        {
+          "id": "B2-3",
+          "text": "**Không định nghĩa vòng tròn** — không dùng chính từ đó (hoặc biến cách của nó) trong định nghĩa.",
+          "by": "đề bài cho AI",
+          "status": "đang áp",
+          "where": "prompts/system_prompt.py §4"
+        },
+        {
+          "id": "B2-4",
+          "text": "Nghĩa dài ≤ 300 ký tự; mỗi lĩnh vực phải có ≥1 nghĩa kèm ≥1 ví dụ. Cấp độ để **thưa** — chỉ tách beginner/intermediate/advanced ở từ thật sự phân tầng, không ép đủ 3.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.Sense · publish_grade_errors"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Gốc từ + giải thích tiếng Việt/Nhật",
+      "rules": [
+        {
+          "id": "B3-1",
+          "text": "Mỗi thành tố (tiền tố/gốc/hậu tố) phải có **origin + meaning**; **cấm bịa gốc**. Nguồn: mục Etymology của Wiktextract.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.WordRootComponent · D2"
+        },
+        {
+          "id": "B3-2",
+          "text": "Từ **không tách được** (vay mượn, từ mới, đơn hình vị) → phần `logic` **phải nói rõ lý do**, không được để trống suông.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.publish_grade_errors"
+        },
+        {
+          "id": "B3-3",
+          "text": "**Cụm nhiều từ → mỗi từ một phân tích gốc riêng.**",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.publish_grade_errors"
+        },
+        {
+          "id": "B3-4",
+          "text": "Lời giải tiếng Việt/Nhật phải **neo vào từ cùng gốc người học đã biết** + một câu “thấy X → nghĩ Y”. **Cấm dịch word-by-word** phần etymology.",
+          "by": "đề bài cho AI",
+          "status": "đang áp",
+          "where": "ADR-021 · CF3_SCHEMA_NOTES"
+        },
+        {
+          "id": "B3-5",
+          "text": "Field `sibling_words` / `explanation_localized` / `memory_hook_localized` chưa vào `schema_v3` — pilot để phẳng trong JSON.",
+          "by": "máy chặn",
+          "status": "chưa code",
+          "where": "CF-3"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Gia đình từ · từ cùng gốc · đồng nghĩa dễ hơn",
+      "rules": [
+        {
+          "id": "B4-1",
+          "text": "**② cùng thân từ**: ứng viên = **trọn danh sách gia đình từ BNC/COCA** của chính từ đó.",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "build_report_v2.bnc_family · ADR-023"
+        },
+        {
+          "id": "B4-2",
+          "text": "**③ cùng gốc**: ứng viên = mọi từ trong danh mục 25.001 từ dựng trên cùng gốc Latin/Hy Lạp, sinh từ bảng gốc từ. **AI không đề xuất từ nào.** Tập ứng viên vì thế đóng: hỏi “sao có từ này mà không có từ kia” luôn tra được.",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "scripts/56 · ADR-024"
+        },
+        {
+          "id": "B4-3",
+          "text": "**Chỉ loại 3 trường hợp**: không phải từ · biến cách thuần (số nhiều/thì) · sai gốc (*miniature*, *port*). **Không có sàn tần suất.**",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "build_report_v2 · ADR-023"
+        },
+        {
+          "id": "B4-4",
+          "text": "Mỗi từ trong ②③ **mang nhãn band tần suất**; dữ liệu giữ đầy đủ, tầng app lọc hiển thị theo trình độ.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "ADR-023"
+        },
+        {
+          "id": "B4-5",
+          "text": "**① đồng nghĩa dễ hơn phải có CEFR thấp hơn hẳn headword**; số lượng tối thiểu = min(2, số bậc còn dưới nó).",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.lower_synonyms_must_be_lower_cefr"
+        },
+        {
+          "id": "B4-6",
+          "text": "Từ **không có đồng nghĩa dễ hơn thật** (*form*, *who*) → bật cờ `no_easier_synonym` **thay vì bịa** một từ gần đúng (ADR-019).",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.DomainEntry.no_easier_synonym"
+        },
+        {
+          "id": "B4-7",
+          "text": "**Gia đình từ ≥ 4 thành viên**, mỗi thành viên có loại từ + nghĩa. Từ vay mượn thật sự không có gia đình tiếng Anh thì hạ xuống 2 — thêm cho đủ 4 là bịa.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.publish_grade_errors"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Ví dụ",
+      "rules": [
+        {
+          "id": "B5-1",
+          "text": "Toàn bộ luật soạn câu ở **mục 1** (VD-1…VD-7) áp cho bước này.",
+          "by": "đề bài cho AI",
+          "status": "đang áp",
+          "where": "mục 1"
+        },
+        {
+          "id": "B5-2",
+          "text": "Ví dụ phải **khớp đúng nghĩa đang minh hoạ** (đúng sense, đúng cấp độ), không lấy câu của nghĩa khác.",
+          "by": "vòng chấm",
+          "status": "đang áp",
+          "where": "D6 · D2"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "title": "Audio",
+      "rules": [
+        {
+          "id": "B6-1",
+          "text": "**Ưu tiên bản ghi người thật** (Wikimedia Commons); không có mới sinh bằng Piper TTS offline. **AI không tạo nội dung ở bước này.**",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "patch_examples_audio.AUDIO"
+        },
+        {
+          "id": "B6-2",
+          "text": "Audio **không phải điều kiện publish** — tín hiệu kiểm duy nhất (đọc ngược bằng ASR) chỉ để lọc nghi ngờ, không phải chân lý; gate bằng nó sẽ chặn nhầm.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.publish_grade_errors (NOTE Phase 8)"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Dịch VI + JA",
+      "rules": [
+        {
+          "id": "B7-1",
+          "text": "**Chỉ dịch 3 chỗ**: nghĩa, câu ví dụ, phần phân biệt sắc thái.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "specs/translation_spec.md §0"
+        },
+        {
+          "id": "B7-2",
+          "text": "**KHÔNG dịch** headword, IPA, collocation, đồng nghĩa, gia đình từ, phân tích gốc từ — đó chính là phần **phải học**.",
+          "by": "đề bài cho AI",
+          "status": "đang áp",
+          "where": "specs/translation_spec.md §0"
+        },
+        {
+          "id": "B7-3",
+          "text": "Dịch **bám nghĩa đã chọn + glossary**, tự nhiên như người bản ngữ viết. Không giữ trật tự từ tiếng Anh; giữ nguyên các con số.",
+          "by": "đề bài cho AI",
+          "status": "đang áp",
+          "where": "specs/translation_spec.md §3"
+        },
+        {
+          "id": "B7-4",
+          "text": "**Gate riêng từng ngôn ngữ**: 4 tiêu chí D7 (trung thành · thuật ngữ · tự nhiên · nhất quán) đều ≥4 mới `published`; có tiêu chí =3 → sửa 1 lần; ≤2 → loại **riêng bản dịch đó**, tiếng Anh và ngôn ngữ còn lại không bị chặn.",
+          "by": "vòng chấm",
+          "status": "đang áp",
+          "where": "eval_rubric D7 · publish_grade_errors(active_languages)"
+        },
+        {
+          "id": "B7-5",
+          "text": "Bản **tiếng Nhật chưa có người bản xứ review** — hiện dựa vòng chấm + dịch ngược. Rủi ro đã ghi nhận.",
+          "by": "vòng chấm",
+          "status": "đang áp",
+          "where": "rủi ro đã biết"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "Kiểm chất lượng và duyệt",
+      "rules": [
+        {
+          "id": "B8-1",
+          "text": "**Vòng chấm phải độc lập với vòng sinh** — chạy phiên khác, đọc lại từ nguồn, tìm cách bác bỏ. Không để AI tự chấm bài mình vừa viết.",
+          "by": "vòng chấm",
+          "status": "đang áp",
+          "where": "ADR-008 · quy trình fan-out"
+        },
+        {
+          "id": "B8-2",
+          "text": "**PASS = cả 6 tiêu chí D1–D6 ≥ 4/5.** Một tiêu chí =3 → sửa lại 1 lần. **D2 (chính xác) =1 → loại ngay**; ≥2 tiêu chí =3 hoặc bất kỳ tiêu chí ≤2 → loại.",
+          "by": "vòng chấm",
+          "status": "đang áp",
+          "where": "specs/eval_rubric.md §4"
+        },
+        {
+          "id": "B8-3",
+          "text": "**2 tầng gate**: bản nháp chỉ cần đúng khuôn dữ liệu; các luật đủ-nội-dung chỉ bắt buộc khi lên gold/validated/published (ADR-010).",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3._check_publish_grade"
+        },
+        {
+          "id": "B8-4",
+          "text": "**Mọi entry phải qua cổng Pydantic trước khi ghi ra file** — không có đường ghi tắt.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "scripts/33 · adapter"
+        }
+      ]
+    }
+  ],
+  "field_rules": [
+    [
+      "term",
+      "1–80 ký tự, chuẩn hoá thường; không trùng lĩnh vực",
+      "Đúng dạng từ điển (không chia thì, không sai chính tả)",
+      "D2",
+      "đang áp"
+    ],
+    [
+      "lemma",
+      "Chuỗi không rỗng",
+      "Dạng gốc của từ",
+      "D2",
+      "đang áp"
+    ],
+    [
+      "pos_tags",
+      "≥1 giá trị trong enum loại từ",
+      "Khớp cách dùng thật của từ",
+      "D2",
+      "đang áp"
+    ],
+    [
+      "ipa",
+      "Đúng dạng `/…/`; bắt buộc khi publish",
+      "Không sinh bằng AI — trích Wiktionary/CMUdict/ipa-dict",
+      "nguồn",
+      "đang áp"
+    ],
+    [
+      "cefr_level",
+      "Thuộc A1–C2",
+      "Tra danh sách chuẩn, AI không gán",
+      "nguồn",
+      "đang áp"
+    ],
+    [
+      "general_score",
+      "Số trong [0,1]",
+      "wordfreq tính, không ai chỉnh tay",
+      "—",
+      "đang áp"
+    ],
+    [
+      "frequency_band",
+      "**chưa có trong schema_v3** — pilot để ngoài",
+      "BNC/COCA → wordfreq; chỉ đánh dấu, không loại từ",
+      "nguồn",
+      "chưa code"
+    ],
+    [
+      "word_root.breakdowns",
+      "≥1 phân tích; `logic` không rỗng; cụm nhiều từ → mỗi từ 1 phân tích",
+      "Không bịa gốc; không tách được thì nói rõ lý do",
+      "D2",
+      "đang áp"
+    ],
+    [
+      "word_root — giải thích VI/JA",
+      "**chưa có field trong schema_v3** (CF-3)",
+      "Neo vào từ cùng gốc đã biết + memory hook; cấm word-by-word",
+      "chấm ad-hoc",
+      "chưa code"
+    ],
+    [
+      "word_families",
+      "≥4 thành viên (≥2 nếu vay mượn); mỗi thành viên có loại từ + nghĩa",
+      "Chỉ từ cùng thân từ thật; bỏ biến cách thuần",
+      "D1 · D2",
+      "đang áp"
+    ],
+    [
+      "audio",
+      "Optional — **không** chặn publish",
+      "Ưu tiên giọng người thật; TTS là phương án dự phòng",
+      "người nghe",
+      "đang áp"
+    ],
+    [
+      "domains[]",
+      "≥1 lĩnh vực, không trùng; `domain_relevance_note` ≥10 ký tự",
+      "Từ chỉ vào lĩnh vực khi nguồn của lĩnh vực đó có nó",
+      "D4",
+      "đang áp"
+    ],
+    [
+      "senses[].level",
+      "Thuộc beginner/intermediate/advanced",
+      "**Thưa** — chỉ tách cấp khi từ thật sự phân tầng, không ép đủ 3",
+      "D3",
+      "đang áp"
+    ],
+    [
+      "senses[].meaning",
+      "1–300 ký tự; mỗi lĩnh vực ≥1 nghĩa có ví dụ",
+      "Trích nguồn + rút gọn; không định nghĩa vòng tròn; không tạo nghĩa mới",
+      "D1 · D2",
+      "đang áp"
+    ],
+    [
+      "senses[].examples[]",
+      "20–400 ký tự, kết thúc `.` `!` `?`",
+      "Nguồn trước, tự soạn sau và phải gắn nhãn; đúng mỏ neo tư duy (VD-6); không thương hiệu (VD-5)",
+      "D6",
+      "có 2 luật MỚI"
+    ],
+    [
+      "lower_level_synonyms",
+      "CEFR **thấp hơn hẳn** headword; ≥ min(2, số bậc dưới)",
+      "Không có từ dễ hơn thật → bật cờ `no_easier_synonym`, không bịa",
+      "D3",
+      "đang áp"
+    ],
+    [
+      "collocations",
+      "3–5 cụm; rank suy ra từ tần suất thật",
+      "Cụm thật sự phổ biến, không ghép chữ cho đủ số",
+      "D1 · D2",
+      "đang áp"
+    ],
+    [
+      "related_with_nuance",
+      "≥1 mục; phần phân biệt 30–400 ký tự",
+      "Phân biệt phải **dùng được** (người học chọn đúng từ), không chỉ nói “khác nhau”",
+      "D5",
+      "đang áp"
+    ],
+    [
+      "antonyms",
+      "Optional; WordNet điền",
+      "Trái nghĩa đúng theo nghĩa đang xét",
+      "D2",
+      "đang áp"
+    ],
+    [
+      "*_translations",
+      "Chỉ tính publish khi `status=published`; gate riêng từng ngôn ngữ",
+      "Grounded + glossary; không dịch từ vựng mục tiêu",
+      "D7",
+      "đang áp"
+    ],
+    [
+      "metadata.status",
+      "draft | gold | validated | revise | rejected | published",
+      "Chỉ lên published sau khi qua vòng chấm — không tự nhận",
+      "quy trình",
+      "đang áp"
+    ]
+  ],
+  "open_items": [
+    "**Luật mỏ neo (VD-6) chưa có cách chấm tự động.** Đề xuất: thêm một tiêu chí con vào D6 (“câu có dùng đúng mỏ neo của loại từ không”) và bắt câu tự soạn khai loại từ + mỏ neo. Chưa làm thì luật chỉ nằm ở đề bài, không ai chặn được khi sinh 3.000 từ.",
+    "**“Không dùng thương hiệu” (VD-5) ngược với luật đang áp cho bộ MBA**, nơi tiêu chí D6 hiện **cho điểm cao** câu có công ty thật (“After Microsoft announced its acquisition…”). Đang hiểu: VD-5 áp cho **bộ common**; bộ chuyên ngành giữ luật cũ. Cần PO xác nhận để sửa tiêu chí chấm cho đúng phạm vi.",
+    "**`frequency_band` chưa vào `schema_v3`** — hiện chỉ sống trong dữ liệu pilot và trên trang. Vào schema ở CF-3, nếu không thì bản sinh ở tập lớn sẽ rơi mất nhãn band.",
+    "**Lời giải gốc từ tiếng Việt/Nhật chưa có tiêu chí chấm chính thức** (D1–D7 chưa phủ). Pilot mới chấm ad-hoc; ở tập lớn cần một tiêu chí riêng.",
+    "**Cụm từ chưa được thử** (`due diligence`, `break down`): luật “cụm không gán cấp độ” đã chốt nhưng `src/cefr.py` còn cộng +1 và pilot toàn từ đơn."
+  ]
+}

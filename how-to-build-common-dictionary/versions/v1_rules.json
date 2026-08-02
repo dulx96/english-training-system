@@ -1,0 +1,5 @@
+{
+  "version": "v1",
+  "recorded": false,
+  "note": "Bản v1 **chưa có bảng luật**. AI quyết cả hai việc: từ nào thuộc common và nội dung của từ. Không có danh sách chuẩn để đối chiếu, chạy lại sẽ ra kết quả khác. Thứ gần nhất với luật ở bản này là phần “cách xây dựng” ở tab 1."
+}
