@@ -389,7 +389,7 @@
         },
         {
           "id": "B8-4",
-          "text": "**Gate riêng từng ngôn ngữ**: 4 tiêu chí D7 (trung thành · thuật ngữ · tự nhiên · nhất quán) đều ≥4 mới `published`; có tiêu chí =3 → sửa 1 lần; ≤2 → loại **riêng bản dịch đó**, tiếng Anh và ngôn ngữ còn lại không bị chặn.",
+          "text": "**Gate riêng từng ngôn ngữ**: 4 tiêu chí D7 (trung thành · thuật ngữ · tự nhiên · nhất quán) đều ≥4 mới `published`. Chỗ chưa đạt thì **sửa rồi chấm lại, tối đa 3 vòng** — vòng chấm lại phải hỏi cả *bản sửa có sinh lỗi MỚI không*, không chỉ *lỗi cũ hết chưa*. Hết 3 vòng vẫn chưa đạt → loại **riêng bản dịch đó**, tiếng Anh và ngôn ngữ còn lại không bị chặn.",
           "by": "vòng chấm",
           "status": "đang áp",
           "where": "eval_rubric D7 · publish_grade_errors(active_languages)"
