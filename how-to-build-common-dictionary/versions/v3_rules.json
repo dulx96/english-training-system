@@ -4,22 +4,22 @@
   "note": "Mỗi luật ghi rõ **ai thực thi**: “máy chặn” = sai thì dữ liệu không ghi ra được · “nguồn quyết định” = tra danh sách, AI không được chọn · “đề bài cho AI” = nằm trong prompt, chưa có máy chặn · “vòng chấm” = bắt bằng vòng chấm độc lập. Luật **MỚI** là luật vừa nhận, **chưa áp** lên 12 từ mẫu của bản v3.",
   "anchor_howto": "Chọn dòng theo **loại từ của nghĩa đang viết ví dụ** (không phải loại từ của headword nói chung): một từ hai loại như *produce* (v) / *produce* (n) dùng hai mỏ neo khác nhau. Từ trừu tượng vs cụ thể phân theo “sờ/nhìn được không”. Không có dòng nào khớp (giới từ, liên từ, cụm cố định) → giữ luật nền VD-1…VD-5 và ghi rõ “không áp mỏ neo”.",
   "counts": {
-    "total": 40,
-    "hard": 23,
+    "total": 46,
+    "hard": 29,
     "prompt": 11,
     "judge": 6,
-    "live": 35,
+    "live": 41,
     "new": 3,
     "todo": 2
   },
   "summary": [
     [
       "Đổi gì",
-      "Thêm **2 luật soạn câu PO giao ngày 02/08** (không dùng thương hiệu · mỗi loại từ một “mỏ neo tư duy”) và liệt kê **toàn bộ 40 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
+      "Thêm **bước 6 — cụm từ hay đi với nhau** (5 luật, PO hỏi ngày 03/08): cụm do máy **đếm trên ngữ liệu**, AI không đề xuất cụm nào. Trước đó đã thêm **2 luật soạn câu PO giao ngày 02/08** (không dùng thương hiệu · mỗi loại từ một “mỏ neo tư duy”). Bảng này liệt kê **toàn bộ 46 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
     ],
     [
       "Bằng chứng",
-      "40 luật: **23** do máy hoặc nguồn quyết định (AI không cãi được), 11 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 35 đang chạy · 3 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
+      "46 luật: **29** do máy hoặc nguồn quyết định (AI không cãi được), 11 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 41 đang chạy · 3 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
     ],
     [
       "Cần PO quyết",
@@ -296,17 +296,65 @@
     },
     {
       "n": 6,
-      "title": "Audio",
+      "title": "Cụm từ hay đi với nhau (collocations)",
       "rules": [
         {
           "id": "B6-1",
+          "text": "Cụm từ **đếm ra từ ngữ liệu**, không do AI đề xuất: n-gram quanh từ trên corpus general English (Simple English Wikipedia + Wikinews + Tatoeba — 63.671 câu / 1,18 triệu từ). Giữ cụm xuất hiện **≥2 lần**.",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "scripts/57 + 58 · src/common_collocations · ADR-025"
+        },
+        {
+          "id": "B6-2",
+          "text": "Mỗi từ **3–5 cụm**; `frequency_rank` **suy ra từ số lần đếm được**, không gán tay.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "schema_v3.Collocation · publish_grade_errors"
+        },
+        {
+          "id": "B6-3",
+          "text": "Ngữ liệu không cho đủ 3 cụm → **để trống + ghi rõ lý do**. Bịa cụm cho đủ sàn là vi phạm (cùng tinh thần ADR-019/023).",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "scripts/58 — trường `note`"
+        },
+        {
+          "id": "B6-4",
+          "text": "n-gram thô kéo theo cụm rác (bộ MBA đã đụng: *us antitrust*, *mainly due*) → có **bộ chặn biên cụm** + một **vòng kiểm bằng mắt**; cụm bị gạch phải ghi lại kèm lý do.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "extractor._COLLOC_STOP · text_clean.is_noisy_collocation · scripts/58 REJECT"
+        },
+        {
+          "id": "B6-5",
+          "text": "Ngữ liệu general English chỉ dùng cho **nội dung** (cụm từ, câu ví dụ) — **không** dùng để chọn từ vào bộ common, **không** tính điểm độ-thuộc-lĩnh-vực.",
+          "by": "nguồn quyết định",
+          "status": "đang áp",
+          "where": "ADR-025 (amend ADR-018)"
+        },
+        {
+          "id": "B6-6",
+          "text": "**5 cụm phải trải các dạng của từ** (động từ · danh từ · tính từ · trạng từ) khi ngữ liệu có — mỗi dạng lấy cụm nhiều lần nhất trước, rồi mới lấy cụm thứ hai của dạng đông nhất. Lấy thẳng 5 cụm nhiều nhất thì gặp ngữ liệu lệch sẽ ra 5 cụm cùng một dạng: *construct* từng ra 5 cụm `construction …` và đánh mất `constructive criticism`. **Không đổi cách đếm** — chỉ đổi cách chọn 5 trong số đã đếm.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "common_collocations._pick_diverse · PO 2026-08-03"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "title": "Audio",
+      "rules": [
+        {
+          "id": "B7-1",
           "text": "**Ưu tiên bản ghi người thật** (Wikimedia Commons); không có mới sinh bằng Piper TTS offline. **AI không tạo nội dung ở bước này.**",
           "by": "nguồn quyết định",
           "status": "đang áp",
           "where": "patch_examples_audio.AUDIO"
         },
         {
-          "id": "B6-2",
+          "id": "B7-2",
           "text": "Audio **không phải điều kiện publish** — tín hiệu kiểm duy nhất (đọc ngược bằng ASR) chỉ để lọc nghi ngờ, không phải chân lý; gate bằng nó sẽ chặn nhầm.",
           "by": "máy chặn",
           "status": "đang áp",
@@ -315,39 +363,39 @@
       ]
     },
     {
-      "n": 7,
+      "n": 8,
       "title": "Dịch VI + JA",
       "rules": [
         {
-          "id": "B7-1",
+          "id": "B8-1",
           "text": "**Chỉ dịch 3 chỗ**: nghĩa, câu ví dụ, phần phân biệt sắc thái.",
           "by": "máy chặn",
           "status": "đang áp",
           "where": "specs/translation_spec.md §0"
         },
         {
-          "id": "B7-2",
+          "id": "B8-2",
           "text": "**KHÔNG dịch** headword, IPA, collocation, đồng nghĩa, gia đình từ, phân tích gốc từ — đó chính là phần **phải học**.",
           "by": "đề bài cho AI",
           "status": "đang áp",
           "where": "specs/translation_spec.md §0"
         },
         {
-          "id": "B7-3",
+          "id": "B8-3",
           "text": "Dịch **bám nghĩa đã chọn + glossary**, tự nhiên như người bản ngữ viết. Không giữ trật tự từ tiếng Anh; giữ nguyên các con số.",
           "by": "đề bài cho AI",
           "status": "đang áp",
           "where": "specs/translation_spec.md §3"
         },
         {
-          "id": "B7-4",
+          "id": "B8-4",
           "text": "**Gate riêng từng ngôn ngữ**: 4 tiêu chí D7 (trung thành · thuật ngữ · tự nhiên · nhất quán) đều ≥4 mới `published`; có tiêu chí =3 → sửa 1 lần; ≤2 → loại **riêng bản dịch đó**, tiếng Anh và ngôn ngữ còn lại không bị chặn.",
           "by": "vòng chấm",
           "status": "đang áp",
           "where": "eval_rubric D7 · publish_grade_errors(active_languages)"
         },
         {
-          "id": "B7-5",
+          "id": "B8-5",
           "text": "Bản **tiếng Nhật chưa có người bản xứ review** — hiện dựa vòng chấm + dịch ngược. Rủi ro đã ghi nhận.",
           "by": "vòng chấm",
           "status": "đang áp",
@@ -356,32 +404,32 @@
       ]
     },
     {
-      "n": 8,
+      "n": 9,
       "title": "Kiểm chất lượng và duyệt",
       "rules": [
         {
-          "id": "B8-1",
+          "id": "B9-1",
           "text": "**Vòng chấm phải độc lập với vòng sinh** — chạy phiên khác, đọc lại từ nguồn, tìm cách bác bỏ. Không để AI tự chấm bài mình vừa viết.",
           "by": "vòng chấm",
           "status": "đang áp",
           "where": "ADR-008 · quy trình fan-out"
         },
         {
-          "id": "B8-2",
+          "id": "B9-2",
           "text": "**PASS = cả 6 tiêu chí D1–D6 ≥ 4/5.** Một tiêu chí =3 → sửa lại 1 lần. **D2 (chính xác) =1 → loại ngay**; ≥2 tiêu chí =3 hoặc bất kỳ tiêu chí ≤2 → loại.",
           "by": "vòng chấm",
           "status": "đang áp",
           "where": "specs/eval_rubric.md §4"
         },
         {
-          "id": "B8-3",
+          "id": "B9-3",
           "text": "**2 tầng gate**: bản nháp chỉ cần đúng khuôn dữ liệu; các luật đủ-nội-dung chỉ bắt buộc khi lên gold/validated/published (ADR-010).",
           "by": "máy chặn",
           "status": "đang áp",
           "where": "schema_v3._check_publish_grade"
         },
         {
-          "id": "B8-4",
+          "id": "B9-4",
           "text": "**Mọi entry phải qua cổng Pydantic trước khi ghi ra file** — không có đường ghi tắt.",
           "by": "máy chặn",
           "status": "đang áp",
@@ -506,8 +554,8 @@
     [
       "collocations",
       "3–5 cụm; rank suy ra từ tần suất thật",
-      "Cụm thật sự phổ biến, không ghép chữ cho đủ số",
-      "D1 · D2",
+      "Máy ĐẾM trên ngữ liệu general English free, AI không đề xuất cụm; thiếu thì để trống, không ghép chữ cho đủ số",
+      "D1 · D2 + kiểm mắt",
       "đang áp"
     ],
     [
@@ -544,6 +592,7 @@
     "**“Không dùng thương hiệu” (VD-5) ngược với luật đang áp cho bộ MBA**, nơi tiêu chí D6 hiện **cho điểm cao** câu có công ty thật (“After Microsoft announced its acquisition…”). Đang hiểu: VD-5 áp cho **bộ common**; bộ chuyên ngành giữ luật cũ. Cần PO xác nhận để sửa tiêu chí chấm cho đúng phạm vi.",
     "**`frequency_band` chưa vào `schema_v3`** — hiện chỉ sống trong dữ liệu pilot và trên trang. Vào schema ở CF-3, nếu không thì bản sinh ở tập lớn sẽ rơi mất nhãn band.",
     "**Lời giải gốc từ tiếng Việt/Nhật chưa có tiêu chí chấm chính thức** (D1–D7 chưa phủ). Pilot mới chấm ad-hoc; ở tập lớn cần một tiêu chí riêng.",
-    "**Cụm từ chưa được thử** (`due diligence`, `break down`): luật “cụm không gán cấp độ” đã chốt nhưng `src/cefr.py` còn cộng +1 và pilot toàn từ đơn."
+    "**Cụm từ chưa được thử** (`due diligence`, `break down`): luật “cụm không gán cấp độ” đã chốt nhưng `src/cefr.py` còn cộng +1 và pilot toàn từ đơn.",
+    "**Nhãn cao/trung/thấp của cụm từ đang tính theo SỐ LẦN TUYỆT ĐỐI** (≥10 = cao), ngưỡng vốn đặt cho ngữ liệu MBA nhỏ hơn nhiều. Ngữ liệu general English lớn hơn nên gần như cụm nào cũng ra “cao” — số lần đếm được vẫn là con số thật và có trên trang, nhưng cái nhãn chưa nói thêm được gì. Đề xuất ở CF-3: tính nhãn theo **số lần trên mỗi triệu từ** để so được giữa các ngữ liệu."
   ]
 }

@@ -296,13 +296,30 @@
           "examples": [
             {
               "text": "Please fill in this form with your name and address.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Bạn điền tên và địa chỉ vào tờ khai này giúp mình nhé.",
+              "ja": "この用紙に氏名と住所を記入してください。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
               "text": "You need to sign the form at the bottom of the page.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Bạn cần ký vào tờ khai ở cuối trang.",
+              "ja": "用紙の一番下に署名する必要がある。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "情報を書き込む空欄が印刷された公式の用紙",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         },
         {
           "level": "beginner",
@@ -311,13 +328,30 @@
           "examples": [
             {
               "text": "They made a cake in the form of a heart.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Họ làm một chiếc bánh hình trái tim.",
+              "ja": "彼らはハートの形をしたケーキを作った。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             },
             {
               "text": "We could see a dark form moving through the fog.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Chúng tôi thấy một hình thù đen sẫm di chuyển trong màn sương.",
+              "ja": "霧の中を黒い影のようなものが動いているのが見えた。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "人や物の形・見た目",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 4
+          }
         },
         {
           "level": "beginner",
@@ -326,15 +360,90 @@
           "examples": [
             {
               "text": "The children formed a circle around their teacher.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Bọn trẻ xếp thành một vòng tròn quanh cô giáo.",
+              "ja": "子どもたちは先生を囲んで輪になった。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
               "text": "Ice began to form on the inside of the window.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Băng bắt đầu đóng ở mặt trong cửa sổ.",
+              "ja": "窓の内側に氷が張り始めた。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "何かを作り出す・形づくる、または生じ始めること",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "different forms",
+          "frequency": 235,
+          "frequency_rank": "high",
+          "per_million": 199.61
+        },
+        {
+          "phrase": "newly formed",
+          "frequency": 141,
+          "frequency_rank": "high",
+          "per_million": 119.76
+        },
+        {
+          "phrase": "forms part",
+          "frequency": 97,
+          "frequency_rank": "high",
+          "per_million": 82.39
+        },
+        {
+          "phrase": "various forms",
+          "frequency": 95,
+          "frequency_rank": "high",
+          "per_million": 80.69
+        },
+        {
+          "phrase": "common form",
+          "frequency": 84,
+          "frequency_rank": "high",
+          "per_million": 71.35
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "band formed",
+          "freq": 243,
+          "reason": "lệch ngữ liệu Wikipedia (bài nhạc/phim/template), không phải cụm đời thường"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": {
         "source": "Wikimedia Commons (ghi âm người thật)",
         "file": "en-us-form.ogg",
@@ -693,15 +802,32 @@
         {
           "level": "beginner",
           "meaning": "to say what someone or something is like, using words",
-          "meaning_vi": "miêu tả, tả lại bằng lời một người hoặc vật trông/nghe ra sao",
+          "meaning_vi": "miêu tả, dùng lời để cho biết ai đó hoặc cái gì đó như thế nào",
           "examples": [
             {
-              "text": "Can you describe the bag you lost?"
+              "text": "Can you describe the bag you lost?",
+              "vi": "Bạn tả lại chiếc túi bị mất được không?",
+              "ja": "なくしたかばんがどんなものか説明できるか。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             },
             {
-              "text": "She described her holiday to us in great detail."
+              "text": "She described her holiday to us in great detail.",
+              "vi": "Cô ấy kể cho chúng tôi nghe rất chi tiết về kỳ nghỉ của mình.",
+              "ja": "彼女は休暇の様子を私たちにこと細かに話してくれた。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "人や物がどんなふうかを言葉で言い表すこと",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 5
+          }
         },
         {
           "level": "advanced",
@@ -709,14 +835,82 @@
           "meaning_vi": "vạch ra / tạo thành một hình nhất định (cách dùng trang trọng, văn chương)",
           "examples": [
             {
-              "text": "The plane described a wide circle before it landed."
+              "text": "The plane described a wide circle before it landed.",
+              "vi": "Chiếc máy bay vạch một vòng tròn rộng trên bầu trời rồi mới hạ cánh.",
+              "ja": "飛行機は着陸する前に大きな円を描いた。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
-              "text": "The dancer's arm described a graceful arc in the air."
+              "text": "The dancer's arm described a graceful arc in the air.",
+              "vi": "Cánh tay người vũ công vạch một đường cong duyên dáng trong không trung.",
+              "ja": "ダンサーの腕が宙に優美な弧を描いた。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "ある形や軌跡を描くように動く、また描き出すこと（かたい書き言葉・文学的な言い方）",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "first described",
+          "frequency": 196,
+          "frequency_rank": "high",
+          "per_million": 166.48
+        },
+        {
+          "phrase": "book describes",
+          "frequency": 28,
+          "frequency_rank": "high",
+          "per_million": 23.78
+        },
+        {
+          "phrase": "usually described",
+          "frequency": 24,
+          "frequency_rank": "high",
+          "per_million": 20.39
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "described species",
+          "freq": 30,
+          "reason": "mảnh câu, không phải cụm cố định (văn phân loại sinh học)"
+        },
+        {
+          "phrase": "tom described",
+          "freq": 27,
+          "reason": "máy chặn: chứa từ luôn viết hoa (tom) — tên riêng/tên tổ chức"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": null,
       "family_flat": null
     },
@@ -1660,12 +1854,29 @@
           "meaning_vi": "tấm ảnh chụp bằng máy ảnh",
           "examples": [
             {
-              "text": "She showed me a photograph of her dog."
+              "text": "She showed me a photograph of her dog.",
+              "vi": "Cô ấy cho tôi xem một tấm ảnh chụp con chó của cô ấy.",
+              "ja": "彼女は飼い犬の写真を見せてくれた。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
-              "text": "There is an old photograph of my grandmother on the wall."
+              "text": "There is an old photograph of my grandmother on the wall.",
+              "vi": "Trên tường có một tấm ảnh cũ chụp bà tôi.",
+              "ja": "壁には祖母の古い写真がある。",
+              "d7": {
+                "vi": 5,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "カメラで撮った写真",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 5
+          }
         },
         {
           "level": "beginner",
@@ -1673,14 +1884,119 @@
           "meaning_vi": "chụp ảnh (ai đó / cái gì đó)",
           "examples": [
             {
-              "text": "He photographed the sunset from the top of the hill."
+              "text": "He photographed the sunset from the top of the hill.",
+              "vi": "Anh ấy chụp cảnh hoàng hôn từ trên đỉnh đồi.",
+              "ja": "彼は丘の上から夕日を撮影した。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             },
             {
-              "text": "Tourists love to photograph the old stone bridge."
+              "text": "Tourists love to photograph the old stone bridge.",
+              "vi": "Khách du lịch rất thích chụp ảnh cây cầu đá cổ.",
+              "ja": "観光客はその古い石橋を写真に撮るのが大好きだ。",
+              "d7": {
+                "vi": 5,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "カメラで人や物を撮影すること",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 5
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "photographic film",
+          "frequency": 36,
+          "frequency_rank": "high",
+          "per_million": 30.58
+        },
+        {
+          "phrase": "take photographs",
+          "frequency": 31,
+          "frequency_rank": "high",
+          "per_million": 26.33
+        },
+        {
+          "phrase": "photographic memory",
+          "frequency": 26,
+          "frequency_rank": "high",
+          "per_million": 22.08
+        },
+        {
+          "phrase": "professional photographer",
+          "frequency": 20,
+          "frequency_rank": "high",
+          "per_million": 16.99
+        },
+        {
+          "phrase": "old photographs",
+          "frequency": 9,
+          "frequency_rank": "medium",
+          "per_million": 7.64
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "good photographer",
+          "freq": 22,
+          "reason": "tính từ chung chung — không dạy thêm gì về từ"
+        },
+        {
+          "phrase": "took photographs",
+          "freq": 18,
+          "reason": "trùng nghĩa với “take photographs” (bộ máy chỉ bắt được biến cách đều, không bắt được took/take)"
+        },
+        {
+          "phrase": "photograph taken",
+          "freq": 16,
+          "reason": "mảnh câu, không phải cụm cố định"
+        },
+        {
+          "phrase": "taking photographs",
+          "freq": 16,
+          "reason": "trùng biến cách với “take photographs”"
+        },
+        {
+          "phrase": "photographs taken",
+          "freq": 14,
+          "reason": "mảnh câu, không phải cụm cố định"
+        },
+        {
+          "phrase": "american photographer",
+          "freq": 9,
+          "reason": "máy chặn: chứa từ luôn viết hoa (american) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "old photograph",
+          "freq": 8,
+          "reason": "trùng biến cách với “old photographs”"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": null,
       "family_flat": null
     },
@@ -2220,13 +2536,30 @@
           "examples": [
             {
               "text": "The factory produces about a thousand cars every week.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Nhà máy sản xuất khoảng một nghìn chiếc xe mỗi tuần.",
+              "ja": "その工場は毎週千台ほどの車を生産している。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             },
             {
               "text": "This region produces some of the best coffee in the world.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Vùng này trồng ra loại cà phê thuộc hàng ngon nhất thế giới.",
+              "ja": "この地域では、世界でも指折りのおいしいコーヒーが作られている。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "工場で品物を作る、または食べ物などを育てること",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 5
+          }
         },
         {
           "level": "intermediate",
@@ -2235,9 +2568,20 @@
           "examples": [
             {
               "text": "Her honest answer produced a surprised reaction from everyone.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Câu trả lời thật lòng của cô ấy khiến mọi người đều tỏ ra ngạc nhiên.",
+              "ja": "彼女の正直な答えは、みんなから驚きの反応を引き出した。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "ある結果や反応、効果を引き起こすこと",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 5
+          }
         },
         {
           "level": "intermediate",
@@ -2246,9 +2590,20 @@
           "examples": [
             {
               "text": "He reached into his bag and produced a small gift.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Anh ấy thò tay vào túi xách rồi lấy ra một món quà nhỏ.",
+              "ja": "彼はかばんに手を入れて、小さなプレゼントを取り出した。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "見せたり使ったりできるように、物を取り出すこと",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 5
+          }
         },
         {
           "level": "beginner",
@@ -2257,11 +2612,105 @@
           "examples": [
             {
               "text": "The market sells fresh local produce every Saturday morning.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Khu chợ bán nông sản tươi của địa phương vào mỗi sáng thứ Bảy.",
+              "ja": "その市場では毎週土曜日の朝、地元の新鮮な野菜や果物を売っている。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "(名詞) 農場で作られた新鮮な野菜や果物",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "record producer",
+          "frequency": 315,
+          "frequency_rank": "high",
+          "per_million": 267.56
+        },
+        {
+          "phrase": "executive producer",
+          "frequency": 271,
+          "frequency_rank": "high",
+          "per_million": 230.19
+        },
+        {
+          "phrase": "music producer",
+          "frequency": 162,
+          "frequency_rank": "high",
+          "per_million": 137.6
+        },
+        {
+          "phrase": "movie producer",
+          "frequency": 119,
+          "frequency_rank": "high",
+          "per_million": 101.08
+        },
+        {
+          "phrase": "first produced",
+          "frequency": 47,
+          "frequency_rank": "high",
+          "per_million": 39.92
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "series produced",
+          "freq": 141,
+          "reason": "mảnh câu, không phải cụm cố định"
+        },
+        {
+          "phrase": "movie produced",
+          "freq": 123,
+          "reason": "mảnh câu, không phải cụm cố định"
+        },
+        {
+          "phrase": "director producer",
+          "freq": 110,
+          "reason": "danh sách credit phim, không phải cụm"
+        },
+        {
+          "phrase": "car produced",
+          "freq": 86,
+          "reason": "mảnh câu, không phải cụm cố định"
+        },
+        {
+          "phrase": "template produces",
+          "freq": 63,
+          "reason": "rác kỹ thuật MediaWiki (trang hướng dẫn template)"
+        },
+        {
+          "phrase": "executive producers",
+          "freq": 60,
+          "reason": "trùng biến cách với “executive producer”"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": {
         "source": "Wikimedia Commons (ghi âm người thật)",
         "file": "en-us-produce-verb.ogg / en-us-produce-noun.ogg",
@@ -2797,12 +3246,29 @@
           "meaning_vi": "dự đoán, nói trước điều sẽ xảy ra",
           "examples": [
             {
-              "text": "The weather app predicts rain for tomorrow afternoon."
+              "text": "The weather app predicts rain for tomorrow afternoon.",
+              "vi": "Ứng dụng thời tiết dự báo chiều mai sẽ có mưa.",
+              "ja": "天気アプリは明日の午後は雨だと予測している。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
-              "text": "No one can really predict the future."
+              "text": "No one can really predict the future.",
+              "vi": "Chẳng ai thật sự đoán trước được tương lai.",
+              "ja": "未来を本当に予測できる人などいない。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "これから起こることを前もって言うこと",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 5
+          }
         },
         {
           "level": "intermediate",
@@ -2810,11 +3276,110 @@
           "meaning_vi": "dự đoán (dựa trên hiểu biết, dữ liệu hoặc kinh nghiệm)",
           "examples": [
             {
-              "text": "Experts predict that prices will keep rising next year."
+              "text": "Experts predict that prices will keep rising next year.",
+              "vi": "Các chuyên gia dự đoán giá sẽ còn tăng tiếp trong năm tới.",
+              "ja": "専門家は来年も価格が上がり続けると予測している。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "知識やデータ、経験をもとに、これから起こることを言うこと",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 5
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "make predictions",
+          "frequency": 22,
+          "frequency_rank": "high",
+          "per_million": 18.69
+        },
+        {
+          "phrase": "analysts predict",
+          "frequency": 13,
+          "frequency_rank": "high",
+          "per_million": 11.04
+        },
+        {
+          "phrase": "predict future",
+          "frequency": 12,
+          "frequency_rank": "high",
+          "per_million": 10.19
+        },
+        {
+          "phrase": "correctly predicted",
+          "frequency": 11,
+          "frequency_rank": "high",
+          "per_million": 9.34
+        },
+        {
+          "phrase": "weather prediction",
+          "frequency": 10,
+          "frequency_rank": "high",
+          "per_million": 8.49
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "prediction center",
+          "freq": 30,
+          "reason": "tên tổ chức lọt lưới bộ chặn viết hoa (Storm Prediction Center)"
+        },
+        {
+          "phrase": "tom predicted",
+          "freq": 22,
+          "reason": "máy chặn: chứa từ luôn viết hoa (tom) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "storm prediction",
+          "freq": 16,
+          "reason": "tên tổ chức lọt lưới bộ chặn viết hoa (Storm Prediction Center)"
+        },
+        {
+          "phrase": "storm prediction center",
+          "freq": 15,
+          "reason": "tên tổ chức lọt lưới bộ chặn viết hoa (Storm Prediction Center)"
+        },
+        {
+          "phrase": "impact prediction",
+          "freq": 10,
+          "reason": "mảnh câu, không phải cụm cố định"
+        },
+        {
+          "phrase": "predicted element",
+          "freq": 10,
+          "reason": "mảnh câu, không phải cụm cố định (bài hoá học)"
+        },
+        {
+          "phrase": "analysts predicted",
+          "freq": 7,
+          "reason": "trùng biến cách với “analysts predict”"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": null,
       "family_flat": null
     },
@@ -3157,13 +3722,30 @@
           "examples": [
             {
               "text": "Goods such as coal and lime were transported up the incline to the town by horse and cart.",
-              "src": "nguồn: Wiktionary/RAIL (2021, rút gọn)"
+              "src": "nguồn: Wiktionary/RAIL (2021, rút gọn)",
+              "vi": "Những mặt hàng như than và vôi được chở bằng xe ngựa lên dốc về thị trấn.",
+              "ja": "石炭や石灰などの荷物は、馬車で坂を上って町まで運ばれた。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             },
             {
               "text": "Trucks transport fresh food to the city every night.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ cho câu ngắn"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ cho câu ngắn",
+              "vi": "Đêm nào xe tải cũng chở thực phẩm tươi vào thành phố.",
+              "ja": "トラックが毎晩、新鮮な食料を都市まで運んでいる。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "人や物をある場所から別の場所へ運ぶこと",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 5
+          }
         },
         {
           "level": "beginner",
@@ -3172,9 +3754,20 @@
           "examples": [
             {
               "text": "Public transport in the city is cheap and reliable.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Giao thông công cộng ở thành phố này vừa rẻ vừa đáng tin cậy.",
+              "ja": "この街の公共交通は安くて信頼できる。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "(名詞) バスや電車、車など、移動や物を運ぶための手段や仕組み",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         },
         {
           "level": "advanced",
@@ -3183,11 +3776,160 @@
           "examples": [
             {
               "text": "The old song transported her straight back to her childhood.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Bài hát cũ lập tức đưa cô ấy trở về thời thơ ấu.",
+              "ja": "その古い歌は、彼女を一気に子供時代へ引き戻した。",
+              "d7": {
+                "vi": 5,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "強い感情で満たす、または心を別の場所や時代へ連れて行くこと",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "public transport",
+          "frequency": 300,
+          "frequency_rank": "high",
+          "per_million": 254.82
+        },
+        {
+          "phrase": "road transport",
+          "frequency": 87,
+          "frequency_rank": "high",
+          "per_million": 73.9
+        },
+        {
+          "phrase": "rail transport",
+          "frequency": 72,
+          "frequency_rank": "high",
+          "per_million": 61.16
+        },
+        {
+          "phrase": "transportation service",
+          "frequency": 58,
+          "frequency_rank": "high",
+          "per_million": 49.26
+        },
+        {
+          "phrase": "air transport",
+          "frequency": 54,
+          "frequency_rank": "high",
+          "per_million": 45.87
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "public transportation",
+          "freq": 145,
+          "reason": "trùng biến cách với “public transport”"
+        },
+        {
+          "phrase": "transportation safety",
+          "freq": 110,
+          "reason": "tên tổ chức lọt lưới bộ chặn viết hoa (National Transportation Safety Board)"
+        },
+        {
+          "phrase": "category transport",
+          "freq": 108,
+          "reason": "máy chặn: chứa từ luôn viết hoa (category) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "national transportation",
+          "freq": 100,
+          "reason": "tên tổ chức lọt lưới bộ chặn viết hoa (National Transportation Safety Board)"
+        },
+        {
+          "phrase": "national transportation safety",
+          "freq": 98,
+          "reason": "tên tổ chức lọt lưới bộ chặn viết hoa (National Transportation Safety Board)"
+        },
+        {
+          "phrase": "transport category",
+          "freq": 79,
+          "reason": "máy chặn: chứa từ luôn viết hoa (category) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "category transport category",
+          "freq": 76,
+          "reason": "máy chặn: chứa từ luôn viết hoa (category, category) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "transport corporation",
+          "freq": 66,
+          "reason": "máy chặn: chứa từ luôn viết hoa (corporation) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "major transportation",
+          "freq": 65,
+          "reason": "mảnh câu, không phải cụm cố định (nhãn phân loại bài)"
+        },
+        {
+          "phrase": "road transport corporation",
+          "freq": 59,
+          "reason": "máy chặn: chứa từ luôn viết hoa (corporation) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "major transportation service",
+          "freq": 55,
+          "reason": "mảnh câu, không phải cụm cố định (nhãn phân loại bài)"
+        },
+        {
+          "phrase": "transportation authority",
+          "freq": 37,
+          "reason": "trùng biến cách với “transport authority”"
+        },
+        {
+          "phrase": "british transport",
+          "freq": 30,
+          "reason": "máy chặn: chứa từ luôn viết hoa (british) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "transportation system",
+          "freq": 30,
+          "reason": "trùng biến cách với “transport system”"
+        },
+        {
+          "phrase": "transport services",
+          "freq": 27,
+          "reason": "trùng biến cách với “transportation service”"
+        },
+        {
+          "phrase": "london transport",
+          "freq": 26,
+          "reason": "máy chặn: chứa từ luôn viết hoa (london) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "transportation security",
+          "freq": 26,
+          "reason": "tên tổ chức lọt lưới bộ chặn viết hoa (Transportation Security Administration)"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": {
         "source": "Wikimedia Commons (ghi âm người thật)",
         "file": "en-us-transport-verb.ogg / en-us-transport-noun.ogg",
@@ -3445,12 +4187,29 @@
           "meaning_vi": "xây, lắp dựng (ghép các phần lại với nhau)",
           "examples": [
             {
-              "text": "They plan to construct a new bridge across the river."
+              "text": "They plan to construct a new bridge across the river.",
+              "vi": "Họ dự định xây một cây cầu mới bắc qua sông.",
+              "ja": "彼らは川に新しい橋を建設する計画だ。",
+              "d7": {
+                "vi": 5,
+                "ja": 4
+              }
             },
             {
-              "text": "It took us the whole weekend to construct the bookshelf."
+              "text": "It took us the whole weekend to construct the bookshelf.",
+              "vi": "Chúng tôi mất trọn cả cuối tuần mới lắp xong cái kệ sách.",
+              "ja": "その本棚を組み立てるのに週末まるまるかかった。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "部品や材料を組み合わせて何かを作ること",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         },
         {
           "level": "advanced",
@@ -3458,14 +4217,119 @@
           "meaning_vi": "dựng nên (lập luận, ý tưởng); (danh từ) khái niệm do trí óc tạo ra chứ không có sẵn trong tự nhiên",
           "examples": [
             {
-              "text": "She carefully constructed her argument point by point."
+              "text": "She carefully constructed her argument point by point.",
+              "vi": "Cô ấy cẩn thận xây dựng lập luận của mình, từng ý một.",
+              "ja": "彼女は一つひとつ論点を積み上げて、慎重に主張を組み立てた。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             },
             {
-              "text": "Money is a social construct that works only because we all agree on it."
+              "text": "Money is a social construct that works only because we all agree on it.",
+              "vi": "Tiền là một khái niệm do xã hội tạo ra, nó chỉ vận hành được vì tất cả chúng ta cùng công nhận nó.",
+              "ja": "お金は社会が作り出した概念であり、みんながそう認めているからこそ機能する。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "主張や考えなど抽象的なものを組み立てて作り上げること。また（名詞として）自然に存在するのではなく頭の中で作り出された概念",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 5
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "construction site",
+          "frequency": 91,
+          "frequency_rank": "high",
+          "per_million": 77.29
+        },
+        {
+          "phrase": "construction began",
+          "frequency": 85,
+          "frequency_rank": "high",
+          "per_million": 72.2
+        },
+        {
+          "phrase": "construction workers",
+          "frequency": 60,
+          "frequency_rank": "high",
+          "per_million": 50.96
+        },
+        {
+          "phrase": "constructive criticism",
+          "frequency": 19,
+          "frequency_rank": "high",
+          "per_million": 16.14
+        },
+        {
+          "phrase": "constructive feedback",
+          "frequency": 17,
+          "frequency_rank": "high",
+          "per_million": 14.44
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "construction worker",
+          "freq": 57,
+          "reason": "trùng biến cách với “construction workers”"
+        },
+        {
+          "phrase": "constructed language",
+          "freq": 55,
+          "reason": "thuật ngữ chuyên ngành hẹp — không thuộc bộ common (ngôn ngữ nhân tạo)"
+        },
+        {
+          "phrase": "savarino construction",
+          "freq": 48,
+          "reason": "máy chặn: chứa từ luôn viết hoa (savarino) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "constructed languages",
+          "freq": 30,
+          "reason": "thuật ngữ chuyên ngành hẹp — không thuộc bộ common (ngôn ngữ nhân tạo)"
+        },
+        {
+          "phrase": "savarino construction services",
+          "freq": 26,
+          "reason": "máy chặn: chứa từ luôn viết hoa (savarino) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "construction project",
+          "freq": 19,
+          "reason": "trùng biến cách với “construction projects”"
+        },
+        {
+          "phrase": "construction sites",
+          "freq": 17,
+          "reason": "trùng biến cách với “construction site”"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": null,
       "family_flat": null
     },
@@ -3991,12 +4855,29 @@
           "meaning_vi": "có thể nhìn thấy được",
           "examples": [
             {
-              "text": "The stars are visible on a clear night."
+              "text": "The stars are visible on a clear night.",
+              "vi": "Vào đêm trời quang, có thể nhìn thấy các vì sao.",
+              "ja": "晴れた夜には星が見える。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             },
             {
-              "text": "A small scar is still visible on his hand."
+              "text": "A small scar is still visible on his hand.",
+              "vi": "Trên tay anh ấy vẫn còn nhìn thấy một vết sẹo nhỏ.",
+              "ja": "彼の手には小さな傷あとがまだ見えている。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "目に見える様子",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 4
+          }
         },
         {
           "level": "intermediate",
@@ -4004,14 +4885,83 @@
           "meaning_vi": "dễ nhận thấy, rõ ràng",
           "examples": [
             {
-              "text": "She made no visible effort to hide her boredom."
+              "text": "She made no visible effort to hide her boredom.",
+              "vi": "Cô ấy không có dấu hiệu rõ ràng nào cho thấy mình đang cố che giấu sự chán chường.",
+              "ja": "彼女は退屈さを隠そうとする様子をまったく見せなかった。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             },
             {
-              "text": "There has been a visible improvement in his health."
+              "text": "There has been a visible improvement in his health.",
+              "vi": "Sức khỏe của anh ấy đã khá lên thấy rõ.",
+              "ja": "彼の健康状態は目に見えてよくなった。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "はっきり分かる、目立つ様子",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 4
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "visible light",
+          "frequency": 94,
+          "frequency_rank": "high",
+          "per_million": 79.84
+        },
+        {
+          "phrase": "clearly visible",
+          "frequency": 28,
+          "frequency_rank": "high",
+          "per_million": 23.78
+        },
+        {
+          "phrase": "barely visible",
+          "frequency": 23,
+          "frequency_rank": "high",
+          "per_million": 19.54
+        },
+        {
+          "phrase": "visible spectrum",
+          "frequency": 19,
+          "frequency_rank": "high",
+          "per_million": 16.14
+        },
+        {
+          "phrase": "highly visible",
+          "frequency": 15,
+          "frequency_rank": "high",
+          "per_million": 12.74
+        }
+      ],
+      "collocations_excluded": [],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": null,
       "family_flat": null
     },
@@ -5496,13 +6446,30 @@
           "examples": [
             {
               "text": "Scientists are learning how to manufacture sperm and egg cells from other types of cell.",
-              "src": "nguồn: Wiktionary/New Scientist (2008)"
+              "src": "nguồn: Wiktionary/New Scientist (2008)",
+              "vi": "Các nhà khoa học đang học cách sản xuất tinh trùng và tế bào trứng từ những loại tế bào khác.",
+              "ja": "科学者たちは、ほかの種類の細胞から精子や卵子を作り出す方法を学びつつある。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
               "text": "These toys are manufactured in several different countries.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Những món đồ chơi này được sản xuất ở nhiều nước khác nhau.",
+              "ja": "これらのおもちゃは複数の国で製造されている。",
+              "d7": {
+                "vi": 5,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "工場で機械を使って製品を大量に作ること",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 4
+          }
         },
         {
           "level": "intermediate",
@@ -5511,9 +6478,20 @@
           "examples": [
             {
               "text": "The manufacture of steel uses huge amounts of energy.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Việc sản xuất thép tiêu tốn một lượng năng lượng khổng lồ.",
+              "ja": "鉄鋼の製造には莫大なエネルギーが使われる。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "（名詞として）特に大量に品物を作る工程",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         },
         {
           "level": "advanced",
@@ -5522,11 +6500,90 @@
           "examples": [
             {
               "text": "Digital technology has made it easy to manufacture lies, blurring fact and fiction.",
-              "src": "nguồn: Wiktionary/The New York Times (2000, rút gọn)"
+              "src": "nguồn: Wiktionary/The New York Times (2000, rút gọn)",
+              "vi": "Công nghệ số khiến việc bịa ra những lời dối trá trở nên dễ dàng, làm mờ ranh giới giữa thật và giả.",
+              "ja": "デジタル技術によって嘘をでっち上げるのが簡単になり、事実と作り話の境目があいまいになっている。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "話や言い訳など、事実でないことをでっち上げること",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 5
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "car manufacturer",
+          "frequency": 57,
+          "frequency_rank": "high",
+          "per_million": 48.42
+        },
+        {
+          "phrase": "automobile manufacturer",
+          "frequency": 26,
+          "frequency_rank": "high",
+          "per_million": 22.08
+        },
+        {
+          "phrase": "manufactured goods",
+          "frequency": 25,
+          "frequency_rank": "high",
+          "per_million": 21.23
+        },
+        {
+          "phrase": "largest manufacturer",
+          "frequency": 17,
+          "frequency_rank": "high",
+          "per_million": 14.44
+        },
+        {
+          "phrase": "aircraft manufacturer",
+          "frequency": 16,
+          "frequency_rank": "high",
+          "per_million": 13.59
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "car manufacturers",
+          "freq": 21,
+          "reason": "trùng biến cách với “car manufacturer”"
+        },
+        {
+          "phrase": "american manufacturer",
+          "freq": 9,
+          "reason": "máy chặn: chứa từ luôn viết hoa (american) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "automobile manufacturers",
+          "freq": 9,
+          "reason": "trùng biến cách với “automobile manufacturer”"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": {
         "source": "Wikimedia Commons (ghi âm người thật)",
         "file": "LL-Q1860_(eng)-Vealhurl-manufacture.wav",
@@ -6453,40 +7510,168 @@
         {
           "level": "beginner",
           "meaning": "To hold a particular position so that someone can photograph, film, or paint you.",
-          "meaning_vi": "Tạo dáng, giữ một tư thế để người khác chụp ảnh hoặc vẽ.",
+          "meaning_vi": "tạo dáng, giữ một tư thế để người khác chụp ảnh, quay phim hoặc vẽ",
           "examples": [
             {
-              "text": "They posed for a family photo in front of the house."
+              "text": "They posed for a family photo in front of the house.",
+              "vi": "Cả nhà tạo dáng chụp một tấm ảnh gia đình trước cửa nhà.",
+              "ja": "彼らは家の前で家族写真のためにポーズをとった。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             },
             {
-              "text": "The model posed patiently while the artist sketched her."
+              "text": "The model posed patiently while the artist sketched her.",
+              "vi": "Người mẫu kiên nhẫn giữ nguyên tư thế trong lúc hoạ sĩ ký hoạ cô.",
+              "ja": "モデルは画家がスケッチする間、辛抱強くポーズをとり続けた。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "写真・映像・絵のために、ある姿勢をとること",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 4
+          }
         },
         {
           "level": "intermediate",
           "meaning": "To present or put forward something such as a question, problem, or threat.",
-          "meaning_vi": "Đưa ra, nêu ra (câu hỏi, vấn đề, mối đe dọa).",
+          "meaning_vi": "đưa ra, nêu ra (câu hỏi, vấn đề, mối đe doạ)",
           "examples": [
             {
-              "text": "The teacher posed a difficult question to the whole class."
+              "text": "The teacher posed a difficult question to the whole class.",
+              "vi": "Cô giáo đưa ra một câu hỏi khó cho cả lớp.",
+              "ja": "先生はクラス全体に難しい質問を投げかけた。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             },
             {
-              "text": "Heavy rain can pose a serious threat to old wooden bridges."
+              "text": "Heavy rain can pose a serious threat to old wooden bridges.",
+              "vi": "Mưa lớn có thể là mối đe doạ nghiêm trọng với những cây cầu gỗ cũ.",
+              "ja": "大雨は古い木造の橋にとって深刻な脅威となりうる。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "質問・問題・脅威などを投げかけたり、もたらしたりすること",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 4
+          }
         },
         {
           "level": "intermediate",
           "meaning": "A particular position in which someone stands or sits, especially for a picture.",
-          "meaning_vi": "Tư thế, dáng (nhất là khi chụp ảnh hoặc làm mẫu).",
+          "meaning_vi": "tư thế, dáng (nhất là khi chụp ảnh hoặc làm mẫu)",
           "examples": [
             {
-              "text": "She held the same pose for almost an hour."
+              "text": "She held the same pose for almost an hour.",
+              "vi": "Cô ấy giữ nguyên một tư thế suốt gần một tiếng.",
+              "ja": "彼女は同じポーズをほぼ一時間も保っていた。",
+              "d7": {
+                "vi": 5,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "（特に写真や絵のために）とる姿勢・ポーズ",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "threat posed",
+          "frequency": 20,
+          "frequency_rank": "high",
+          "per_million": 16.99
+        },
+        {
+          "phrase": "questions posed",
+          "frequency": 5,
+          "frequency_rank": "medium",
+          "per_million": 4.25
+        },
+        {
+          "phrase": "pose risk",
+          "frequency": 3,
+          "frequency_rank": "low",
+          "per_million": 2.55
+        },
+        {
+          "phrase": "problems posed",
+          "frequency": 3,
+          "frequency_rank": "low",
+          "per_million": 2.55
+        },
+        {
+          "phrase": "yoga poses",
+          "frequency": 3,
+          "frequency_rank": "low",
+          "per_million": 2.55
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "posed nude",
+          "freq": 13,
+          "reason": "ngữ cảnh không phù hợp cho từ điển học"
+        },
+        {
+          "phrase": "threats posed",
+          "freq": 4,
+          "reason": "trùng biến cách với “threat posed”"
+        },
+        {
+          "phrase": "tom posed",
+          "freq": 4,
+          "reason": "máy chặn: chứa từ luôn viết hoa (tom) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "change poses",
+          "freq": 3,
+          "reason": "mảnh câu, không phải cụm cố định (“climate change poses…”)"
+        },
+        {
+          "phrase": "christ pose",
+          "freq": 3,
+          "reason": "máy chặn: chứa từ luôn viết hoa (christ) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "pose nude",
+          "freq": 3,
+          "reason": "ngữ cảnh không phù hợp cho từ điển học"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": null,
       "family_flat": null
     },
@@ -6661,30 +7846,126 @@
         {
           "level": "intermediate",
           "meaning": "To become or make something smaller, weaker, fewer, or less important.",
-          "meaning_vi": "Giảm đi, suy giảm; làm cho nhỏ đi, yếu đi, hoặc kém quan trọng hơn.",
+          "meaning_vi": "giảm đi, suy yếu; làm cho nhỏ đi, yếu đi hoặc kém quan trọng hơn",
           "examples": [
             {
               "text": "The routine carrying of weapons has diminished.",
-              "src": "nguồn: Wiktionary/The Economist (2013)"
+              "src": "nguồn: Wiktionary/The Economist (2013)",
+              "vi": "Chuyện thường xuyên mang theo vũ khí đã giảm hẳn.",
+              "ja": "武器を日常的に持ち歩くことは少なくなった。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
               "text": "Its operational importance has seriously diminished since electrification.",
-              "src": "nguồn: Wiktionary/RAIL (2021)"
+              "src": "nguồn: Wiktionary/RAIL (2021)",
+              "vi": "Từ khi điện khí hoá, tầm quan trọng về mặt vận hành của nó đã giảm đi rất nhiều.",
+              "ja": "電化されて以降、その運用上の重要性は大きく低下した。",
+              "d7": {
+                "vi": 5,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "小さく・弱く・少なくなる、または重要でなくなること。また、そうさせること",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 5
+          }
         },
         {
           "level": "advanced",
           "meaning": "To make someone or something seem less impressive or valuable than they really are.",
-          "meaning_vi": "Xem nhẹ, hạ thấp (làm ai/cái gì đó có vẻ kém giá trị hơn thực tế).",
+          "meaning_vi": "xem nhẹ, hạ thấp (làm ai/cái gì có vẻ kém giá trị hơn thực tế)",
           "examples": [
             {
               "text": "Each one diminishes liberty.",
-              "src": "nguồn: Wiktionary/The Guardian (2012)"
+              "src": "nguồn: Wiktionary/The Guardian (2012)",
+              "vi": "Mỗi điều như vậy đều hạ thấp giá trị của tự do.",
+              "ja": "その一つ一つが自由の価値を損なっている。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "人や物を、実際よりも大したことのない、価値の低いもののように見せること",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "greatly diminished",
+          "frequency": 5,
+          "frequency_rank": "medium",
+          "per_million": 4.25
+        },
+        {
+          "phrase": "significantly diminished",
+          "frequency": 4,
+          "frequency_rank": "medium",
+          "per_million": 3.4
+        },
+        {
+          "phrase": "diminished capacity",
+          "frequency": 2,
+          "frequency_rank": "low",
+          "per_million": 1.7
+        },
+        {
+          "phrase": "diminished responsibility",
+          "frequency": 2,
+          "frequency_rank": "low",
+          "per_million": 1.7
+        },
+        {
+          "phrase": "diminishing returns",
+          "frequency": 2,
+          "frequency_rank": "low",
+          "per_million": 1.7
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "diminished fifth",
+          "freq": 2,
+          "reason": "thuật ngữ chuyên ngành hẹp — không thuộc bộ common (nhạc lý)"
+        },
+        {
+          "phrase": "diminished seventh",
+          "freq": 2,
+          "reason": "thuật ngữ chuyên ngành hẹp — không thuộc bộ common (nhạc lý)"
+        },
+        {
+          "phrase": "importance diminished",
+          "freq": 2,
+          "reason": "chủ ngữ + động từ, không phải cụm để học"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": {
         "source": "Wikimedia Commons (ghi âm người thật)",
         "file": "en-us-diminish.ogg",
@@ -7112,13 +8393,30 @@
           "examples": [
             {
               "text": "Don't provoke the dog; it may try to bite you.",
-              "src": "nguồn: Wiktionary (câu ví dụ)"
+              "src": "nguồn: Wiktionary (câu ví dụ)",
+              "vi": "Đừng chọc con chó, nó có thể cắn bạn đấy.",
+              "ja": "犬を刺激するな。噛みつこうとするかもしれない。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             },
             {
               "text": "Spain were provoked into a response late in the game.",
-              "src": "nguồn: Wiktionary/BBC Sport (2011, rút gọn)"
+              "src": "nguồn: Wiktionary/BBC Sport (2011, rút gọn)",
+              "vi": "Tây Ban Nha bị dồn tới mức phải phản ứng lại vào cuối trận.",
+              "ja": "試合終盤、スペインは挑発されて反応を示した。",
+              "d7": {
+                "vi": 4,
+                "ja": 4
+              }
             }
-          ]
+          ],
+          "meaning_ja": "怒り・笑い・思考など、ある反応や感情を引き起こすこと",
+          "meaning_d7": {
+            "vi": 4,
+            "ja": 4
+          }
         },
         {
           "level": "intermediate",
@@ -7127,11 +8425,130 @@
           "examples": [
             {
               "text": "Stop poking your little brother — you're just trying to provoke him.",
-              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ"
+              "src": "biên soạn (grounded) — Wiktextract không có câu ví dụ",
+              "vi": "Thôi chọc em trai đi, con chỉ đang cố làm nó nổi cáu thôi.",
+              "ja": "弟をつつくのはやめなさい。ただ怒らせようとしているだけだろう。",
+              "d7": {
+                "vi": 4,
+                "ja": 5
+              }
             }
-          ]
+          ],
+          "meaning_ja": "相手が反応するように、わざといらだたせたり怒らせたりすること",
+          "meaning_d7": {
+            "vi": 5,
+            "ja": 5
+          }
         }
       ],
+      "collocations": [
+        {
+          "phrase": "provoked controversy",
+          "frequency": 3,
+          "frequency_rank": "low",
+          "per_million": 2.55
+        },
+        {
+          "phrase": "provoked criticism",
+          "frequency": 3,
+          "frequency_rank": "low",
+          "per_million": 2.55
+        },
+        {
+          "phrase": "provoke riots",
+          "frequency": 2,
+          "frequency_rank": "low",
+          "per_million": 1.7
+        },
+        {
+          "phrase": "provoke suspicion",
+          "frequency": 2,
+          "frequency_rank": "low",
+          "per_million": 1.7
+        },
+        {
+          "phrase": "provoke violence",
+          "frequency": 2,
+          "frequency_rank": "low",
+          "per_million": 1.7
+        }
+      ],
+      "collocations_excluded": [
+        {
+          "phrase": "provoke tom",
+          "freq": 9,
+          "reason": "máy chặn: chứa từ luôn viết hoa (tom) — tên riêng/tên tổ chức"
+        },
+        {
+          "phrase": "provoked international",
+          "freq": 7,
+          "reason": "mảnh câu, không phải cụm cố định (“provoked international outrage”)"
+        },
+        {
+          "phrase": "reply provoked",
+          "freq": 3,
+          "reason": "chủ ngữ + động từ, không phải cụm để học"
+        },
+        {
+          "phrase": "words provoked",
+          "freq": 3,
+          "reason": "chủ ngữ + động từ, không phải cụm để học"
+        },
+        {
+          "phrase": "people provoke",
+          "freq": 2,
+          "reason": "chủ ngữ + động từ, không phải cụm để học"
+        },
+        {
+          "phrase": "provoke chills",
+          "freq": 2,
+          "reason": "thuật ngữ chuyên ngành hẹp — không thuộc bộ common (bài y khoa)"
+        },
+        {
+          "phrase": "provoke controversy",
+          "freq": 2,
+          "reason": "trùng biến cách với “provoked controversy”"
+        },
+        {
+          "phrase": "provoke further",
+          "freq": 2,
+          "reason": "mảnh câu, không phải cụm cố định (“provoke further violence”)"
+        },
+        {
+          "phrase": "provoke myocloni",
+          "freq": 2,
+          "reason": "thuật ngữ chuyên ngành hẹp — không thuộc bộ common (bài y khoa)"
+        },
+        {
+          "phrase": "speech provoked",
+          "freq": 2,
+          "reason": "chủ ngữ + động từ, không phải cụm để học"
+        },
+        {
+          "phrase": "tom provoked",
+          "freq": 2,
+          "reason": "máy chặn: chứa từ luôn viết hoa (tom) — tên riêng/tên tổ chức"
+        }
+      ],
+      "collocations_note": null,
+      "collocations_corpus": {
+        "sentences": 63671,
+        "tokens": 1177308,
+        "sources": {
+          "simplewiki": {
+            "license": "CC BY-SA 4.0",
+            "sentences": 48571
+          },
+          "wikinews": {
+            "license": "CC BY 2.5",
+            "sentences": 9506
+          },
+          "tatoeba": {
+            "license": "CC BY 2.0 FR",
+            "sentences": 5594
+          }
+        }
+      },
       "audio": {
         "source": "Wikimedia Commons (ghi âm người thật)",
         "file": "en-us-provoke.ogg",
