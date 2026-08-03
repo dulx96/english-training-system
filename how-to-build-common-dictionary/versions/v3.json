@@ -445,11 +445,12 @@
         }
       },
       "audio": {
-        "source": "Wikimedia Commons (ghi âm người thật)",
+        "source": "Wikimedia Commons (người thật đọc)",
+        "kind": "human",
         "file": "en-us-form.ogg",
         "url": "https://commons.wikimedia.org/wiki/File:en-us-form.ogg",
         "accent": "us",
-        "fallback": "Piper TTS (offline)"
+        "local": "audio/form_us_commons.mp3"
       },
       "family_flat": null
     },
@@ -911,7 +912,15 @@
           }
         }
       },
-      "audio": null,
+      "audio": {
+        "source": "Piper (máy đọc offline)",
+        "kind": "tts",
+        "file": "describe_us_piper.mp3",
+        "url": "",
+        "accent": "us",
+        "local": "audio/describe_us_piper.mp3",
+        "note": "Wikimedia Commons chưa có ai đọc từ này"
+      },
       "family_flat": null
     },
     {
@@ -1997,7 +2006,15 @@
           }
         }
       },
-      "audio": null,
+      "audio": {
+        "source": "Piper (máy đọc offline)",
+        "kind": "tts",
+        "file": "photograph_us_piper.mp3",
+        "url": "",
+        "accent": "us",
+        "local": "audio/photograph_us_piper.mp3",
+        "note": "Wikimedia Commons chưa có ai đọc từ này"
+      },
       "family_flat": null
     },
     {
@@ -2712,11 +2729,12 @@
         }
       },
       "audio": {
-        "source": "Wikimedia Commons (ghi âm người thật)",
-        "file": "en-us-produce-verb.ogg / en-us-produce-noun.ogg",
+        "source": "Wikimedia Commons (người thật đọc)",
+        "kind": "human",
+        "file": "en-us-produce-verb.ogg",
         "url": "https://commons.wikimedia.org/wiki/File:en-us-produce-verb.ogg",
         "accent": "us",
-        "fallback": "Piper TTS (offline)"
+        "local": "audio/produce_us_commons.mp3"
       },
       "family_flat": null
     },
@@ -3380,7 +3398,15 @@
           }
         }
       },
-      "audio": null,
+      "audio": {
+        "source": "Piper (máy đọc offline)",
+        "kind": "tts",
+        "file": "predict_us_piper.mp3",
+        "url": "",
+        "accent": "us",
+        "local": "audio/predict_us_piper.mp3",
+        "note": "Wikimedia Commons chưa có ai đọc từ này"
+      },
       "family_flat": null
     },
     {
@@ -3931,11 +3957,12 @@
         }
       },
       "audio": {
-        "source": "Wikimedia Commons (ghi âm người thật)",
-        "file": "en-us-transport-verb.ogg / en-us-transport-noun.ogg",
+        "source": "Wikimedia Commons (người thật đọc)",
+        "kind": "human",
+        "file": "en-us-transport-verb.ogg",
         "url": "https://commons.wikimedia.org/wiki/File:en-us-transport-verb.ogg",
         "accent": "us",
-        "fallback": "Piper TTS (offline)"
+        "local": "audio/transport_us_commons.mp3"
       },
       "family_flat": null
     },
@@ -4330,7 +4357,15 @@
           }
         }
       },
-      "audio": null,
+      "audio": {
+        "source": "Piper (máy đọc offline)",
+        "kind": "tts",
+        "file": "construct_us_piper.mp3",
+        "url": "",
+        "accent": "us",
+        "local": "audio/construct_us_piper.mp3",
+        "note": "Wikimedia Commons chưa có ai đọc từ này"
+      },
       "family_flat": null
     },
     {
@@ -4962,7 +4997,15 @@
           }
         }
       },
-      "audio": null,
+      "audio": {
+        "source": "Piper (máy đọc offline)",
+        "kind": "tts",
+        "file": "visible_us_piper.mp3",
+        "url": "",
+        "accent": "us",
+        "local": "audio/visible_us_piper.mp3",
+        "note": "Wikimedia Commons chưa có ai đọc từ này"
+      },
       "family_flat": null
     },
     {
@@ -6585,11 +6628,12 @@
         }
       },
       "audio": {
-        "source": "Wikimedia Commons (ghi âm người thật)",
+        "source": "Wikimedia Commons (người thật đọc)",
+        "kind": "human",
         "file": "LL-Q1860_(eng)-Vealhurl-manufacture.wav",
         "url": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-manufacture.wav",
         "accent": "uk",
-        "fallback": "Piper TTS (offline)"
+        "local": "audio/manufacture_uk_commons.mp3"
       },
       "family_flat": null
     },
@@ -7672,7 +7716,15 @@
           }
         }
       },
-      "audio": null,
+      "audio": {
+        "source": "Piper (máy đọc offline)",
+        "kind": "tts",
+        "file": "pose_us_piper.mp3",
+        "url": "",
+        "accent": "us",
+        "local": "audio/pose_us_piper.mp3",
+        "note": "Wikimedia Commons chưa có ai đọc từ này"
+      },
       "family_flat": null
     },
     {
@@ -7967,11 +8019,12 @@
         }
       },
       "audio": {
-        "source": "Wikimedia Commons (ghi âm người thật)",
+        "source": "Wikimedia Commons (người thật đọc)",
+        "kind": "human",
         "file": "en-us-diminish.ogg",
         "url": "https://commons.wikimedia.org/wiki/File:en-us-diminish.ogg",
         "accent": "us",
-        "fallback": "Piper TTS (offline)"
+        "local": "audio/diminish_us_commons.mp3"
       },
       "family_flat": null
     },
@@ -8550,11 +8603,12 @@
         }
       },
       "audio": {
-        "source": "Wikimedia Commons (ghi âm người thật)",
+        "source": "Wikimedia Commons (người thật đọc)",
+        "kind": "human",
         "file": "en-us-provoke.ogg",
         "url": "https://commons.wikimedia.org/wiki/File:en-us-provoke.ogg",
         "accent": "us",
-        "fallback": "Piper TTS (offline)"
+        "local": "audio/provoke_us_commons.mp3"
       },
       "family_flat": null
     }

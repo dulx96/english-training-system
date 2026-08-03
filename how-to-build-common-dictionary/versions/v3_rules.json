@@ -239,7 +239,7 @@
         },
         {
           "id": "B4-3",
-          "text": "**Chỉ loại 3 trường hợp**: không phải từ · biến cách thuần (số nhiều/thì) · sai gốc (*miniature*, *port*). **Không có sàn tần suất.**",
+          "text": "**Chỉ loại 3 trường hợp**: không phải từ · biến cách thuần (số nhiều/thì) · sai gốc (*miniature*, *port*). **Không có ngưỡng tần suất.**",
           "by": "máy chặn",
           "status": "đang áp",
           "where": "build_report_v2 · ADR-023"
@@ -561,9 +561,9 @@
     [
       "related_with_nuance",
       "≥1 mục; phần phân biệt 30–400 ký tự",
-      "Phân biệt phải **dùng được** (người học chọn đúng từ), không chỉ nói “khác nhau”",
+      "Phân biệt phải **dùng được** (người học chọn đúng từ), không chỉ nói “khác nhau”. **Bộ thông dụng giai đoạn đầu chưa làm mục này** — 12 từ mẫu không có mục nào. Luật đang áp cho bộ 292 từ chuyên ngành",
       "D5",
-      "đang áp"
+      "MỚI — chưa áp"
     ],
     [
       "antonyms",
