@@ -4,22 +4,22 @@
   "note": "Mỗi luật ghi rõ **ai thực thi**: “máy chặn” = sai thì dữ liệu không ghi ra được · “nguồn quyết định” = tra danh sách, AI không được chọn · “đề bài cho AI” = nằm trong prompt, chưa có máy chặn · “vòng chấm” = bắt bằng vòng chấm độc lập. Luật **MỚI** là luật vừa nhận, **chưa áp** lên 35 từ của bản này.",
   "anchor_howto": "Chọn dòng theo **loại từ của nghĩa đang viết ví dụ** (không phải loại từ của headword nói chung): một từ hai loại như *produce* (v) / *produce* (n) dùng hai mỏ neo khác nhau. Từ trừu tượng vs cụ thể phân theo “sờ/nhìn được không”. **Động từ nội động (intransitive) nằm NGOÀI dòng “động từ hành động”** — PO chốt 2026-08-20: dòng đó chỉ áp cho động từ **ngoại động**. Nghĩa nội động (*ice began to form*, *they posed for a photo*) khai `động từ nội động` và giữ luật nền VD-1…VD-5; **máy kiểm lại lời khai đó** (câu có tân ngữ mà khai nội động thì bị chặn). Giới từ, liên từ, cụm cố định thì khai “không áp mỏ neo” kèm lý do.",
   "counts": {
-    "total": 61,
-    "hard": 46,
+    "total": 62,
+    "hard": 47,
     "prompt": 9,
     "judge": 6,
-    "live": 59,
+    "live": 60,
     "new": 0,
     "todo": 2
   },
   "summary": [
     [
       "Đổi gì",
-      "**Nới toàn bộ luật dịch** (PO nhắc 2 vòng): mọi phần nội dung — cụm từ, đồng nghĩa, gia đình từ, từ cùng gốc — nay **được có nghĩa Việt/Nhật**; nguyên tắc cũ “từ vựng mục tiêu không dịch” bỏ. Kèm theo là **bảng gloss dùng chung**: mỗi từ dịch **một lần**, mọi mục đọc chung, và **máy chọn nghĩa đời thường** để đem đi dịch (*conductor* → “nhạc trưởng”, không phải “vật dẫn điện”). **Và áp ba luật soạn câu ví dụ PO giao 02/08** — không thương hiệu · mỏ neo tư duy theo loại từ · khai mỏ neo — ba luật này ở bản v3 mới chỉ ghi vào sổ, nay có máy chặn, nên **câu ví dụ đổi thật**. Bảng này liệt kê **toàn bộ 61 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
+      "**Nới toàn bộ luật dịch** (PO nhắc 2 vòng): mọi phần nội dung — cụm từ, đồng nghĩa, gia đình từ, từ cùng gốc — nay **được có nghĩa Việt/Nhật**; nguyên tắc cũ “từ vựng mục tiêu không dịch” bỏ. Kèm theo là **bảng gloss dùng chung**: mỗi từ dịch **một lần**, mọi mục đọc chung, và **máy chọn nghĩa đời thường** để đem đi dịch (*conductor* → “nhạc trưởng”, không phải “vật dẫn điện”). **Và áp ba luật soạn câu ví dụ PO giao 02/08** — không thương hiệu · mỏ neo tư duy theo loại từ · khai mỏ neo — ba luật này ở bản v3 mới chỉ ghi vào sổ, nay có máy chặn, nên **câu ví dụ đổi thật**. Bảng này liệt kê **toàn bộ 62 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
     ],
     [
       "Bằng chứng",
-      "61 luật: **46** do máy hoặc nguồn quyết định (AI không cãi được), 9 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 59 đang chạy · 0 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
+      "62 luật: **47** do máy hoặc nguồn quyết định (AI không cãi được), 9 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 60 đang chạy · 0 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
     ],
     [
       "PO vừa chốt",
@@ -473,10 +473,10 @@
         },
         {
           "id": "B8-6",
-          "text": "Nghĩa của **từng TỪ** (mục ②③, cụm từ, nghĩa nhanh) dịch **một lần** vào **bảng gloss dùng chung**, mọi chỗ đọc chung — không dịch lại theo từng entry. Lý do: trên bảng gốc từ, một từ nằm trong trung bình **21** danh sách “cùng gốc” → dịch lặp 21 lần **và** các trang mâu thuẫn nhau. **Khoá bảng là (từ, LOẠI TỪ)**, không phải từ: `review` danh từ (bài điểm sách) và `review` động từ (xem lại) là hai mục khác nhau; loại từ lấy thẳng từ lời khai cạnh mục ②③, không đoán lại. Mỗi gloss ghi **nguồn** (① entry đã có → dùng lại · ② JMdict cho tiếng Nhật · ③ AI + vòng chấm D7) và chỉ hiện khi đã qua D7.",
+          "text": "Nghĩa của **từng MỤC VỐN TỪ — từ rời HOẶC cụm** (mục ②③, cụm từ, nghĩa nhanh) dịch **một lần** vào **bảng gloss dùng chung**, mọi chỗ đọc chung — không dịch lại theo từng entry. Lý do: trên bảng gốc từ, một từ nằm trong trung bình **21** danh sách “cùng gốc” → dịch lặp 21 lần **và** các trang mâu thuẫn nhau. **Khoá bảng là (bề mặt, LOẠI TỪ)**, không phải từ: `review` danh từ (bài điểm sách) và `review` động từ (xem lại) là hai mục khác nhau; loại từ lấy thẳng từ lời khai cạnh mục ②③, không đoán lại. **Cụm mang loại từ `phrase`** (`take the form|phrase`) và nằm cùng bảng với từ rời — KHÔNG mở bảng thứ hai. *(Sửa 2026-09-12, mục ⑳ của CF-1d-fix: luật khai phủ cụm từ đầu nhưng bảng chỉ nhận 4 loại từ của từ rời, nên phủ đúng **0/175** cụm — không có chỗ nào chứa nghĩa cụm.)* Mỗi gloss ghi **nguồn** (① entry đã có → dùng lại · ② JMdict cho tiếng Nhật · ③ AI + vòng chấm D7) và chỉ hiện khi đã qua D7. **Cụm đi thẳng xuống ③ cho cả hai thứ tiếng**: JMdict tra theo mục từ, không tra được cụm tự do.",
           "by": "máy chặn",
           "status": "đang áp",
-          "where": "ADR-027 · src/gloss_index.gloss_key · scripts/59"
+          "where": "ADR-027 · src/gloss_index.gloss_key · PHRASE_POS · scripts/59 · cf1_pilot/make_phrase_gloss.py --publish-gloss"
         },
         {
           "id": "B8-7",
@@ -505,6 +505,13 @@
           "by": "vòng chấm",
           "status": "đang áp",
           "where": "src/quick_gloss.short_text_errors · gate_errors · cf1_pilot/apply_judge_v4.py · eval_rubric §D7"
+        },
+        {
+          "id": "B8-11",
+          "text": "**Nghĩa cụm dịch theo nghĩa của CẢ CỤM trong cách dùng thật, không dịch từng chữ** — `take photographs` là “chụp ảnh”, không phải “lấy các bức ảnh”. PO vòng 5: *“hiển thị 5 collocations thông dụng, kèm nghĩa việt/nhật, chứ nếu không có nghĩa thì người học lại phải đi tra từ tiếp”*. Cụm vào **cùng một bảng gloss** với từ rời, khoá `(cụm, `phrase`)` — không mở bảng thứ hai (B8-6). Cụm **không hỏi WordNet** nghĩa nào đem đi dịch: WordNet chỉ có 11/175 cụm của bộ v4 và 3 trong 11 trả nghĩa của thứ khác (`visible light` → nghĩa vật lý của `light`, `intrinsic factor` → một chất trong dạ dày, `manufacturing plant` → `factory`). Thay vào đó mỗi cụm phải **khai nó dùng nghĩa nào trong các nghĩa entry đang bày** (tập đóng, đúng nếp B8-8), hoặc khai vì sao không neo được bằng **một lý do trong danh sách đóng**: dùng từ phái sinh · nghĩa cả cụm không cộng từ từng chữ · nghĩa có thật nhưng chưa nằm trong bộ nghĩa đang bày. Lời khai “dùng từ phái sinh” **máy kiểm được cả hai chiều** — cụm có chứa một DẠNG CHIA của từ đích (kể cả `-ed`/`-ing`) thì khai thế là sai, và ngược lại. Độ dài cỡ mục từ điển: ≤ 42 ký tự (Việt), ≤ 15 ký tự (Nhật), không kết thúc bằng dấu câu. **Cái máy KHÔNG kiểm được là chính luật đầu tiên** — “dịch cả cụm, không dịch từng chữ” do vòng chấm D7 giữ (fidelity + naturalness), không có cửa máy nào bắt được nó.",
+          "by": "máy chặn",
+          "status": "đang áp",
+          "where": "ADR-027 · src/phrase_gloss.PhraseGloss.gate_errors · src/quick_gloss.uses_headword · cf1_pilot/make_phrase_gloss.py --check"
         }
       ]
     },

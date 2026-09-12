@@ -455,35 +455,70 @@
           "frequency": 2373856,
           "per_million": 2.924,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "các dạng khác nhau",
+          "ja": "さまざまな形",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the shape or appearance of someone or something"
         },
         {
           "phrase": "take the form",
           "frequency": 1528409,
           "per_million": 1.978,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "mang hình thức · có dạng",
+          "ja": "形をとる",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the shape or appearance of someone or something"
         },
         {
           "phrase": "application form",
           "frequency": 1372587,
           "per_million": 1.69,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "đơn xin · mẫu đơn đăng ký",
+          "ja": "申込書",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "an official document with printed spaces where you write information"
         },
         {
           "phrase": "form a government",
           "frequency": 121394,
           "per_million": 0.157,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "lập chính phủ",
+          "ja": "政府を樹立する",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to make something, give it a shape, or begin to exist"
         },
         {
           "phrase": "form a group",
           "frequency": 118616,
           "per_million": 0.153,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "lập nhóm · tụ lại thành nhóm",
+          "ja": "グループを作る",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make something, give it a shape, or begin to exist"
         }
       ],
       "collocations_excluded": [
@@ -1111,35 +1146,72 @@
           "frequency": 1617940,
           "per_million": 1.993,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bản mô tả chi tiết",
+          "ja": "詳細な説明",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "job description",
           "frequency": 831609,
           "per_million": 1.024,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bản mô tả công việc",
+          "ja": "職務記述書",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "briefly describe",
           "frequency": 458075,
           "per_million": 0.564,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "mô tả ngắn gọn",
+          "ja": "簡単に説明する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to say what someone or something is like, using words"
         },
         {
           "phrase": "describe in detail",
           "frequency": 203808,
           "per_million": 0.264,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "mô tả chi tiết · mô tả tỉ mỉ",
+          "ja": "詳しく説明する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to say what someone or something is like, using words"
         },
         {
           "phrase": "accurately describe",
           "frequency": 152533,
           "per_million": 0.188,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "mô tả chính xác",
+          "ja": "正確に描写する",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to say what someone or something is like, using words"
         }
       ],
       "collocations_excluded": [
@@ -2345,35 +2417,73 @@
           "frequency": 98183,
           "per_million": 0.121,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "ảnh gia đình",
+          "ja": "家族写真",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "a picture that you make with a camera"
         },
         {
           "phrase": "professional photographer",
           "frequency": 84716,
           "per_million": 0.104,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "thợ chụp ảnh chuyên nghiệp",
+          "ja": "プロの写真家",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "photographic evidence",
           "frequency": 80905,
           "per_million": 0.1,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bằng chứng bằng hình ảnh",
+          "ja": "写真による証拠",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "photographic memory",
           "frequency": 70909,
           "per_million": 0.087,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "trí nhớ như chụp ảnh",
+          "ja": "写真のような記憶力",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "take a photograph",
           "frequency": 54953,
           "per_million": 0.071,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chụp một tấm ảnh",
+          "ja": "写真を撮る",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "a picture that you make with a camera"
         }
       ],
       "collocations_excluded": [
@@ -3209,35 +3319,73 @@
           "frequency": 1267844,
           "per_million": 1.561,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chi phí sản xuất",
+          "ja": "生産コスト",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "production line",
           "frequency": 502349,
           "per_million": 0.619,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dây chuyền sản xuất",
+          "ja": "製造ライン",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "fresh produce",
           "frequency": 298703,
           "per_million": 0.368,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nông sản tươi · rau quả tươi",
+          "ja": "新鮮な農産物",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(noun) fresh fruit and vegetables grown on farms"
         },
         {
           "phrase": "locally produced",
           "frequency": 285766,
           "per_million": 0.352,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sản xuất tại địa phương",
+          "ja": "地元で作られた",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make goods in a factory, or to grow food and other things"
         },
         {
           "phrase": "highly productive",
           "frequency": 257894,
           "per_million": 0.318,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "năng suất rất cao",
+          "ja": "生産性が高い",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         }
       ],
       "collocations_excluded": [
@@ -4007,35 +4155,71 @@
           "frequency": 254075,
           "per_million": 0.329,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dự đoán tương lai",
+          "ja": "未来を予測する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to say that something will happen before it happens"
         },
         {
           "phrase": "accurately predict",
           "frequency": 207984,
           "per_million": 0.256,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dự đoán chính xác",
+          "ja": "正確に予測する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to say what will happen based on knowledge, data, or experience"
         },
         {
           "phrase": "hard to predict",
           "frequency": 124345,
           "per_million": 0.161,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "khó đoán trước",
+          "ja": "予測しにくい",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to say that something will happen before it happens"
         },
         {
           "phrase": "correctly predicted",
           "frequency": 97027,
           "per_million": 0.119,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dự đoán đúng",
+          "ja": "正しく予測する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to say what will happen based on knowledge, data, or experience"
         },
         {
           "phrase": "make a prediction",
           "frequency": 54189,
           "per_million": 0.07,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "đưa ra dự đoán",
+          "ja": "予測を立てる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         }
       ],
       "collocations_excluded": [
@@ -4655,35 +4839,70 @@
           "frequency": 1492215,
           "per_million": 1.838,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "giao thông công cộng",
+          "ja": "公共交通機関",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(noun) a system or way of travelling and moving goods, such as buses, trains, and cars"
         },
         {
           "phrase": "air transport",
           "frequency": 1154730,
           "per_million": 1.422,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "vận tải hàng không",
+          "ja": "航空輸送",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(noun) a system or way of travelling and moving goods, such as buses, trains, and cars"
         },
         {
           "phrase": "transport system",
           "frequency": 665708,
           "per_million": 0.82,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "hệ thống giao thông vận tải",
+          "ja": "交通システム",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(noun) a system or way of travelling and moving goods, such as buses, trains, and cars"
         },
         {
           "phrase": "transport costs",
           "frequency": 383941,
           "per_million": 0.473,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chi phí vận chuyển",
+          "ja": "輸送費",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to move people or goods from one place to another"
         },
         {
           "phrase": "means of transport",
           "frequency": 323408,
           "per_million": 0.418,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "phương tiện đi lại · phương tiện vận tải",
+          "ja": "交通手段",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(noun) a system or way of travelling and moving goods, such as buses, trains, and cars"
         }
       ],
       "collocations_excluded": [
@@ -5208,35 +5427,74 @@
           "frequency": 1360880,
           "per_million": 1.676,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "ngành xây dựng",
+          "ja": "建設業",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "construction project",
           "frequency": 626711,
           "per_million": 0.772,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dự án xây dựng",
+          "ja": "建設プロジェクト",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "construction site",
           "frequency": 570406,
           "per_million": 0.703,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "công trường xây dựng",
+          "ja": "建設現場",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "newly constructed",
           "frequency": 302090,
           "per_million": 0.372,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "mới xây xong, vừa dựng xong",
+          "ja": "新しく建てられた",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to build something by putting parts together"
         },
         {
           "phrase": "constructive criticism",
           "frequency": 215939,
           "per_million": 0.266,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "góp ý mang tính xây dựng",
+          "ja": "建設的な批判",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         }
       ],
       "collocations_excluded": [
@@ -6013,35 +6271,70 @@
           "frequency": 895021,
           "per_million": 1.102,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nhìn thấy rõ",
+          "ja": "はっきり見える",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "able to be seen"
         },
         {
           "phrase": "visible light",
           "frequency": 652026,
           "per_million": 0.803,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "ánh sáng nhìn thấy được",
+          "ja": "可視光",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "able to be seen"
         },
         {
           "phrase": "highly visible",
           "frequency": 496661,
           "per_million": 0.612,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "rất dễ thấy, rất nổi bật",
+          "ja": "とても目立つ",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "easy to notice; obvious"
         },
         {
           "phrase": "barely visible",
           "frequency": 337381,
           "per_million": 0.416,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "gần như không thấy được",
+          "ja": "かろうじて見える",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "able to be seen"
         },
         {
           "phrase": "become visible",
           "frequency": 277150,
           "per_million": 0.341,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "hiện ra · bắt đầu nhìn thấy được",
+          "ja": "見えるようになる",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "able to be seen"
         }
       ],
       "collocations_excluded": [
@@ -7795,35 +8088,70 @@
           "frequency": 1042787,
           "per_million": 1.284,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "quy trình sản xuất",
+          "ja": "製造工程",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make goods in large quantities, usually using machines in a factory"
         },
         {
           "phrase": "manufactured goods",
           "frequency": 910711,
           "per_million": 1.122,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "hàng chế tạo, hàng công nghiệp",
+          "ja": "工業製品",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make goods in large quantities, usually using machines in a factory"
         },
         {
           "phrase": "manufacturing industry",
           "frequency": 782355,
           "per_million": 0.964,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "ngành sản xuất, ngành chế tạo",
+          "ja": "製造業",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make goods in large quantities, usually using machines in a factory"
         },
         {
           "phrase": "manufacturing plant",
           "frequency": 337387,
           "per_million": 0.416,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nhà máy sản xuất",
+          "ja": "製造工場",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make goods in large quantities, usually using machines in a factory"
         },
         {
           "phrase": "manufacturing costs",
           "frequency": 269309,
           "per_million": 0.332,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chi phí sản xuất",
+          "ja": "製造コスト",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make goods in large quantities, usually using machines in a factory"
         }
       ],
       "collocations_excluded": [
@@ -9060,35 +9388,70 @@
           "frequency": 354790,
           "per_million": 0.459,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "gây ra mối đe dọa",
+          "ja": "脅威となる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "To present or put forward something such as a question, problem, or threat."
         },
         {
           "phrase": "pose a problem",
           "frequency": 142018,
           "per_million": 0.184,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "gây ra vấn đề, làm khó",
+          "ja": "問題となる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "To present or put forward something such as a question, problem, or threat."
         },
         {
           "phrase": "pose a risk",
           "frequency": 116357,
           "per_million": 0.151,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "gây ra rủi ro",
+          "ja": "リスクをもたらす",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "To present or put forward something such as a question, problem, or threat."
         },
         {
           "phrase": "pose a challenge",
           "frequency": 67666,
           "per_million": 0.088,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "đặt ra thách thức",
+          "ja": "課題となる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "To present or put forward something such as a question, problem, or threat."
         },
         {
           "phrase": "pose a danger",
           "frequency": 60367,
           "per_million": 0.078,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "gây nguy hiểm",
+          "ja": "危険をもたらす",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "To present or put forward something such as a question, problem, or threat."
         }
       ],
       "collocations_excluded": [
@@ -9541,35 +9904,71 @@
           "frequency": 340366,
           "per_million": 0.419,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "lợi ích giảm dần",
+          "ja": "収穫逓減",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "idiomatic",
+          "gloss_no_sense_ref_label": "nghĩa của cả cụm, không cộng từ từng chữ"
         },
         {
           "phrase": "greatly diminished",
           "frequency": 178506,
           "per_million": 0.22,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "giảm đi rất nhiều",
+          "ja": "大幅に減った",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "To become or make something smaller, weaker, fewer, or less important."
         },
         {
           "phrase": "diminished capacity",
           "frequency": 120575,
           "per_million": 0.149,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "năng lực nhận thức bị suy giảm",
+          "ja": "判断能力の低下",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "To become or make something smaller, weaker, fewer, or less important."
         },
         {
           "phrase": "diminished responsibility",
           "frequency": 78264,
           "per_million": 0.096,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "trách nhiệm hình sự được giảm nhẹ",
+          "ja": "限定責任能力",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "To become or make something smaller, weaker, fewer, or less important."
         },
         {
           "phrase": "rapidly diminishing",
           "frequency": 44945,
           "per_million": 0.055,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "giảm nhanh chóng",
+          "ja": "急速に減っていく",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "To become or make something smaller, weaker, fewer, or less important."
         }
       ],
       "collocations_excluded": [
@@ -10254,35 +10653,71 @@
           "frequency": 95250,
           "per_million": 0.117,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "khiến người ta phải suy nghĩ",
+          "ja": "考えさせられる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to cause a particular reaction or feeling in people, such as anger, laughter, or thought"
         },
         {
           "phrase": "provocative question",
           "frequency": 26033,
           "per_million": 0.032,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "câu hỏi khơi gợi suy nghĩ, gây tranh luận",
+          "ja": "挑発的な質問",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "easily provoked",
           "frequency": 24761,
           "per_million": 0.03,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dễ nổi nóng · dễ bị chọc tức",
+          "ja": "怒りっぽい",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to deliberately annoy or anger someone so that they react"
         },
         {
           "phrase": "provoke a reaction",
           "frequency": 16013,
           "per_million": 0.021,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "gây ra phản ứng",
+          "ja": "反応を引き起こす",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to cause a particular reaction or feeling in people, such as anger, laughter, or thought"
         },
         {
           "phrase": "provoke a response",
           "frequency": 14400,
           "per_million": 0.019,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "gây ra phản hồi",
+          "ja": "反応を引き出す",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to cause a particular reaction or feeling in people, such as anger, laughter, or thought"
         }
       ],
       "collocations_excluded": [
@@ -11196,35 +11631,70 @@
           "frequency": 144734,
           "per_million": 0.178,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "cái đầu bị chặt rời",
+          "ja": "切り落とされた首",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to cut something off, or cut it into pieces"
         },
         {
           "phrase": "completely severed",
           "frequency": 29780,
           "per_million": 0.037,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bị cắt đứt hoàn toàn",
+          "ja": "完全に切断された",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to cut something off, or cut it into pieces"
         },
         {
           "phrase": "severed hand",
           "frequency": 26855,
           "per_million": 0.033,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bàn tay bị chặt rời",
+          "ja": "切り落とされた手",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to cut something off, or cut it into pieces"
         },
         {
           "phrase": "sever ties",
           "frequency": 23185,
           "per_million": 0.029,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "cắt đứt quan hệ",
+          "ja": "関係を断つ",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to end a connection or a relationship completely"
         },
         {
           "phrase": "sever the connection",
           "frequency": 11841,
           "per_million": 0.015,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "cắt đứt mối liên hệ",
+          "ja": "つながりを断つ",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to end a connection or a relationship completely"
         }
       ],
       "collocations_excluded": [
@@ -11692,35 +12162,71 @@
           "frequency": 256561,
           "per_million": 0.316,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bình chữa cháy",
+          "ja": "消火器",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "extinguish the fire",
           "frequency": 44588,
           "per_million": 0.058,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dập tắt đám cháy",
+          "ja": "火を消す",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make a fire or a light stop burning"
         },
         {
           "phrase": "extinguish the flames",
           "frequency": 19887,
           "per_million": 0.026,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "dập tắt ngọn lửa",
+          "ja": "炎を消し止める",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make a fire or a light stop burning"
         },
         {
           "phrase": "finally extinguished",
           "frequency": 12311,
           "per_million": 0.015,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "cuối cùng cũng được dập tắt",
+          "ja": "ようやく消し止められた",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make a fire or a light stop burning"
         },
         {
           "phrase": "extinguish the light",
           "frequency": 8459,
           "per_million": 0.011,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tắt đèn, tắt ánh sáng",
+          "ja": "明かりを消す",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make a fire or a light stop burning"
         }
       ],
       "collocations_excluded": [
@@ -12480,35 +12986,71 @@
           "frequency": 161890,
           "per_million": 0.199,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "vụ bắt cóc trẻ em",
+          "ja": "児童誘拐",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the crime of taking someone away by force"
         },
         {
           "phrase": "alien abduction",
           "frequency": 34472,
           "per_million": 0.042,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "vụ người ngoài hành tinh bắt cóc",
+          "ja": "宇宙人による誘拐",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "sense_not_listed",
+          "gloss_no_sense_ref_label": "nghĩa này chưa nằm trong các nghĩa đang bày"
         },
         {
           "phrase": "abduction and murder",
           "frequency": 15902,
           "per_million": 0.021,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bắt cóc và giết người",
+          "ja": "誘拐殺人",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the crime of taking someone away by force"
         },
         {
           "phrase": "attempted abduction",
           "frequency": 8357,
           "per_million": 0.01,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "vụ bắt cóc bất thành",
+          "ja": "誘拐未遂",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the crime of taking someone away by force"
         },
         {
           "phrase": "abduction case",
           "frequency": 6931,
           "per_million": 0.009,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "vụ án bắt cóc",
+          "ja": "誘拐事件",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the crime of taking someone away by force"
         }
       ],
       "collocations_excluded": [
@@ -12815,35 +13357,70 @@
           "frequency": 647532,
           "per_million": 0.798,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "báo cáo sơ bộ · báo cáo giữa kỳ",
+          "ja": "中間報告",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(adjective) made or used before the final version, and replaced by it later"
         },
         {
           "phrase": "interim period",
           "frequency": 277117,
           "per_million": 0.341,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "khoảng thời gian ở giữa",
+          "ja": "中間期間",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "(noun) the period of time between two events"
         },
         {
           "phrase": "interim government",
           "frequency": 233993,
           "per_million": 0.288,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chính phủ lâm thời",
+          "ja": "暫定政府",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(adjective) filling a job or a role only until someone permanent takes over"
         },
         {
           "phrase": "interim measures",
           "frequency": 231698,
           "per_million": 0.285,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "biện pháp tạm thời",
+          "ja": "暫定措置",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(adjective) made or used before the final version, and replaced by it later"
         },
         {
           "phrase": "interim president",
           "frequency": 80834,
           "per_million": 0.1,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tổng thống lâm thời",
+          "ja": "暫定大統領",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "(adjective) filling a job or a role only until someone permanent takes over"
         }
       ],
       "collocations_excluded": [
@@ -13500,35 +14077,76 @@
           "frequency": 725252,
           "per_million": 0.893,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tác động đối với chính sách",
+          "ja": "政策への示唆",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "practical implications",
           "frequency": 344741,
           "per_million": 0.425,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "ảnh hưởng trên thực tế",
+          "d7": {
+            "vi": 4
+          },
+          "tr_rejected": {
+            "ja": "qua 3 vòng chấm vẫn chưa đạt, mà 3 là mức tối đa luật cho phép. Bản sửa lần cuối dùng lại đúng chữ vòng đầu đã bác. Điểm chấm tính riêng từng thứ tiếng, nên bản Việt vẫn lên bình thường."
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "serious implications",
           "frequency": 188204,
           "per_million": 0.232,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "hệ quả nghiêm trọng",
+          "ja": "重大な影響",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "financial implications",
           "frequency": 174526,
           "per_million": 0.215,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tác động về mặt tài chính",
+          "ja": "財政上の影響",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "wider implications",
           "frequency": 97361,
           "per_million": 0.12,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "những tác động rộng hơn",
+          "ja": "より広い影響",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         }
       ],
       "collocations_excluded": [
@@ -13886,35 +14504,73 @@
           "frequency": 34613,
           "per_million": 0.043,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "giấy báo phải dọn ra khỏi nhà",
+          "ja": "立ち退き通告",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "eviction proceedings",
           "frequency": 20272,
           "per_million": 0.025,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "thủ tục pháp lý để đuổi ra khỏi nhà",
+          "ja": "立ち退き訴訟",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "eviction order",
           "frequency": 16858,
           "per_million": 0.021,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "lệnh buộc dọn ra khỏi nhà",
+          "ja": "立ち退き命令",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "evicted from their homes",
           "frequency": 14074,
           "per_million": 0.019,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bị đuổi khỏi nhà của mình",
+          "ja": "家から立ち退かされる",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to force someone to leave a house or land, using the law"
         },
         {
           "phrase": "forcibly evicted",
           "frequency": 14484,
           "per_million": 0.018,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bị cưỡng chế đuổi đi",
+          "ja": "強制的に立ち退かされる",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to force someone to leave a house or land, using the law"
         }
       ],
       "collocations_excluded": [
@@ -14247,35 +14903,70 @@
           "frequency": 809987,
           "per_million": 0.998,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "giá trị tự thân · giá trị nội tại",
+          "ja": "本質的価値",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "belonging to the thing itself, not added from outside"
         },
         {
           "phrase": "intrinsic motivation",
           "frequency": 418678,
           "per_million": 0.516,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "động lực từ bên trong",
+          "ja": "内発的動機",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "belonging to the thing itself, not added from outside"
         },
         {
           "phrase": "intrinsic properties",
           "frequency": 157795,
           "per_million": 0.194,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "những tính chất vốn có",
+          "ja": "本来の性質",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "belonging to the thing itself, not added from outside"
         },
         {
           "phrase": "intrinsic part",
           "frequency": 126363,
           "per_million": 0.156,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "phần vốn có, không tách rời được",
+          "ja": "切り離せない一部",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "belonging to the thing itself, not added from outside"
         },
         {
           "phrase": "intrinsic factor",
           "frequency": 103617,
           "per_million": 0.128,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "yếu tố vốn có · yếu tố bên trong",
+          "ja": "内在的な要因",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "belonging to the thing itself, not added from outside"
         }
       ],
       "collocations_excluded": [
@@ -14659,35 +15350,73 @@
           "frequency": 11331,
           "per_million": 0.014,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chủ nghĩa hư vô về đạo đức",
+          "ja": "道徳的ニヒリズム",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the belief that life has no meaning, and that nothing is worth believing in"
         },
         {
           "phrase": "nihilistic view",
           "frequency": 4906,
           "per_million": 0.006,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "quan điểm hư vô",
+          "ja": "虚無的な見方",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "russian nihilism",
           "frequency": 3763,
           "per_million": 0.005,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chủ nghĩa hư vô Nga thế kỷ 19",
+          "ja": "ロシア・ニヒリズム",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "sense_not_listed",
+          "gloss_no_sense_ref_label": "nghĩa này chưa nằm trong các nghĩa đang bày"
         },
         {
           "phrase": "nihilistic attitude",
           "frequency": 3581,
           "per_million": 0.004,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "thái độ hư vô",
+          "ja": "虚無的な態度",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "political nihilism",
           "frequency": 2538,
           "per_million": 0.003,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chủ nghĩa hư vô về chính trị",
+          "ja": "政治的ニヒリズム",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the belief that life has no meaning, and that nothing is worth believing in"
         }
       ],
       "collocations_excluded": [
@@ -14958,35 +15687,70 @@
           "frequency": 84793,
           "per_million": 0.104,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "đủ loại phong phú",
+          "ja": "幅広い品揃え",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "a group of different things of the same kind, put together"
         },
         {
           "phrase": "large assortment",
           "frequency": 35609,
           "per_million": 0.044,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "số lượng lớn, đủ loại",
+          "ja": "豊富な品揃え",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "a group of different things of the same kind, put together"
         },
         {
           "phrase": "odd assortment",
           "frequency": 32193,
           "per_million": 0.04,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "một mớ hổ lốn đủ thứ",
+          "ja": "雑多な寄せ集め",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "a group of different things of the same kind, put together"
         },
         {
           "phrase": "random assortment",
           "frequency": 16132,
           "per_million": 0.02,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "một mớ đủ thứ góp nhặt ngẫu nhiên",
+          "ja": "ばらばらな寄せ集め",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "a group of different things of the same kind, put together"
         },
         {
           "phrase": "vast assortment",
           "frequency": 14109,
           "per_million": 0.017,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "vô số thứ đủ loại",
+          "ja": "膨大な品揃え",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "a group of different things of the same kind, put together"
         }
       ],
       "collocations_excluded": [
@@ -15513,35 +16277,70 @@
           "frequency": 145059,
           "per_million": 0.179,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "một khối thống nhất, các phần khớp nhau",
+          "ja": "まとまりのある全体",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "clear and easy to follow, with the parts fitting together"
         },
         {
           "phrase": "coherent policy",
           "frequency": 70206,
           "per_million": 0.086,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chính sách nhất quán",
+          "ja": "一貫した政策",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "clear and easy to follow, with the parts fitting together"
         },
         {
           "phrase": "coherent narrative",
           "frequency": 68764,
           "per_million": 0.085,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "câu chuyện mạch lạc",
+          "ja": "筋の通った物語",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "clear and easy to follow, with the parts fitting together"
         },
         {
           "phrase": "coherent picture",
           "frequency": 68879,
           "per_million": 0.085,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bức tranh tổng thể rõ ràng",
+          "ja": "筋の通った全体像",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "clear and easy to follow, with the parts fitting together"
         },
         {
           "phrase": "coherent strategy",
           "frequency": 55598,
           "per_million": 0.068,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chiến lược nhất quán",
+          "ja": "一貫した戦略",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "clear and easy to follow, with the parts fitting together"
         }
       ],
       "collocations_excluded": [
@@ -15791,35 +16590,70 @@
           "frequency": 285727,
           "per_million": 0.37,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "lời thề trung thành",
+          "ja": "忠誠の宣誓",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "loyalty that you owe to a country, a leader or a cause"
         },
         {
           "phrase": "political allegiance",
           "frequency": 75136,
           "per_million": 0.093,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "lòng trung thành về chính trị",
+          "ja": "政治的な忠誠",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "loyalty that you owe to a country, a leader or a cause"
         },
         {
           "phrase": "pledge allegiance",
           "frequency": 61809,
           "per_million": 0.076,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tuyên thệ trung thành",
+          "ja": "忠誠を宣誓する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "loyalty that you owe to a country, a leader or a cause"
         },
         {
           "phrase": "swear allegiance",
           "frequency": 59243,
           "per_million": 0.073,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "thề trung thành",
+          "ja": "忠誠を誓う",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "loyalty that you owe to a country, a leader or a cause"
         },
         {
           "phrase": "owe allegiance",
           "frequency": 28421,
           "per_million": 0.035,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "có bổn phận trung thành",
+          "ja": "忠誠を尽くす義務がある",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "loyalty that you owe to a country, a leader or a cause"
         }
       ],
       "collocations_excluded": [
@@ -16251,35 +17085,71 @@
           "frequency": 239176,
           "per_million": 0.295,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "thực tế tăng cường",
+          "ja": "拡張現実",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "idiomatic",
+          "gloss_no_sense_ref_label": "nghĩa của cả cụm, không cộng từ từng chữ"
         },
         {
           "phrase": "further augmented",
           "frequency": 30709,
           "per_million": 0.038,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "được tăng thêm nữa",
+          "ja": "さらに増強された",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to make something bigger or stronger by adding to it"
         },
         {
           "phrase": "greatly augmented",
           "frequency": 24986,
           "per_million": 0.031,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "được tăng thêm rất nhiều",
+          "ja": "大幅に増強された",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to make something bigger or stronger by adding to it"
         },
         {
           "phrase": "augment their income",
           "frequency": 5161,
           "per_million": 0.007,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "kiếm thêm thu nhập",
+          "ja": "収入を増やす",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make something bigger or stronger by adding to it"
         },
         {
           "phrase": "augment the supply",
           "frequency": 4561,
           "per_million": 0.006,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tăng thêm nguồn cung",
+          "ja": "供給を増やす",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to make something bigger or stronger by adding to it"
         }
       ],
       "collocations_excluded": [
@@ -16795,35 +17665,72 @@
           "frequency": 811462,
           "per_million": 0.999,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "đọc hiểu",
+          "ja": "読解",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "fully comprehend",
           "frequency": 158076,
           "per_million": 0.195,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "hiểu thấu đáo",
+          "ja": "十分に理解する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to understand something completely"
         },
         {
           "phrase": "listening comprehension",
           "frequency": 136458,
           "per_million": 0.168,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nghe hiểu",
+          "ja": "聴解",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "difficult to comprehend",
           "frequency": 128428,
           "per_million": 0.166,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "khó mà hiểu nổi",
+          "ja": "理解しがたい",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to understand something completely"
         },
         {
           "phrase": "unable to comprehend",
           "frequency": 94819,
           "per_million": 0.123,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "không sao hiểu nổi",
+          "ja": "理解できない",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to understand something completely"
         }
       ],
       "collocations_excluded": [
@@ -17332,35 +18239,72 @@
           "frequency": 15639,
           "per_million": 0.019,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nỗi lo lắng ngày càng lớn",
+          "ja": "高まる不安",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "considerable apprehension",
           "frequency": 9587,
           "per_million": 0.012,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nỗi lo lắng không nhỏ",
+          "ja": "かなりの不安",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "apprehend criminals",
           "frequency": 8753,
           "per_million": 0.011,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bắt giữ tội phạm",
+          "ja": "犯罪者を逮捕する",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to catch and arrest someone, as the police do"
         },
         {
           "phrase": "apprehended by police",
           "frequency": 4694,
           "per_million": 0.006,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bị cảnh sát bắt giữ",
+          "ja": "警察に逮捕される",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to catch and arrest someone, as the police do"
         },
         {
           "phrase": "failed to apprehend",
           "frequency": 4643,
           "per_million": 0.006,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "không bắt được thủ phạm",
+          "ja": "逮捕しそこなう",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to catch and arrest someone, as the police do"
         }
       ],
       "collocations_excluded": [
@@ -17661,35 +18605,70 @@
           "frequency": 31373,
           "per_million": 0.039,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "rối trí hoàn toàn",
+          "ja": "すっかり当惑した",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to confuse someone completely, so that they cannot explain something"
         },
         {
           "phrase": "baffled expression",
           "frequency": 8728,
           "per_million": 0.011,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "vẻ mặt ngơ ngác",
+          "ja": "当惑した表情",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to confuse someone completely, so that they cannot explain something"
         },
         {
           "phrase": "totally baffled",
           "frequency": 8850,
           "per_million": 0.011,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chẳng hiểu ra làm sao",
+          "ja": "完全に当惑した",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to confuse someone completely, so that they cannot explain something"
         },
         {
           "phrase": "utterly baffled",
           "frequency": 8402,
           "per_million": 0.01,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "rối trí không sao hiểu nổi",
+          "ja": "まったく当惑した",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to confuse someone completely, so that they cannot explain something"
         },
         {
           "phrase": "somewhat baffled",
           "frequency": 7166,
           "per_million": 0.009,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "hơi rối trí",
+          "ja": "やや当惑した",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to confuse someone completely, so that they cannot explain something"
         }
       ],
       "collocations_excluded": [
@@ -18235,35 +19214,70 @@
           "frequency": 19675,
           "per_million": 0.024,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "màn thể hiện làng nhàng",
+          "ja": "平凡な出来",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "not bad, but clearly not good enough"
         },
         {
           "phrase": "mediocre quality",
           "frequency": 12908,
           "per_million": 0.016,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chất lượng tầm thường",
+          "ja": "平凡な品質",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "not bad, but clearly not good enough"
         },
         {
           "phrase": "mediocre results",
           "frequency": 10762,
           "per_million": 0.013,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "kết quả làng nhàng",
+          "ja": "ぱっとしない結果",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "not bad, but clearly not good enough"
         },
         {
           "phrase": "rather mediocre",
           "frequency": 10011,
           "per_million": 0.012,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "khá làng nhàng, cũng thường thôi",
+          "ja": "かなり平凡な",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "not bad, but clearly not good enough"
         },
         {
           "phrase": "mediocre student",
           "frequency": 8646,
           "per_million": 0.011,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "học sinh học làng nhàng",
+          "ja": "平凡な生徒",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "not bad, but clearly not good enough"
         }
       ],
       "collocations_excluded": [
@@ -18535,35 +19549,70 @@
           "frequency": 128830,
           "per_million": 0.159,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "uy tín trong xã hội",
+          "ja": "社会的な威信",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "the respect and admiration that a person, a job or a place has"
         },
         {
           "phrase": "prestige and power",
           "frequency": 53526,
           "per_million": 0.069,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "uy tín và quyền lực",
+          "ja": "威信と権力",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the respect and admiration that a person, a job or a place has"
         },
         {
           "phrase": "national prestige",
           "frequency": 48460,
           "per_million": 0.06,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "uy tín của quốc gia",
+          "ja": "国家の威信",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the respect and admiration that a person, a job or a place has"
         },
         {
           "phrase": "high prestige",
           "frequency": 44515,
           "per_million": 0.055,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "uy tín cao",
+          "ja": "高い威信",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the respect and admiration that a person, a job or a place has"
         },
         {
           "phrase": "great prestige",
           "frequency": 41853,
           "per_million": 0.052,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "uy tín lớn",
+          "ja": "大きな威信",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "the respect and admiration that a person, a job or a place has"
         }
       ],
       "collocations_excluded": [
@@ -19244,35 +20293,70 @@
           "frequency": 53068,
           "per_million": 0.065,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "kìm hãm sự tăng trưởng",
+          "ja": "成長を妨げる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to slow something down or hold it back, so it cannot develop freely"
         },
         {
           "phrase": "inhibiting factor",
           "frequency": 43513,
           "per_million": 0.054,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "yếu tố cản trở",
+          "ja": "阻害要因",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to slow something down or hold it back, so it cannot develop freely"
         },
         {
           "phrase": "inhibit the development",
           "frequency": 40856,
           "per_million": 0.053,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "cản trở sự phát triển",
+          "ja": "発展を妨げる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to slow something down or hold it back, so it cannot develop freely"
         },
         {
           "phrase": "severely inhibited",
           "frequency": 14030,
           "per_million": 0.017,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bị kìm hãm nặng nề",
+          "ja": "著しく妨げられた",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to slow something down or hold it back, so it cannot develop freely"
         },
         {
           "phrase": "inhibit competition",
           "frequency": 7904,
           "per_million": 0.01,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "cản trở cạnh tranh",
+          "ja": "競争を妨げる",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to slow something down or hold it back, so it cannot develop freely"
         }
       ],
       "collocations_excluded": [
@@ -19551,35 +20635,71 @@
           "frequency": 76470,
           "per_million": 0.094,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sự theo đuổi không ngơi nghỉ",
+          "ja": "絶え間ない追求",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "never stopping and never getting any softer"
         },
         {
           "phrase": "relentless pressure",
           "frequency": 36258,
           "per_million": 0.045,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sức ép dồn dập không dứt",
+          "ja": "絶え間ない圧力",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "never stopping and never getting any softer"
         },
         {
           "phrase": "relentless drive",
           "frequency": 23803,
           "per_million": 0.029,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nghị lực không bao giờ tắt",
+          "ja": "たゆまぬ意欲",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "never stopping and never getting any softer"
         },
         {
           "phrase": "relentlessly pursued",
           "frequency": 22912,
           "per_million": 0.028,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "theo đuổi ráo riết, không buông",
+          "ja": "執拗に追い求める",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_no_sense_ref": "derived_form",
+          "gloss_no_sense_ref_label": "cụm dùng một từ khác cùng gốc"
         },
         {
           "phrase": "relentless campaign",
           "frequency": 13614,
           "per_million": 0.017,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "chiến dịch dai dẳng không ngớt",
+          "ja": "執拗なキャンペーン",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "never stopping and never getting any softer"
         }
       ],
       "collocations_excluded": [
@@ -20200,35 +21320,70 @@
           "frequency": 121687,
           "per_million": 0.15,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "toán học rời rạc",
+          "ja": "離散数学",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "separate and clearly different from the others"
         },
         {
           "phrase": "discrete values",
           "frequency": 95163,
           "per_million": 0.117,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "các giá trị rời rạc",
+          "ja": "離散値",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "separate and clearly different from the others"
         },
         {
           "phrase": "discrete units",
           "frequency": 63643,
           "per_million": 0.078,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "các đơn vị riêng rẽ",
+          "ja": "個別の単位",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "separate and clearly different from the others"
         },
         {
           "phrase": "discrete events",
           "frequency": 56056,
           "per_million": 0.069,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "các sự kiện rời rạc",
+          "ja": "個々の出来事",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "separate and clearly different from the others"
         },
         {
           "phrase": "discrete elements",
           "frequency": 52043,
           "per_million": 0.064,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "các phần tử riêng rẽ",
+          "ja": "個別の要素",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "separate and clearly different from the others"
         }
       ],
       "collocations_excluded": [
@@ -20928,35 +22083,70 @@
           "frequency": 53328,
           "per_million": 0.066,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "khoảng cách vừa đủ xa, kín đáo",
+          "ja": "目立たない程度の距離",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "careful not to be noticed, and careful about what you say"
         },
         {
           "phrase": "discreet inquiries",
           "frequency": 19173,
           "per_million": 0.024,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sự dò hỏi kín đáo",
+          "ja": "内々の問い合わせ",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "careful not to be noticed, and careful about what you say"
         },
         {
           "phrase": "discreet silence",
           "frequency": 13159,
           "per_million": 0.016,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sự im lặng ý tứ",
+          "ja": "控えめな沈黙",
+          "d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_sense_ref": "careful not to be noticed, and careful about what you say"
         },
         {
           "phrase": "discreet charm",
           "frequency": 11629,
           "per_million": 0.014,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "nét duyên kín đáo",
+          "ja": "さりげない魅力",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "careful not to be noticed, and careful about what you say"
         },
         {
           "phrase": "discreet enquiries",
           "frequency": 10286,
           "per_million": 0.013,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sự dò hỏi kín đáo",
+          "ja": "内々の問い合わせ",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "careful not to be noticed, and careful about what you say"
         }
       ],
       "collocations_excluded": [
@@ -21779,35 +22969,70 @@
           "frequency": 1223929,
           "per_million": 1.507,
           "frequency_rank": "high",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sự tổng hợp protein",
+          "ja": "タンパク質合成",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the joining of separate ideas or substances into one whole"
         },
         {
           "phrase": "organic synthesis",
           "frequency": 227068,
           "per_million": 0.28,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tổng hợp hữu cơ",
+          "ja": "有機合成",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the joining of separate ideas or substances into one whole"
         },
         {
           "phrase": "chemical synthesis",
           "frequency": 169433,
           "per_million": 0.209,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tổng hợp hóa học",
+          "ja": "化学合成",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the joining of separate ideas or substances into one whole"
         },
         {
           "phrase": "new synthesis",
           "frequency": 147653,
           "per_million": 0.182,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "sự tổng hợp mới",
+          "ja": "新しい統合",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "the joining of separate ideas or substances into one whole"
         },
         {
           "phrase": "speech synthesis",
           "frequency": 108048,
           "per_million": 0.133,
           "frequency_rank": "medium",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "tổng hợp tiếng nói",
+          "ja": "音声合成",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "the joining of separate ideas or substances into one whole"
         }
       ],
       "collocations_excluded": [
@@ -22059,35 +23284,70 @@
           "frequency": 34998,
           "per_million": 0.045,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bao trùm toàn bộ",
+          "ja": "全体を包み込む",
+          "d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_sense_ref": "to include a wide range of things within it"
         },
         {
           "phrase": "encompass a wide range",
           "frequency": 27670,
           "per_million": 0.038,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bao trùm một loạt thứ khác nhau",
+          "ja": "幅広い範囲を含む",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to include a wide range of things within it"
         },
         {
           "phrase": "encompass a variety",
           "frequency": 19249,
           "per_million": 0.025,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bao trùm nhiều thứ khác nhau",
+          "ja": "さまざまなものを含む",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to include a wide range of things within it"
         },
         {
           "phrase": "encompass everything",
           "frequency": 15359,
           "per_million": 0.019,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bao trùm mọi thứ",
+          "ja": "すべてを含む",
+          "d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to include a wide range of things within it"
         },
         {
           "phrase": "encompasses all aspects",
           "frequency": 13840,
           "per_million": 0.018,
           "frequency_rank": "low",
-          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev"
+          "source": "Google Books Ngram v3 (1990–2019), tra qua ngrams.dev",
+          "vi": "bao trùm mọi khía cạnh",
+          "ja": "あらゆる面を含む",
+          "d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_sense_ref": "to include a wide range of things within it"
         }
       ],
       "collocations_excluded": [
