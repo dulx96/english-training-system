@@ -3397,7 +3397,7 @@
           "vi": 5,
           "ja": 5
         },
-        "why_not_top": null
+        "why_not_top": "Nghĩa nhanh thứ hai lấy hạng 3 chứ không phải hạng 2. Máy không phân định được hai hạng này: 3,50 vs 3,36 — cách nhau 0,14 điểm, dưới hẳn ngưỡng 1,0 mà chính máy dùng để tự nhận là chắc. Đi ngược lại được: nghĩa đã chọn (“to cause a particular result…”) đứng TRƯỚC trong nguồn — nghĩa thứ 2 của entry, còn nghĩa máy để trên là thứ 3; máy xếp nó trên chỉ nhờ vế “lời nghĩa dễ” (1,80 vs 1,26), tức là đo cách VIẾT định nghĩa chứ không đo mức hay gặp. Vế cụm Ngram im ở từ này: 1/5 cụm quy được về loại từ (4 cụm còn lại là dạng phái sinh — production costs · production line · highly productive — hoặc phân từ locally produced), dưới sàn 3."
       },
       "family_flat": null
     },
@@ -4822,22 +4822,22 @@
       "quick_gloss": {
         "picks": [
           {
-            "meaning_en": "to move people or goods from one place to another",
-            "pos": "verb",
-            "rank": 1,
-            "vi": "vận chuyển",
-            "ja": "輸送する"
-          },
-          {
             "meaning_en": "(noun) a system or way of travelling and moving goods, such as buses, trains, and cars",
             "pos": "noun",
-            "rank": 2,
+            "rank": 1,
             "vi": "phương tiện giao thông",
             "ja": "交通機関"
+          },
+          {
+            "meaning_en": "to move people or goods from one place to another",
+            "pos": "verb",
+            "rank": 2,
+            "vi": "vận chuyển",
+            "ja": "輸送する"
           }
         ],
-        "vi": "vận chuyển · phương tiện giao thông",
-        "ja": "輸送する・交通機関",
+        "vi": "phương tiện giao thông · vận chuyển",
+        "ja": "交通機関・輸送する",
         "pick_score": 4,
         "d7": {
           "vi": 4,

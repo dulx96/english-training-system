@@ -1,15 +1,15 @@
 {
   "version": "v4",
   "recorded": true,
-  "note": "Mỗi luật ghi rõ **ai thực thi**: “máy chặn” = sai thì dữ liệu không ghi ra được · “nguồn quyết định” = tra danh sách, AI không được chọn · “đề bài cho AI” = nằm trong prompt, chưa có máy chặn · “vòng chấm” = bắt bằng vòng chấm độc lập. Luật **MỚI** là luật vừa nhận, **chưa áp** lên 12 từ mẫu của bản này.",
+  "note": "Mỗi luật ghi rõ **ai thực thi**: “máy chặn” = sai thì dữ liệu không ghi ra được · “nguồn quyết định” = tra danh sách, AI không được chọn · “đề bài cho AI” = nằm trong prompt, chưa có máy chặn · “vòng chấm” = bắt bằng vòng chấm độc lập. Luật **MỚI** là luật vừa nhận, **chưa áp** lên 35 từ của bản này.",
   "anchor_howto": "Chọn dòng theo **loại từ của nghĩa đang viết ví dụ** (không phải loại từ của headword nói chung): một từ hai loại như *produce* (v) / *produce* (n) dùng hai mỏ neo khác nhau. Từ trừu tượng vs cụ thể phân theo “sờ/nhìn được không”. **Động từ nội động (intransitive) nằm NGOÀI dòng “động từ hành động”** — PO chốt 2026-08-20: dòng đó chỉ áp cho động từ **ngoại động**. Nghĩa nội động (*ice began to form*, *they posed for a photo*) khai `động từ nội động` và giữ luật nền VD-1…VD-5; **máy kiểm lại lời khai đó** (câu có tân ngữ mà khai nội động thì bị chặn). Giới từ, liên từ, cụm cố định thì khai “không áp mỏ neo” kèm lý do.",
   "counts": {
     "total": 61,
     "hard": 46,
     "prompt": 9,
     "judge": 6,
-    "live": 52,
-    "new": 7,
+    "live": 59,
+    "new": 0,
     "todo": 2
   },
   "summary": [
@@ -19,7 +19,7 @@
     ],
     [
       "Bằng chứng",
-      "61 luật: **46** do máy hoặc nguồn quyết định (AI không cãi được), 9 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 52 đang chạy · 7 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
+      "61 luật: **46** do máy hoặc nguồn quyết định (AI không cãi được), 9 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 59 đang chạy · 0 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
     ],
     [
       "PO vừa chốt",
@@ -440,14 +440,14 @@
           "id": "B8-1",
           "text": "**Mọi phần nội dung đều được có nghĩa Việt/Nhật**: nghĩa · câu ví dụ · phân biệt sắc thái · **cụm từ** · **đồng nghĩa dễ hơn** · **② gia đình từ** · **③ từ cùng gốc** · nghĩa nhanh cạnh đầu từ. *(Luật cũ bản v3: “chỉ dịch 3 chỗ — nghĩa, ví dụ, sắc thái”. Đảo bởi ADR-027: PO nhắc 2 vòng rằng mục nào không có nghĩa thì người học phải đi tra tiếp, mất mạch học.)*",
           "by": "máy chặn",
-          "status": "MỚI — chưa áp",
+          "status": "đang áp",
           "where": "ADR-027 · specs/translation_spec.md §0"
         },
         {
           "id": "B8-2",
           "text": "**Vẫn KHÔNG dịch 3 thứ**: chính **từ tiếng Anh** (headword và mọi mục vốn từ — dịch là ghi thêm bên cạnh, không thay), **IPA**, và **câu ví dụ tiếng Anh gốc** (bản dịch là dòng thêm bên dưới). *(Luật cũ bản v3 cấm dịch cả collocation/đồng nghĩa/gia đình từ/gốc từ vì “đó là phần phải học”; ADR-027 bỏ nguyên tắc đó — lý do PO đưa là ma sát tra cứu, không phải sư phạm.)*",
           "by": "đề bài cho AI",
-          "status": "MỚI — chưa áp",
+          "status": "đang áp",
           "where": "ADR-027 · specs/translation_spec.md §0"
         },
         {
@@ -475,35 +475,35 @@
           "id": "B8-6",
           "text": "Nghĩa của **từng TỪ** (mục ②③, cụm từ, nghĩa nhanh) dịch **một lần** vào **bảng gloss dùng chung**, mọi chỗ đọc chung — không dịch lại theo từng entry. Lý do: trên bảng gốc từ, một từ nằm trong trung bình **21** danh sách “cùng gốc” → dịch lặp 21 lần **và** các trang mâu thuẫn nhau. **Khoá bảng là (từ, LOẠI TỪ)**, không phải từ: `review` danh từ (bài điểm sách) và `review` động từ (xem lại) là hai mục khác nhau; loại từ lấy thẳng từ lời khai cạnh mục ②③, không đoán lại. Mỗi gloss ghi **nguồn** (① entry đã có → dùng lại · ② JMdict cho tiếng Nhật · ③ AI + vòng chấm D7) và chỉ hiện khi đã qua D7.",
           "by": "máy chặn",
-          "status": "MỚI — chưa áp",
+          "status": "đang áp",
           "where": "ADR-027 · src/gloss_index.gloss_key · scripts/59"
         },
         {
           "id": "B8-7",
           "text": "**Nghĩa nào của từ được đem đi dịch là do MÁY chọn, không phải AI**: lấy nghĩa **thông dụng, gần gũi người học**, và **chỉ trong đúng loại từ mục đó đã khai**; trừ điểm nghĩa chuyên ngành · nghĩa cổ/hiếm · nghĩa tên riêng · định nghĩa viết bằng từ hiếm. PO 2026-08-11: *conductor* → “nhạc trưởng”, **không** phải “vật dẫn điện”. Định nghĩa phải được **rửa rác nguồn** trước khi chấm và trước khi đem dịch — WordNet dán tên người nói vào đuôi (`; ; ; - Franklin D.Roosevelt`) và đôi khi lẫn cả mảnh câu minh hoạ. Máy không chắc (hai nghĩa sát điểm, từ không có tần suất thật) → **khai là chưa chắc và chờ người chốt**, không chọn bừa. *(Sửa 2026-08-28 theo QC CF-1d: bỏ `noun.attribute` khỏi nhóm bị phạt “chuyên ngành” — nó đang phạt đúng nghĩa đời thường của `voice`, `disposition`, `defect`; và chặn trần điểm tần suất. Đo lại trên mẫu 40: nghĩa đời thường 82,5% → 87,5%, sai loại từ 30/441 → 0/454.)*",
           "by": "máy chặn",
-          "status": "MỚI — chưa áp",
+          "status": "đang áp",
           "where": "ADR-027 · src/gloss_index.choose_common_sense · docs/gloss_sense_sample.md"
         },
         {
           "id": "B8-8",
           "text": "**Nghĩa nhanh chọn TRONG tập nghĩa đã có của chính từ đó — tập ứng viên ĐÓNG.** PO vòng 5: *“tra từ cái đưa ra một nghĩa phổ biến nhất luôn”*. Mỗi nghĩa nhanh phải trỏ đúng một `meaning` đang hiện trên trang; AI **không được viết nghĩa mới** ở bước này, kể cả khi thấy từ còn thiếu một nghĩa hay gặp — chỗ thiếu thì **ghi ra thành điểm hở**, không lấp bằng chữ tự nghĩ (đúng nếp B3-6: chặn cái sai chỉ TRỪ ĐI). Mỗi từ **1–2 nghĩa**, không trùng nhau. Máy chặn theo đúng chuỗi nghĩa tiếng Anh, nên luật này không dựa vào lời hứa của ai.",
           "by": "máy chặn",
-          "status": "MỚI — chưa áp",
+          "status": "đang áp",
           "where": "src/quick_gloss.QuickGloss.gate_errors · cf1_pilot/make_quick_gloss.py --check"
         },
         {
           "id": "B8-9",
-          "text": "**Thứ tự do MÁY xếp, lệch thì phải khai.** Máy chấm từng nghĩa của entry theo 4 vế đo được: cấp độ của nghĩa (nghĩa `beginner` là nghĩa gặp trước) · loại từ chính của entry · thứ tự nghĩa trong nguồn · lời định nghĩa dùng từ dễ. AI chọn trong tập đóng đó; **chọn nghĩa không phải hạng nhất thì bắt buộc khai lý do** và máy chặn nếu không khai. **Không có vế tần suất theo TỪNG NGHĨA, và ta khai thẳng là không có**: đo thử neo nghĩa của entry vào synset WordNet để mượn tần suất SemCor thì **50/57 nghĩa không neo được** (25 nghĩa không khớp synset nào, 25 khớp mờ dưới 0,3). Thiếu đúng vế đó nên máy xếp sai được ở chỗ tần suất mới quyết định — `pose`: máy để “tạo dáng” hạng nhất vì lời định nghĩa dễ hơn, trong khi cụm hay gặp nhất của từ là *pose a threat* — và đó là lý do cửa chấm ở B8-10 tồn tại. Hướng bịt: đếm 5 cụm từ đã đối chứng bằng Google Books Ngram (ADR-028) rơi vào nghĩa nào; **chưa làm**.",
+          "text": "**Thứ tự do MÁY xếp, lệch thì phải khai — ở MỌI nghĩa nhanh, không riêng nghĩa đầu.** Máy chấm từng nghĩa của entry theo 5 vế đo được: cấp độ của nghĩa (nghĩa `beginner` là nghĩa gặp trước) · loại từ chính của entry · thứ tự nghĩa trong nguồn · lời định nghĩa dùng từ dễ · **5 cụm đi kèm đã đối chứng Google Books Ngram (ADR-028) dồn về loại từ nào**. AI chọn trong tập đóng đó; nghĩa nhanh thứ *k* phải là hạng *k* của máy, **lệch thì bắt buộc khai lý do** và máy chặn nếu không khai. *(Sửa 2026-09-12 theo QC CF-1g: bản đầu chỉ soi nghĩa ĐẦU, nên `produce` nhảy từ hạng 1 sang hạng 3, bỏ qua hạng 2, không khai gì mà vẫn lọt.)* **Vế cụm Ngram chỉ phân định tới LOẠI TỪ**, và chỉ tính khi quy được ≥3/5 cụm — sàn này có vì `produce` chỉ quy được 1/5 (4 cụm kia là dạng phái sinh *production costs* hoặc phân từ *locally produced*), mà cái quyết định cụm nào sống sót ở đó là nếp cấu tạo từ chứ không phải mức hay gặp. Vế này đảo đúng `transport`: 5/5 cụm của nó là cách dùng danh từ, nên nghĩa “phương tiện giao thông” lên hạng nhất (6,46 vs 4,91). **Tần suất theo TỪNG NGHĨA thì vẫn không có, và ta khai thẳng là không có**: đo thử neo nghĩa vào synset WordNet để mượn tần suất SemCor thì **50/57 nghĩa không neo được** (25 không khớp synset nào, 25 khớp mờ dưới 0,3). Vì thế hai nghĩa CÙNG loại từ máy vẫn không tách được — `sever` (cắt vật lý vs cắt quan hệ) là ca đó — và đó là lý do cửa chấm ở B8-10 tồn tại.",
           "by": "máy chặn",
-          "status": "MỚI — chưa áp",
-          "where": "src/quick_gloss.rank_entry_senses · rank_confidence · cf1_pilot/quick_gloss_candidates.json"
+          "status": "đang áp",
+          "where": "src/quick_gloss.rank_entry_senses · collocation_pos · rank_confidence · cf1_pilot/quick_gloss_candidates.json"
         },
         {
           "id": "B8-10",
           "text": "**Hai cửa chấm, hỏi hai câu khác nhau, cả hai ≥4 mới lên trang.** ① *“đây có phải nghĩa người học gặp đầu tiên không”* — chấm LỰA CHỌN, vết ở `judge_v4_quick_gloss.json`; ② **D7** cho bản dịch, 4 tiêu chí con, vết ở `judge_v4_lang.json` (`kind=quick_gloss`), điểm trên trang = min của 4. Dịch hay tới đâu mà chọn sai nghĩa thì vẫn là nghĩa nhanh sai, nên **không gộp hai cửa thành một con số**. Và **“ngắn” là số đo, không phải cảm tính**: mỗi nghĩa ≤ 28 ký tự · ≤ 6 âm tiết (tiếng Việt), ≤ 10 ký tự (tiếng Nhật), không kết thúc bằng dấu câu, và **phải ngắn hơn hẳn nghĩa đầy đủ** — bằng hoặc dài hơn là chép lại chứ không phải rút gọn.",
           "by": "vòng chấm",
-          "status": "MỚI — chưa áp",
+          "status": "đang áp",
           "where": "src/quick_gloss.short_text_errors · gate_errors · cf1_pilot/apply_judge_v4.py · eval_rubric §D7"
         }
       ]
@@ -682,14 +682,14 @@
       "Chỉ tính publish khi `status=published`; gate riêng từng ngôn ngữ",
       "Grounded theo nghĩa đã chốt + glossary. **Mọi phần nội dung đều được dịch** (ADR-027 đảo luật cũ “không dịch từ vựng mục tiêu”); riêng từ tiếng Anh, IPA và câu ví dụ gốc thì **giữ nguyên và ghi thêm nghĩa bên cạnh**, không thay",
       "D7",
-      "có luật MỚI"
+      "đang áp"
     ],
     [
       "gloss_index (bảng gloss dùng chung)",
       "**chưa có trong schema_v3** — bảng rời `data/input/gloss_index.json`; gloss chỉ hiện khi `status=published` + có điểm D7",
       "Mỗi từ một dòng, dịch một lần; nghĩa EN đem đi dịch do máy chọn (B8-7), AI không tự chọn; chỗ máy chưa chắc phải chờ người chốt",
       "D7",
-      "MỚI — chưa áp"
+      "đang áp"
     ],
     [
       "metadata.status",
