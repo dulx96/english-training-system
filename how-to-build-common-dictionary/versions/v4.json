@@ -1,6 +1,6 @@
 {
   "version": "v4",
-  "date": "2026-09-06",
+  "date": "2026-09-13",
   "words": [
     {
       "term": "form",
@@ -67,7 +67,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 56
+            "bnc_count": 56,
+            "gloss_vi": "không có hình dạng",
+            "gloss_ja": "無形",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "unformed",
@@ -101,7 +108,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1
+            "bnc_count": 1,
+            "gloss_vi": "tạo hình sẵn",
+            "gloss_ja": "前もって形作る",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -117,7 +131,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "báo cho biết",
+          "gloss_ja": "知らせる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "formal",
@@ -130,7 +151,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "trang trọng",
+          "gloss_ja": "正式",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "formation",
@@ -143,7 +171,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "sự hình thành",
+          "gloss_ja": "形成",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "formula",
@@ -156,7 +191,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "công thức",
+          "gloss_ja": "公式",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "platform",
@@ -169,7 +211,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "bục, bệ cao",
+          "gloss_ja": "壇",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "reform",
@@ -181,7 +230,14 @@
           "relationship": "cognate",
           "roots": [
             "formo"
-          ]
+          ],
+          "gloss_vi": "cải cách",
+          "gloss_ja": "改革",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "transform",
@@ -194,7 +250,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "biến đổi",
+          "gloss_ja": "変える",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "uniform",
@@ -207,7 +270,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "đồng đều",
+          "gloss_ja": "一様",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "conform",
@@ -219,7 +289,14 @@
           "relationship": "cognate",
           "roots": [
             "formo"
-          ]
+          ],
+          "gloss_vi": "phù hợp với",
+          "gloss_ja": "適合する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "deform",
@@ -232,7 +309,14 @@
           "roots": [
             "forma",
             "formo"
-          ]
+          ],
+          "gloss_vi": "làm biến dạng",
+          "gloss_ja": "変形させる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "formative",
@@ -244,7 +328,14 @@
           "relationship": "cognate",
           "roots": [
             "formo"
-          ]
+          ],
+          "gloss_vi": "định hình",
+          "gloss_ja": "形成的",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "cuneiform",
@@ -752,7 +843,14 @@
             "band_rank": 1000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 14689
+            "bnc_count": 14689,
+            "gloss_vi": "được tả rõ",
+            "gloss_ja": "描写された",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "indescribable",
@@ -762,7 +860,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 81
+            "bnc_count": 81,
+            "gloss_vi": "khó tả",
+            "gloss_ja": "何とも言えない",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "noun": [
@@ -786,7 +891,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 20
+            "bnc_count": 20,
+            "gloss_vi": "đến mức khó tả",
+            "gloss_ja": "言いようがないほど",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -802,7 +914,14 @@
           "roots": [
             "describo",
             "scribo"
-          ]
+          ],
+          "gloss_vi": "lời mô tả",
+          "gloss_ja": "記述",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "manuscript",
@@ -814,7 +933,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "bản thảo",
+          "gloss_ja": "原稿",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "prescribe",
@@ -826,7 +952,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "quy định",
+          "gloss_ja": "定める",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "script",
@@ -838,7 +971,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "kịch bản",
+          "gloss_ja": "台本",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "subscribe",
@@ -850,7 +990,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "đặt mua dài hạn",
+          "gloss_ja": "購読する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "scripture",
@@ -862,7 +1009,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "kinh thánh",
+          "gloss_ja": "聖書",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "ascribe",
@@ -874,7 +1028,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "quy cho, gán cho",
+          "gloss_ja": "帰する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "inscribe",
@@ -886,7 +1047,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "khắc chữ lên",
+          "gloss_ja": "彫り込む",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "inscription",
@@ -898,7 +1066,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "dòng chữ khắc",
+          "gloss_ja": "碑文",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "scribble",
@@ -910,7 +1085,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "chữ nguệch ngoạc",
+          "gloss_ja": "殴り書き",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "conscript",
@@ -922,7 +1104,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "lính nghĩa vụ",
+          "gloss_ja": "応召兵",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "scribe",
@@ -934,7 +1123,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "người chép văn bản",
+          "gloss_ja": "代書人",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "circumscribe",
@@ -946,7 +1142,14 @@
           "relationship": "cognate",
           "roots": [
             "scribo"
-          ]
+          ],
+          "gloss_vi": "hạn chế",
+          "gloss_ja": "制限する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "descriptor",
@@ -1448,7 +1651,14 @@
             "band_rank": 3000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1489
+            "bnc_count": 1489,
+            "gloss_vi": "ảnh chụp",
+            "gloss_ja": "写真",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "photography",
@@ -1458,7 +1668,14 @@
             "band_rank": 3000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1134
+            "bnc_count": 1134,
+            "gloss_vi": "nhiếp ảnh",
+            "gloss_ja": "写真撮影",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "photographer",
@@ -1468,7 +1685,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1085
+            "bnc_count": 1085,
+            "gloss_vi": "thợ chụp ảnh",
+            "gloss_ja": "写真家",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "adjective": [
@@ -1480,7 +1704,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 910
+            "bnc_count": 910,
+            "gloss_vi": "thuộc nhiếp ảnh",
+            "gloss_ja": "写真の",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "adverb": [
@@ -1507,7 +1738,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "địa lý",
+          "gloss_ja": "地理",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "graphic",
@@ -1519,7 +1757,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "thuộc nghệ thuật đồ họa",
+          "gloss_ja": "図画芸術に関する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "paragraph",
@@ -1531,7 +1776,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "viết thành đoạn",
+          "gloss_ja": "段落で書く",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "biography",
@@ -1543,7 +1795,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "tiểu sử",
+          "gloss_ja": "伝記",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "cinema",
@@ -1555,7 +1814,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "rạp chiếu phim",
+          "gloss_ja": "映画館",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "diagram",
@@ -1567,7 +1833,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "sơ đồ",
+          "gloss_ja": "図",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "gram",
@@ -1579,7 +1852,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "gam",
+          "gloss_ja": "グラム",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "grammar",
@@ -1591,7 +1871,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "ngữ pháp",
+          "gloss_ja": "文法",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "ethnography",
@@ -1603,7 +1890,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "dân tộc chí",
+          "gloss_ja": "民族誌",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "graft",
@@ -1615,7 +1909,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "sự hối lộ",
+          "gloss_ja": "汚職",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "autograph",
@@ -1627,7 +1928,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "chữ ký",
+          "gloss_ja": "サイン",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "graffiti",
@@ -1639,7 +1947,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "hình vẽ bậy trên tường",
+          "gloss_ja": "落書き",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "phosphate",
@@ -1652,7 +1967,14 @@
           "roots": [
             "φαοσ",
             "φωσ"
-          ]
+          ],
+          "gloss_vi": "muối phốt phát",
+          "gloss_ja": "リン酸塩",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "photocopy",
@@ -1665,7 +1987,14 @@
           "roots": [
             "φαοσ",
             "φωσ"
-          ]
+          ],
+          "gloss_vi": "bản photo",
+          "gloss_ja": "コピー",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "biographer",
@@ -1677,7 +2006,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "người viết tiểu sử",
+          "gloss_ja": "伝記作家",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "graphite",
@@ -1689,7 +2025,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "than chì",
+          "gloss_ja": "黒鉛",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "scribe",
@@ -1701,7 +2044,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "người chép văn bản",
+          "gloss_ja": "代書人",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "iconography",
@@ -1713,7 +2063,14 @@
           "relationship": "cognate",
           "roots": [
             "γραφω"
-          ]
+          ],
+          "gloss_vi": "hình ảnh biểu tượng",
+          "gloss_ja": "図像",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "phosphorus",
@@ -1726,7 +2083,14 @@
           "roots": [
             "φαοσ",
             "φωσ"
-          ]
+          ],
+          "gloss_vi": "phốt pho",
+          "gloss_ja": "燐",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "photosynthesis",
@@ -1739,7 +2103,14 @@
           "roots": [
             "φαοσ",
             "φωσ"
-          ]
+          ],
+          "gloss_vi": "quang hợp",
+          "gloss_ja": "光合成",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "photovoltaic",
@@ -2715,7 +3086,14 @@
             "band_rank": 3000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1875
+            "bnc_count": 1875,
+            "gloss_vi": "nhà sản xuất",
+            "gloss_ja": "生産者",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -2730,7 +3108,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "dạy dỗ",
+          "gloss_ja": "教育する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "introduce",
@@ -2742,7 +3127,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "giới thiệu",
+          "gloss_ja": "紹介する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "product",
@@ -2755,7 +3147,14 @@
           "roots": [
             "duco",
             "produco"
-          ]
+          ],
+          "gloss_vi": "sản phẩm",
+          "gloss_ja": "製品",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "reduce",
@@ -2767,7 +3166,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "giảm",
+          "gloss_ja": "下げる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "conduct",
@@ -2779,7 +3185,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "chỉ đạo",
+          "gloss_ja": "指揮する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "reproduce",
@@ -2792,7 +3205,14 @@
           "roots": [
             "duco",
             "produco"
-          ]
+          ],
+          "gloss_vi": "sao chép",
+          "gloss_ja": "写す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "deduct",
@@ -2804,7 +3224,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "trừ đi",
+          "gloss_ja": "引く",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "induce",
@@ -2816,7 +3243,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "gây ra",
+          "gloss_ja": "引き起こす",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "seduce",
@@ -2828,7 +3262,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "quyến rũ",
+          "gloss_ja": "誘惑する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "abduct",
@@ -2840,7 +3281,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "bắt cóc",
+          "gloss_ja": "連れ去る",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "duct",
@@ -2852,7 +3300,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "ống dẫn",
+          "gloss_ja": "ダクト",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "induct",
@@ -2864,7 +3319,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "kết nạp",
+          "gloss_ja": "入会させる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "subdue",
@@ -2876,7 +3338,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "khuất phục",
+          "gloss_ja": "治める",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "deduce",
@@ -2888,7 +3357,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "suy ra",
+          "gloss_ja": "割り出す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "conducive",
@@ -2900,7 +3376,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "góp phần tạo ra",
+          "gloss_ja": "〜につながりやすい",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "conduit",
@@ -2912,7 +3395,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "ống dẫn",
+          "gloss_ja": "導管",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "transducer",
@@ -3614,7 +4104,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 761
+            "bnc_count": 761,
+            "gloss_vi": "dự đoán",
+            "gloss_ja": "予測",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "predictability",
@@ -3624,7 +4121,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 136
+            "bnc_count": 136,
+            "gloss_vi": "tính đoán trước được",
+            "gloss_ja": "予測しやすさ",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "unpredictability",
@@ -3634,7 +4138,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 126
+            "bnc_count": 126,
+            "gloss_vi": "tính khó đoán trước",
+            "gloss_ja": "予測できないこと",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "predictor",
@@ -3644,7 +4155,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 113
+            "bnc_count": 113,
+            "gloss_vi": "người dự đoán",
+            "gloss_ja": "予測する人",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "adjective": [
@@ -3656,7 +4174,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 934
+            "bnc_count": 934,
+            "gloss_vi": "đoán trước được",
+            "gloss_ja": "予測できる",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "unpredictable",
@@ -3666,7 +4191,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 675
+            "bnc_count": 675,
+            "gloss_vi": "khó đoán trước",
+            "gloss_ja": "予測不能",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "predictive",
@@ -3676,7 +4208,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 233
+            "bnc_count": 233,
+            "gloss_vi": "dùng để dự đoán",
+            "gloss_ja": "予測に関する",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "adverb": [
@@ -3688,7 +4227,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 337
+            "bnc_count": 337,
+            "gloss_vi": "đúng như dự đoán",
+            "gloss_ja": "案の定",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "unpredictably",
@@ -3698,7 +4244,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 38
+            "bnc_count": 38,
+            "gloss_vi": "một cách khó đoán",
+            "gloss_ja": "予測できないように",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -3713,7 +4266,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "tình trạng",
+          "gloss_ja": "具合",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "indicate",
@@ -3725,7 +4285,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "báo hiệu",
+          "gloss_ja": "示す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "addict",
@@ -3737,7 +4304,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "người nghiện",
+          "gloss_ja": "中毒者",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "contradict",
@@ -3749,7 +4323,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "trái ngược với",
+          "gloss_ja": "反する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "dedicate",
@@ -3761,7 +4342,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "dành trọn cho",
+          "gloss_ja": "捧げる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "dictate",
@@ -3773,7 +4361,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "ra lệnh",
+          "gloss_ja": "命じる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "index",
@@ -3785,7 +4380,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "bảng tra cứu cuối sách",
+          "gloss_ja": "索引",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "dictionary",
@@ -3797,7 +4399,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "từ điển",
+          "gloss_ja": "辞書",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "jurisdiction",
@@ -3809,7 +4418,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "thẩm quyền",
+          "gloss_ja": "管轄",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "preach",
@@ -3822,7 +4438,14 @@
           "roots": [
             "dico",
             "praedico"
-          ]
+          ],
+          "gloss_vi": "giảng đạo",
+          "gloss_ja": "説く",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "verdict",
@@ -3834,7 +4457,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "phán quyết",
+          "gloss_ja": "評決",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "indict",
@@ -3846,7 +4476,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "truy tố",
+          "gloss_ja": "起訴する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "sturdy",
@@ -3858,7 +4495,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "vạm vỡ",
+          "gloss_ja": "逞しい",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "predicament",
@@ -3871,7 +4515,14 @@
           "roots": [
             "dico",
             "praedico"
-          ]
+          ],
+          "gloss_vi": "tình thế khó khăn",
+          "gloss_ja": "苦境",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "predicate",
@@ -3884,7 +4535,14 @@
           "roots": [
             "dico",
             "praedico"
-          ]
+          ],
+          "gloss_vi": "dựa trên",
+          "gloss_ja": "条件とする",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "avenge",
@@ -3896,7 +4554,14 @@
           "relationship": "cognate",
           "roots": [
             "dico"
-          ]
+          ],
+          "gloss_vi": "trả thù",
+          "gloss_ja": "復讐する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "dictum",
@@ -4440,7 +5105,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 29
+            "bnc_count": 29,
+            "gloss_vi": "chuyển đi được",
+            "gloss_ja": "運べる",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "noun": [
@@ -4452,7 +5124,14 @@
             "band_rank": 3000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 554
+            "bnc_count": 554,
+            "gloss_vi": "phương tiện đi lại",
+            "gloss_ja": "交通機関",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "transporter",
@@ -4462,7 +5141,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 132
+            "bnc_count": 132,
+            "gloss_vi": "xe chở ô tô",
+            "gloss_ja": "車両運搬車",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -4477,7 +5163,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "quan trọng",
+          "gloss_ja": "大事",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "report",
@@ -4489,7 +5182,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "bản báo cáo",
+          "gloss_ja": "報告書",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "sport",
@@ -4501,7 +5201,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "thể thao",
+          "gloss_ja": "スポーツ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "support",
@@ -4513,7 +5220,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "sự ủng hộ",
+          "gloss_ja": "支持",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "export",
@@ -4525,7 +5239,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "xuất khẩu",
+          "gloss_ja": "輸出する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "import",
@@ -4537,7 +5258,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "hàng nhập khẩu",
+          "gloss_ja": "輸入",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "importance",
@@ -4549,7 +5277,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "tầm quan trọng",
+          "gloss_ja": "重要性",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "portfolio",
@@ -4561,7 +5296,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "hồ sơ năng lực",
+          "gloss_ja": "ポートフォリオ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "porch",
@@ -4573,7 +5315,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "hiên nhà",
+          "gloss_ja": "玄関ポーチ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "deport",
@@ -4585,7 +5334,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "trục xuất",
+          "gloss_ja": "国外追放する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "portable",
@@ -4597,7 +5353,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "dễ mang theo",
+          "gloss_ja": "ポータブル",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "portal",
@@ -4609,7 +5372,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "cổng lớn",
+          "gloss_ja": "正門",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "purport",
@@ -4621,7 +5391,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "ý chính",
+          "gloss_ja": "旨",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "porter",
@@ -4633,7 +5410,14 @@
           "relationship": "cognate",
           "roots": [
             "porto"
-          ]
+          ],
+          "gloss_vi": "người khuân vác",
+          "gloss_ja": "ポーター",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "portage",
@@ -5139,7 +5923,14 @@
             "band_rank": 3000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 6318
+            "bnc_count": 6318,
+            "gloss_vi": "việc xây dựng",
+            "gloss_ja": "建設",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "reconstruction",
@@ -5149,7 +5940,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1113
+            "bnc_count": 1113,
+            "gloss_vi": "việc xây lại",
+            "gloss_ja": "再建",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "constructivist",
@@ -5159,7 +5957,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 63
+            "bnc_count": 63,
+            "gloss_vi": "nghệ sĩ chủ nghĩa kiến tạo",
+            "gloss_ja": "構成主義者",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "constructor",
@@ -5169,7 +5974,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 33
+            "bnc_count": 33,
+            "gloss_vi": "nhà thầu xây dựng",
+            "gloss_ja": "建築業者",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "adjective": [
@@ -5181,7 +5993,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 981
+            "bnc_count": 981,
+            "gloss_vi": "mang tính xây dựng",
+            "gloss_ja": "建設的",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "constructional",
@@ -5213,7 +6032,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 140
+            "bnc_count": 140,
+            "gloss_vi": "một cách xây dựng",
+            "gloss_ja": "建設的に",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "verb": [
@@ -5225,7 +6051,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 265
+            "bnc_count": 265,
+            "gloss_vi": "xây lại",
+            "gloss_ja": "建て直す",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -5240,7 +6073,14 @@
           "relationship": "cognate",
           "roots": [
             "struo"
-          ]
+          ],
+          "gloss_vi": "phá huỷ",
+          "gloss_ja": "壊す",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "instruct",
@@ -5252,7 +6092,14 @@
           "relationship": "cognate",
           "roots": [
             "struo"
-          ]
+          ],
+          "gloss_vi": "chỉ dẫn",
+          "gloss_ja": "指示する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "instrument",
@@ -5264,7 +6111,14 @@
           "relationship": "cognate",
           "roots": [
             "struo"
-          ]
+          ],
+          "gloss_vi": "dụng cụ",
+          "gloss_ja": "道具",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "structure",
@@ -5276,7 +6130,14 @@
           "relationship": "cognate",
           "roots": [
             "struo"
-          ]
+          ],
+          "gloss_vi": "công trình",
+          "gloss_ja": "建造物",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "construe",
@@ -5289,7 +6150,14 @@
           "roots": [
             "construo",
             "struo"
-          ]
+          ],
+          "gloss_vi": "diễn giải",
+          "gloss_ja": "解釈する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "deconstruct",
@@ -5303,7 +6171,14 @@
             "constructus",
             "construo",
             "struo"
-          ]
+          ],
+          "gloss_vi": "giải cấu trúc",
+          "gloss_ja": "脱構築する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         }
       ],
       "excluded": [],
@@ -5721,7 +6596,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 489
+            "bnc_count": 489,
+            "gloss_vi": "tầm nhìn",
+            "gloss_ja": "視界",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "invisibility",
@@ -5731,7 +6613,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 99
+            "bnc_count": 99,
+            "gloss_vi": "sự vô hình",
+            "gloss_ja": "不可視",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "adjective": [
@@ -5743,7 +6632,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1209
+            "bnc_count": 1209,
+            "gloss_vi": "vô hình",
+            "gloss_ja": "見えない",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "adverb": [
@@ -5755,7 +6651,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 380
+            "bnc_count": 380,
+            "gloss_vi": "thấy rõ bằng mắt",
+            "gloss_ja": "目に見えて",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "invisibly",
@@ -5765,7 +6668,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 55
+            "bnc_count": 55,
+            "gloss_vi": "không ai thấy",
+            "gloss_ja": "見えないように",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -5780,7 +6690,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "đoạn ghi hình",
+          "gloss_ja": "動画",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "visit",
@@ -5792,7 +6709,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "đi thăm",
+          "gloss_ja": "訪ねる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "advice",
@@ -5804,7 +6728,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "lời khuyên",
+          "gloss_ja": "アドバイス",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "advise",
@@ -5816,7 +6747,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "khuyên bảo",
+          "gloss_ja": "助言する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "evidence",
@@ -5828,7 +6766,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "bằng chứng",
+          "gloss_ja": "証拠",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "interview",
@@ -5840,7 +6785,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "phỏng vấn",
+          "gloss_ja": "インタビュー",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "provide",
@@ -5852,7 +6804,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "cung cấp",
+          "gloss_ja": "与える",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "evident",
@@ -5864,7 +6823,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "rõ ràng",
+          "gloss_ja": "明らか",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "provision",
@@ -5876,7 +6842,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "sự cung cấp",
+          "gloss_ja": "供給",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "review",
@@ -5888,7 +6861,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "sự đánh giá lại",
+          "gloss_ja": "見直し",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "revise",
@@ -5900,7 +6880,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "sửa lại",
+          "gloss_ja": "改める",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "supervise",
@@ -5912,7 +6899,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "giám sát",
+          "gloss_ja": "監督する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "survey",
@@ -5925,7 +6919,14 @@
           "roots": [
             "uideo",
             "uidere"
-          ]
+          ],
+          "gloss_vi": "khảo sát, thăm dò",
+          "gloss_ja": "調査する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "vision",
@@ -5937,7 +6938,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "thị lực",
+          "gloss_ja": "視力",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "visual",
@@ -5949,7 +6957,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "bằng mắt",
+          "gloss_ja": "視覚的",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "devise",
@@ -5961,7 +6976,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "nghĩ ra",
+          "gloss_ja": "考え出す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "improvise",
@@ -5973,7 +6995,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "ứng biến",
+          "gloss_ja": "即興でやる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "prudent",
@@ -5985,7 +7014,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "thận trọng",
+          "gloss_ja": "慎重",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "visa",
@@ -5998,7 +7034,14 @@
           "roots": [
             "uideo",
             "uidere"
-          ]
+          ],
+          "gloss_vi": "cấp thị thực",
+          "gloss_ja": "ビザを出す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "divisive",
@@ -6010,7 +7053,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "gây bất đồng",
+          "gloss_ja": "対立を生む",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "vista",
@@ -6023,7 +7073,14 @@
           "roots": [
             "uideo",
             "uidere"
-          ]
+          ],
+          "gloss_vi": "quang cảnh",
+          "gloss_ja": "眺望",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "envision",
@@ -6035,7 +7092,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "hình dung",
+          "gloss_ja": "思い描く",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "foresight",
@@ -6047,7 +7111,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "tầm nhìn xa",
+          "gloss_ja": "先見",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "proviso",
@@ -6059,7 +7130,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "điều kiện kèm theo",
+          "gloss_ja": "但し書き",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "purvey",
@@ -6071,7 +7149,14 @@
           "relationship": "cognate",
           "roots": [
             "uideo"
-          ]
+          ],
+          "gloss_vi": "cung cấp lương thực",
+          "gloss_ja": "食料を供給する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "providence",
@@ -6588,7 +7673,14 @@
             "band_rank": 3000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 4424
+            "bnc_count": 4424,
+            "gloss_vi": "việc sản xuất",
+            "gloss_ja": "物作り",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "manufacturer",
@@ -6598,7 +7690,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1796
+            "bnc_count": 1796,
+            "gloss_vi": "nhà sản xuất",
+            "gloss_ja": "メーカー",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -6613,7 +7712,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "khuôn mặt",
+          "gloss_ja": "顔",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "fact",
@@ -6626,7 +7732,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "sự thật",
+          "gloss_ja": "事実",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "manage",
@@ -6638,7 +7751,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "xoay xở được",
+          "gloss_ja": "成し遂げる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "officer",
@@ -6650,7 +7770,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "sĩ quan",
+          "gloss_ja": "士官",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "perfect",
@@ -6663,7 +7790,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "hoàn hảo",
+          "gloss_ja": "完璧",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "affect",
@@ -6675,7 +7809,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "ảnh hưởng tới",
+          "gloss_ja": "影響する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "benefit",
@@ -6687,7 +7828,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "lợi ích",
+          "gloss_ja": "利益",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "command",
@@ -6699,7 +7847,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "mệnh lệnh",
+          "gloss_ja": "命令",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "demand",
@@ -6711,7 +7866,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "đòi hỏi",
+          "gloss_ja": "要求する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "effect",
@@ -6723,7 +7885,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "kết quả",
+          "gloss_ja": "効果",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "fashion",
@@ -6736,7 +7905,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "thời trang",
+          "gloss_ja": "ファッション",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "feature",
@@ -6751,7 +7927,14 @@
             "factura",
             "facturus",
             "factus"
-          ]
+          ],
+          "gloss_vi": "đặc điểm",
+          "gloss_ja": "特徴",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "identify",
@@ -6763,7 +7946,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "nhận diện, xác định",
+          "gloss_ja": "特定する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "maintain",
@@ -6776,7 +7966,14 @@
           "roots": [
             "manu",
             "manus"
-          ]
+          ],
+          "gloss_vi": "duy trì",
+          "gloss_ja": "保つ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "manner",
@@ -6788,7 +7985,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "cách thức",
+          "gloss_ja": "やり方",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "recommend",
@@ -6800,7 +8004,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "khuyên, gợi ý",
+          "gloss_ja": "勧める",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "satisfy",
@@ -6812,7 +8023,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "đáp ứng",
+          "gloss_ja": "満たす",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "affection",
@@ -6825,7 +8043,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "lòng yêu mến",
+          "gloss_ja": "愛情",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "deficit",
@@ -6837,7 +8062,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "thiếu hụt",
+          "gloss_ja": "不足",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "effective",
@@ -6849,7 +8081,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "hiệu quả",
+          "gloss_ja": "効果的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "efficient",
@@ -6861,7 +8100,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "hiệu suất cao",
+          "gloss_ja": "効率的",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "factor",
@@ -6874,7 +8120,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "yếu tố",
+          "gloss_ja": "要因",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "infect",
@@ -6886,7 +8139,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "lây bệnh cho",
+          "gloss_ja": "移す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "manifest",
@@ -6898,7 +8158,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "bộc lộ",
+          "gloss_ja": "示す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "manual",
@@ -6910,7 +8177,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "bằng tay",
+          "gloss_ja": "手動",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "profit",
@@ -6922,7 +8196,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "lợi nhuận",
+          "gloss_ja": "利益",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "sacrifice",
@@ -6934,7 +8215,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "cái giá phải trả",
+          "gloss_ja": "代償",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "satisfaction",
@@ -6946,7 +8234,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "sự hài lòng",
+          "gloss_ja": "満足",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "sufficient",
@@ -6958,7 +8253,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "đủ",
+          "gloss_ja": "十分",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "defect",
@@ -6970,7 +8272,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "khuyết điểm",
+          "gloss_ja": "欠点",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "faction",
@@ -6983,7 +8292,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "phe phái",
+          "gloss_ja": "派閥",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "interface",
@@ -6995,7 +8311,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "giao diện",
+          "gloss_ja": "インタフェース",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "mandate",
@@ -7007,7 +8330,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "lệnh chính thức",
+          "gloss_ja": "命令書",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "manuscript",
@@ -7020,7 +8350,14 @@
           "roots": [
             "manu",
             "manus"
-          ]
+          ],
+          "gloss_vi": "bản thảo",
+          "gloss_ja": "原稿",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "satisfactory",
@@ -7032,7 +8369,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "đạt yêu cầu",
+          "gloss_ja": "満足な",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "verify",
@@ -7044,7 +8388,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "xác minh",
+          "gloss_ja": "確かめる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "commend",
@@ -7056,7 +8407,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "khen ngợi",
+          "gloss_ja": "褒める",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "efficacy",
@@ -7068,7 +8426,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "công hiệu",
+          "gloss_ja": "効き目",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "facial",
@@ -7080,7 +8445,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "chăm sóc da mặt",
+          "gloss_ja": "美顔術",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "feasible",
@@ -7092,7 +8464,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "làm được",
+          "gloss_ja": "実現可能",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "mandatory",
@@ -7104,7 +8483,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "người được uỷ nhiệm",
+          "gloss_ja": "受任者",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "superficial",
@@ -7116,7 +8502,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "hời hợt",
+          "gloss_ja": "表面的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "facet",
@@ -7128,7 +8521,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "khía cạnh",
+          "gloss_ja": "面",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "feat",
@@ -7141,7 +8541,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "kỳ tích",
+          "gloss_ja": "手柄",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "stew",
@@ -7153,7 +8560,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "hầm, ninh",
+          "gloss_ja": "煮込む",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "suffice",
@@ -7165,7 +8579,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "đủ dùng",
+          "gloss_ja": "事足りる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "artifact",
@@ -7178,7 +8599,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "vật do người làm ra",
+          "gloss_ja": "人工物",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "commando",
@@ -7190,7 +8618,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "lính đặc nhiệm",
+          "gloss_ja": "特殊部隊員",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "emancipate",
@@ -7202,7 +8637,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "trao quyền bình đẳng",
+          "gloss_ja": "解放する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "facade",
@@ -7214,7 +8656,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "mặt tiền",
+          "gloss_ja": "正面",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "manifesto",
@@ -7226,7 +8675,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "bản tuyên ngôn",
+          "gloss_ja": "マニフェスト",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "manure",
@@ -7238,7 +8694,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "phân chuồng",
+          "gloss_ja": "肥やし",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "proficient",
@@ -7250,7 +8713,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "giỏi, thành thạo",
+          "gloss_ja": "上手",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "benefactor",
@@ -7262,7 +8732,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "nhà hảo tâm",
+          "gloss_ja": "恩人",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "chauffeur",
@@ -7274,7 +8751,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "tài xế riêng",
+          "gloss_ja": "運転手",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "confection",
@@ -7286,7 +8770,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "đồ ngọt",
+          "gloss_ja": "菓子",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "counterfeit",
@@ -7298,7 +8789,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "hàng giả",
+          "gloss_ja": "偽物",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "maniac",
@@ -7310,7 +8808,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "người điên",
+          "gloss_ja": "正気を失った人",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "manicure",
@@ -7322,7 +8827,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "làm móng tay",
+          "gloss_ja": "爪の手入れをする",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "masturbate",
@@ -7334,7 +8846,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "thủ dâm",
+          "gloss_ja": "自慰",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "facsimile",
@@ -7346,7 +8865,14 @@
           "relationship": "cognate",
           "roots": [
             "facio"
-          ]
+          ],
+          "gloss_vi": "bản sao y hệt",
+          "gloss_ja": "写し",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "fetish",
@@ -7359,7 +8885,14 @@
           "roots": [
             "facio",
             "factus"
-          ]
+          ],
+          "gloss_vi": "mê đắm thái quá",
+          "gloss_ja": "フェチ",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "mania",
@@ -7371,7 +8904,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "sự say mê điên cuồng",
+          "gloss_ja": "抑えがたい熱狂",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "remand",
@@ -7383,7 +8923,14 @@
           "relationship": "cognate",
           "roots": [
             "manus"
-          ]
+          ],
+          "gloss_vi": "tạm giam",
+          "gloss_ja": "勾留する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "chafe",
@@ -8376,7 +9923,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1300
+            "bnc_count": 1300,
+            "gloss_vi": "được tạo dáng",
+            "gloss_ja": "ポーズをとった",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "noun": [
@@ -8388,7 +9942,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 381
+            "bnc_count": 381,
+            "gloss_vi": "tạo dáng",
+            "gloss_ja": "ポージング",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "poser",
@@ -8398,7 +9959,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 38
+            "bnc_count": 38,
+            "gloss_vi": "người làm mẫu",
+            "gloss_ja": "モデル",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -8414,7 +9982,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "vị trí",
+          "gloss_ja": "位置",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "post",
@@ -8427,7 +10002,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "dán thông báo",
+          "gloss_ja": "張り出す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "situation",
@@ -8439,7 +10021,14 @@
           "relationship": "cognate",
           "roots": [
             "sino"
-          ]
+          ],
+          "gloss_vi": "tình hình",
+          "gloss_ja": "状態",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "suppose",
@@ -8452,7 +10041,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "cho rằng",
+          "gloss_ja": "思う",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "expose",
@@ -8465,7 +10061,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "phơi ra (cho chịu tác động)",
+          "gloss_ja": "晒す",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "oppose",
@@ -8478,7 +10081,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "phản đối",
+          "gloss_ja": "反対する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "opposite",
@@ -8491,7 +10101,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "đối diện",
+          "gloss_ja": "向かい",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "pause",
@@ -8505,7 +10122,14 @@
             "pausa",
             "παυσισ",
             "παυω"
-          ]
+          ],
+          "gloss_vi": "quãng nghỉ ngắn",
+          "gloss_ja": "休止",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "positive",
@@ -8518,7 +10142,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "có lợi, tích cực",
+          "gloss_ja": "有益な",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "propose",
@@ -8531,7 +10162,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "đề xuất",
+          "gloss_ja": "申し入れる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "purpose",
@@ -8544,7 +10182,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "mục đích",
+          "gloss_ja": "目的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "site",
@@ -8556,7 +10201,14 @@
           "relationship": "cognate",
           "roots": [
             "sino"
-          ]
+          ],
+          "gloss_vi": "khu đất",
+          "gloss_ja": "敷地",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "component",
@@ -8569,7 +10221,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "thành phần",
+          "gloss_ja": "要素",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "compose",
@@ -8582,7 +10241,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "tạo nên",
+          "gloss_ja": "構成する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "compound",
@@ -8595,7 +10261,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "làm trầm trọng thêm",
+          "gloss_ja": "悪化させる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "deposit",
@@ -8608,7 +10281,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "tiền gửi ngân hàng",
+          "gloss_ja": "預金",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "impose",
@@ -8621,7 +10301,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "áp đặt",
+          "gloss_ja": "強いる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "opponent",
@@ -8634,7 +10321,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "đối thủ",
+          "gloss_ja": "敵対者",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "poster",
@@ -8647,7 +10341,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "áp phích",
+          "gloss_ja": "ポスター",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "postpone",
@@ -8660,7 +10361,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "hoãn lại",
+          "gloss_ja": "見送る",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "proposition",
@@ -8673,7 +10381,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "lời đề nghị",
+          "gloss_ja": "提案",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "composite",
@@ -8686,7 +10401,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "khối tổng hợp",
+          "gloss_ja": "複合",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "compost",
@@ -8699,7 +10421,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "phân ủ",
+          "gloss_ja": "堆肥",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "depot",
@@ -8712,7 +10441,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "bến xe",
+          "gloss_ja": "発着場",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "disposition",
@@ -8725,7 +10461,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "tính khí",
+          "gloss_ja": "気性",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "parasite",
@@ -8737,7 +10480,14 @@
           "relationship": "cognate",
           "roots": [
             "sino"
-          ]
+          ],
+          "gloss_vi": "ký sinh trùng",
+          "gloss_ja": "寄生虫",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "posture",
@@ -8750,7 +10500,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "tư thế",
+          "gloss_ja": "姿勢",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "deposition",
@@ -8763,7 +10520,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "sự lắng đọng",
+          "gloss_ja": "沈着",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "presuppose",
@@ -8776,7 +10540,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "giả định trước",
+          "gloss_ja": "前提とする",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "proponent",
@@ -8789,7 +10560,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "người ủng hộ",
+          "gloss_ja": "支持者",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "exposition",
@@ -8802,7 +10580,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "lời giải thích",
+          "gloss_ja": "解説",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "menopause",
@@ -8816,7 +10601,14 @@
             "pausa",
             "παυσισ",
             "παυω"
-          ]
+          ],
+          "gloss_vi": "mãn kinh",
+          "gloss_ja": "更年期",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "posit",
@@ -8829,7 +10621,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "nêu ra",
+          "gloss_ja": "提示する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "postgraduate",
@@ -8842,7 +10641,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "học viên cao học",
+          "gloss_ja": "大学院生",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "amenable",
@@ -8855,7 +10661,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "sẵn lòng nghe theo",
+          "gloss_ja": "素直",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "exponent",
@@ -8868,7 +10681,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "số mũ",
+          "gloss_ja": "指数",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "expound",
@@ -8881,7 +10701,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "giải thích kỹ",
+          "gloss_ja": "詳しく説明する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "postoperative",
@@ -8894,7 +10721,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "sau khi mổ",
+          "gloss_ja": "術後",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "repose",
@@ -8908,7 +10742,14 @@
             "pauso",
             "παυσισ",
             "παυω"
-          ]
+          ],
+          "gloss_vi": "nằm nghỉ",
+          "gloss_ja": "憩う",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "transpose",
@@ -8921,7 +10762,14 @@
           "roots": [
             "pono",
             "sino"
-          ]
+          ],
+          "gloss_vi": "đảo thứ tự",
+          "gloss_ja": "入れ替える",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "provost",
@@ -9697,7 +11545,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 806
+            "bnc_count": 806,
+            "gloss_vi": "bị suy giảm",
+            "gloss_ja": "減少した",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "undiminished",
@@ -9707,7 +11562,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 65
+            "bnc_count": 65,
+            "gloss_vi": "không suy giảm",
+            "gloss_ja": "減らない",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "noun": [
@@ -9719,7 +11581,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 180
+            "bnc_count": 180,
+            "gloss_vi": "sự giảm bớt",
+            "gloss_ja": "減少",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -9734,7 +11603,14 @@
           "relationship": "cognate",
           "roots": [
             "minuo"
-          ]
+          ],
+          "gloss_vi": "phút",
+          "gloss_ja": "分",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "diminutive",
@@ -9746,7 +11622,14 @@
           "relationship": "cognate",
           "roots": [
             "minuo"
-          ]
+          ],
+          "gloss_vi": "từ chỉ sự nhỏ",
+          "gloss_ja": "指小辞",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "minuet",
@@ -10195,7 +12078,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 351
+            "bnc_count": 351,
+            "gloss_vi": "sự khiêu khích",
+            "gloss_ja": "挑発",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "provocativeness",
@@ -10217,7 +12107,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1086
+            "bnc_count": 1086,
+            "gloss_vi": "bị chọc giận",
+            "gloss_ja": "怒らされた",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "provocative",
@@ -10227,7 +12124,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 359
+            "bnc_count": 359,
+            "gloss_vi": "khiêu khích",
+            "gloss_ja": "挑発的",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "unprovoked",
@@ -10237,7 +12141,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 69
+            "bnc_count": 69,
+            "gloss_vi": "vô cớ",
+            "gloss_ja": "理由のない",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "adverb": [
@@ -10249,7 +12160,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 74
+            "bnc_count": 74,
+            "gloss_vi": "một cách khiêu khích",
+            "gloss_ja": "挑発的に",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -10265,7 +12183,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "giọng nói",
+          "gloss_ja": "声",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "avoid",
@@ -10278,7 +12203,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "tránh",
+          "gloss_ja": "避ける",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "advocate",
@@ -10291,7 +12223,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "người ủng hộ",
+          "gloss_ja": "擁護者",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "evoke",
@@ -10304,7 +12243,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "gợi lên",
+          "gloss_ja": "呼び起こす",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "invoke",
@@ -10317,7 +12263,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "gọi ra",
+          "gloss_ja": "呼び出す",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "vocal",
@@ -10329,7 +12282,14 @@
           "relationship": "cognate",
           "roots": [
             "uox"
-          ]
+          ],
+          "gloss_vi": "thuộc giọng hát",
+          "gloss_ja": "ボーカルの",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "vocation",
@@ -10342,7 +12302,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "nghề nghiệp",
+          "gloss_ja": "職業",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "vocabulary",
@@ -10355,7 +12322,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "từ vựng",
+          "gloss_ja": "語彙",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "equivocal",
@@ -10368,7 +12342,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "mập mờ",
+          "gloss_ja": "あやふや",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "revoke",
@@ -10381,7 +12362,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "thu hồi, huỷ bỏ",
+          "gloss_ja": "取り消す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "vowel",
@@ -10393,7 +12381,14 @@
           "relationship": "cognate",
           "roots": [
             "uox"
-          ]
+          ],
+          "gloss_vi": "nguyên âm",
+          "gloss_ja": "母音",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "irrevocable",
@@ -10406,7 +12401,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "không thể rút lại",
+          "gloss_ja": "取り消せない",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "evocative",
@@ -10419,7 +12421,14 @@
           "roots": [
             "uoco",
             "uox"
-          ]
+          ],
+          "gloss_vi": "gợi nhớ",
+          "gloss_ja": "思い起こさせる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "avow",
@@ -10949,7 +12958,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 411
+            "bnc_count": 411,
+            "gloss_vi": "bị cắt rời",
+            "gloss_ja": "切断された",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "severable",
@@ -10971,7 +12987,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 164
+            "bnc_count": 164,
+            "gloss_vi": "sự cắt đứt",
+            "gloss_ja": "断絶",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "severing",
@@ -10981,7 +13004,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 91
+            "bnc_count": 91,
+            "gloss_vi": "việc cắt rời",
+            "gloss_ja": "切断",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -10997,7 +13027,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "ghép thành đôi",
+          "gloss_ja": "ペアにする",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "prepare",
@@ -11010,7 +13047,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "chuẩn bị",
+          "gloss_ja": "整える",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "several",
@@ -11024,7 +13068,14 @@
             "paro",
             "parus",
             "separo"
-          ]
+          ],
+          "gloss_vi": "một vài",
+          "gloss_ja": "幾つか",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "compare",
@@ -11037,7 +13088,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "so sánh",
+          "gloss_ja": "比べる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "empire",
@@ -11050,7 +13108,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "đế quốc",
+          "gloss_ja": "帝国",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "minus",
@@ -11062,7 +13127,14 @@
           "relationship": "cognate",
           "roots": [
             "parus"
-          ]
+          ],
+          "gloss_vi": "mang dấu âm",
+          "gloss_ja": "マイナス",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "repair",
@@ -11075,7 +13147,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "sửa chữa",
+          "gloss_ja": "直す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "separate",
@@ -11089,7 +13168,14 @@
             "paro",
             "parus",
             "separo"
-          ]
+          ],
+          "gloss_vi": "tách rời ra",
+          "gloss_ja": "離す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "achieve",
@@ -11101,7 +13187,14 @@
           "relationship": "cognate",
           "roots": [
             "parus"
-          ]
+          ],
+          "gloss_vi": "đạt được",
+          "gloss_ja": "成し遂げる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "imperial",
@@ -11114,7 +13207,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "thuộc đế quốc",
+          "gloss_ja": "帝国の",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "comparative",
@@ -11127,7 +13227,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "mang tính so sánh",
+          "gloss_ja": "比較の",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "emperor",
@@ -11140,7 +13247,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "hoàng đế",
+          "gloss_ja": "皇帝",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "apparatus",
@@ -11153,7 +13267,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "thiết bị, máy móc",
+          "gloss_ja": "装置",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "imperative",
@@ -11166,7 +13287,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "việc cấp bách",
+          "gloss_ja": "急務",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "disparity",
@@ -11179,7 +13307,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "sự chênh lệch",
+          "gloss_ja": "格差",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "disparate",
@@ -11192,7 +13327,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "khác hẳn nhau",
+          "gloss_ja": "全く異なる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "inseparable",
@@ -11205,7 +13347,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "không thể tách rời",
+          "gloss_ja": "不可分",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "empress",
@@ -11218,7 +13367,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "nữ hoàng; hoàng hậu",
+          "gloss_ja": "女帝・皇后",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "transpire",
@@ -11231,7 +13387,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "lộ ra",
+          "gloss_ja": "判明する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "pare",
@@ -11244,7 +13407,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "gọt vỏ",
+          "gloss_ja": "剥く",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "reparation",
@@ -11257,7 +13427,14 @@
           "roots": [
             "paro",
             "parus"
-          ]
+          ],
+          "gloss_vi": "sự bồi thường",
+          "gloss_ja": "弁償",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "imperious",
@@ -11925,7 +14102,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 206
+            "bnc_count": 206,
+            "gloss_vi": "(phản xạ) đã bị dập tắt",
+            "gloss_ja": "(反射が)消去された",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "inextinguishable",
@@ -11957,7 +14141,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 55
+            "bnc_count": 55,
+            "gloss_vi": "việc dập lửa",
+            "gloss_ja": "鎮火",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "extinguisher",
@@ -11967,7 +14158,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 43
+            "bnc_count": 43,
+            "gloss_vi": "bình chữa cháy",
+            "gloss_ja": "消火器",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -11982,7 +14180,14 @@
           "relationship": "cognate",
           "roots": [
             "tingo"
-          ]
+          ],
+          "gloss_vi": "khác biệt",
+          "gloss_ja": "異なる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "distinguish",
@@ -11995,7 +14200,14 @@
           "roots": [
             "tingo",
             "tinguo"
-          ]
+          ],
+          "gloss_vi": "phân biệt",
+          "gloss_ja": "見分ける",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "extinct",
@@ -12009,7 +14221,14 @@
             "extinguo",
             "tingo",
             "tinguo"
-          ]
+          ],
+          "gloss_vi": "tuyệt chủng",
+          "gloss_ja": "絶滅した",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "taint",
@@ -12021,7 +14240,14 @@
           "relationship": "cognate",
           "roots": [
             "tingo"
-          ]
+          ],
+          "gloss_vi": "làm hoen ố",
+          "gloss_ja": "汚す",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "tinge",
@@ -12033,7 +14259,14 @@
           "relationship": "cognate",
           "roots": [
             "tingo"
-          ]
+          ],
+          "gloss_vi": "sắc nhạt",
+          "gloss_ja": "色味",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "tint",
@@ -12045,7 +14278,14 @@
           "relationship": "cognate",
           "roots": [
             "tingo"
-          ]
+          ],
+          "gloss_vi": "sắc độ màu",
+          "gloss_ja": "色合い",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "tincture",
@@ -12457,7 +14697,14 @@
             "band_rank": 6000,
             "band_source": "bnc",
             "relationship": "derivative",
-            "bnc_count": 32
+            "bnc_count": 32,
+            "gloss_vi": "bắt cóc",
+            "gloss_ja": "連れ去る",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "noun": [
@@ -12469,7 +14716,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 13
+            "bnc_count": 13,
+            "gloss_vi": "kẻ bắt cóc",
+            "gloss_ja": "誘拐犯",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -12484,7 +14738,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "dạy dỗ",
+          "gloss_ja": "教育する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "introduce",
@@ -12496,7 +14757,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "giới thiệu",
+          "gloss_ja": "紹介する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "produce",
@@ -12508,7 +14776,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "sản xuất · gây ra",
+          "gloss_ja": "生産する・引き起こす",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "entry"
         },
         {
           "term": "product",
@@ -12520,7 +14795,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "sản phẩm",
+          "gloss_ja": "製品",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "reduce",
@@ -12532,7 +14814,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "giảm",
+          "gloss_ja": "下げる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "conduct",
@@ -12544,7 +14833,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "chỉ đạo",
+          "gloss_ja": "指揮する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "reproduce",
@@ -12556,7 +14852,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "sao chép",
+          "gloss_ja": "写す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "deduct",
@@ -12568,7 +14871,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "trừ đi",
+          "gloss_ja": "引く",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "induce",
@@ -12580,7 +14890,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "gây ra",
+          "gloss_ja": "引き起こす",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "seduce",
@@ -12592,7 +14909,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "quyến rũ",
+          "gloss_ja": "誘惑する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "duct",
@@ -12604,7 +14928,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "ống dẫn",
+          "gloss_ja": "ダクト",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "induct",
@@ -12616,7 +14947,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "kết nạp",
+          "gloss_ja": "入会させる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "subdue",
@@ -12628,7 +14966,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "khuất phục",
+          "gloss_ja": "治める",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "deduce",
@@ -12640,7 +14985,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "suy ra",
+          "gloss_ja": "割り出す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "conducive",
@@ -12652,7 +15004,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "góp phần tạo ra",
+          "gloss_ja": "〜につながりやすい",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "conduit",
@@ -12664,7 +15023,14 @@
           "relationship": "cognate",
           "roots": [
             "duco"
-          ]
+          ],
+          "gloss_vi": "ống dẫn",
+          "gloss_ja": "導管",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "transducer",
@@ -13658,7 +16024,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 449
+            "bnc_count": 449,
+            "gloss_vi": "bị dính líu",
+            "gloss_ja": "加担した",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "noun": [
@@ -13670,7 +16043,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1318
+            "bnc_count": 1318,
+            "gloss_vi": "hàm ý",
+            "gloss_ja": "含み",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -13686,7 +16066,14 @@
           "roots": [
             "implico",
             "plico"
-          ]
+          ],
+          "gloss_vi": "thuê, tuyển người làm",
+          "gloss_ja": "雇う",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "reply",
@@ -13698,7 +16085,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "câu trả lời",
+          "gloss_ja": "返事",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "apply",
@@ -13710,7 +16104,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "áp dụng, đem dùng",
+          "gloss_ja": "用いる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "complicate",
@@ -13722,7 +16123,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "làm phức tạp",
+          "gloss_ja": "複雑にする",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "display",
@@ -13734,7 +16142,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "sự trưng bày",
+          "gloss_ja": "展示",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "explicit",
@@ -13746,7 +16161,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "nói rõ ràng",
+          "gloss_ja": "明示的",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "imply",
@@ -13759,7 +16181,14 @@
           "roots": [
             "implico",
             "plico"
-          ]
+          ],
+          "gloss_vi": "ngụ ý",
+          "gloss_ja": "仄めかす",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "applicable",
@@ -13771,7 +16200,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "áp dụng được",
+          "gloss_ja": "適用できる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "applicant",
@@ -13783,7 +16219,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "người nộp đơn",
+          "gloss_ja": "応募者",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "deploy",
@@ -13795,7 +16238,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "triển khai",
+          "gloss_ja": "展開する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "implicit",
@@ -13809,7 +16259,14 @@
             "implicatus",
             "implico",
             "plico"
-          ]
+          ],
+          "gloss_vi": "ngầm hiểu",
+          "gloss_ja": "暗黙",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "multiply",
@@ -13821,7 +16278,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "nhân (phép toán)",
+          "gloss_ja": "掛ける",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "replicate",
@@ -13833,7 +16297,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "lặp lại y hệt",
+          "gloss_ja": "再現する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "explicable",
@@ -13845,7 +16316,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "giải thích được",
+          "gloss_ja": "説明できる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "ploy",
@@ -13857,7 +16335,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "mánh khoé",
+          "gloss_ja": "策略",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "replica",
@@ -13869,7 +16354,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "bản sao",
+          "gloss_ja": "レプリカ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "accomplice",
@@ -13881,7 +16373,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "kẻ đồng lõa",
+          "gloss_ja": "共犯者",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "multiplicity",
@@ -13893,7 +16392,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "vô số",
+          "gloss_ja": "多数",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "ply",
@@ -13905,7 +16411,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "mời tới tấp",
+          "gloss_ja": "しきりに勧める",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "supple",
@@ -13917,7 +16430,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "mềm dẻo",
+          "gloss_ja": "しなやか",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "complicity",
@@ -13929,7 +16449,14 @@
           "relationship": "cognate",
           "roots": [
             "plico"
-          ]
+          ],
+          "gloss_vi": "sự đồng lõa",
+          "gloss_ja": "共犯",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "explicate",
@@ -14374,7 +16901,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 218
+            "bnc_count": 218,
+            "gloss_vi": "đuổi khỏi nhà",
+            "gloss_ja": "立ち退き",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -14389,7 +16923,14 @@
           "relationship": "cognate",
           "roots": [
             "uinco"
-          ]
+          ],
+          "gloss_vi": "thuyết phục",
+          "gloss_ja": "説き伏せる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "convict",
@@ -14401,7 +16942,14 @@
           "relationship": "cognate",
           "roots": [
             "uinco"
-          ]
+          ],
+          "gloss_vi": "tù nhân",
+          "gloss_ja": "囚人",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "invincible",
@@ -14804,7 +17352,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 252
+            "bnc_count": 252,
+            "gloss_vi": "vốn dĩ",
+            "gloss_ja": "本来",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -14819,7 +17374,14 @@
           "relationship": "cognate",
           "roots": [
             "secus"
-          ]
+          ],
+          "gloss_vi": "cách ly",
+          "gloss_ja": "隔離する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "extrinsic",
@@ -15204,7 +17766,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 17
+            "bnc_count": 17,
+            "gloss_vi": "người theo chủ nghĩa hư vô",
+            "gloss_ja": "虚無主義者",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "adjective": [
@@ -15216,7 +17785,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 25
+            "bnc_count": 25,
+            "gloss_vi": "theo chủ nghĩa hư vô",
+            "gloss_ja": "虚無的",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "adverb": [
@@ -15243,7 +17819,14 @@
           "relationship": "cognate",
           "roots": [
             "ismus"
-          ]
+          ],
+          "gloss_vi": "thuật toán",
+          "gloss_ja": "アルゴリズム",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "annihilate",
@@ -15256,7 +17839,14 @@
           "roots": [
             "hilum",
             "nihil"
-          ]
+          ],
+          "gloss_vi": "tiêu diệt sạch",
+          "gloss_ja": "全滅させる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "archaism",
@@ -15615,7 +18205,14 @@
             "band_rank": 6000,
             "band_source": "bnc",
             "relationship": "derivative",
-            "bnc_count": 263
+            "bnc_count": 263,
+            "gloss_vi": "phân theo loại",
+            "gloss_ja": "分類する",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -15993,7 +18590,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 76
+            "bnc_count": 76,
+            "gloss_vi": "một cách mạch lạc",
+            "gloss_ja": "筋道立てて",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "incoherently",
@@ -16003,7 +18607,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 34
+            "bnc_count": 34,
+            "gloss_vi": "một cách lộn xộn",
+            "gloss_ja": "支離滅裂に",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "adjective": [
@@ -16015,7 +18626,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 171
+            "bnc_count": 171,
+            "gloss_vi": "rời rạc, lộn xộn",
+            "gloss_ja": "ちぐはぐ",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -16030,7 +18648,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "ngần ngại",
+          "gloss_ja": "ためらう",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "inherit",
@@ -16042,7 +18667,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "thừa kế",
+          "gloss_ja": "受け継ぐ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "adhere",
@@ -16054,7 +18686,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "dính chặt",
+          "gloss_ja": "付く",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "inherent",
@@ -16066,7 +18705,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "vốn có",
+          "gloss_ja": "固有",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "hesitant",
@@ -16078,7 +18724,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "do dự",
+          "gloss_ja": "優柔不断",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "coherence",
@@ -16092,7 +18745,14 @@
             "cohaerens",
             "cohaereo",
             "haereo"
-          ]
+          ],
+          "gloss_vi": "sự mạch lạc",
+          "gloss_ja": "一貫",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "cohesion",
@@ -16105,7 +18765,14 @@
           "roots": [
             "cohaereo",
             "haereo"
-          ]
+          ],
+          "gloss_vi": "sự kết dính",
+          "gloss_ja": "粘着",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "cohesive",
@@ -16118,7 +18785,14 @@
           "roots": [
             "cohaereo",
             "haereo"
-          ]
+          ],
+          "gloss_vi": "gắn kết chặt chẽ",
+          "gloss_ja": "まとまりのある",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "adhesive",
@@ -16130,7 +18804,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "keo dán",
+          "gloss_ja": "接着剤",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "hereditary",
@@ -16142,7 +18823,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "di truyền",
+          "gloss_ja": "遺伝性",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "heretic",
@@ -16154,7 +18842,14 @@
           "relationship": "cognate",
           "roots": [
             "haereo"
-          ]
+          ],
+          "gloss_vi": "kẻ dị giáo",
+          "gloss_ja": "異端者",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "parenthesis",
@@ -16874,7 +19569,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 53
+            "bnc_count": 53,
+            "gloss_vi": "sự tăng thêm",
+            "gloss_ja": "増強",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "augmenter",
@@ -16896,7 +19598,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 348
+            "bnc_count": 348,
+            "gloss_vi": "đã tăng thêm",
+            "gloss_ja": "増強された",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -16911,7 +19620,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "sự giúp đỡ",
+          "gloss_ja": "助け",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "august",
@@ -16923,7 +19639,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "đáng kính, uy nghi",
+          "gloss_ja": "恐れ多い",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "automatic",
@@ -16935,7 +19658,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "tự động",
+          "gloss_ja": "自動的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "author",
@@ -16947,7 +19677,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "tác giả",
+          "gloss_ja": "作家",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "authority",
@@ -16959,7 +19696,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "quyền hành",
+          "gloss_ja": "権力",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "auction",
@@ -16971,7 +19715,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "đấu giá",
+          "gloss_ja": "オークション",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "authoritarian",
@@ -16983,7 +19734,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "độc đoán, chuyên quyền",
+          "gloss_ja": "強権的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "authoritative",
@@ -16995,7 +19753,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "có uy quyền",
+          "gloss_ja": "権威ある",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "auxiliary",
@@ -17007,7 +19772,14 @@
           "relationship": "cognate",
           "roots": [
             "augeo"
-          ]
+          ],
+          "gloss_vi": "phụ trợ",
+          "gloss_ja": "補助的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "adjutant",
@@ -17380,7 +20152,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 605
+            "bnc_count": 605,
+            "gloss_vi": "khả năng hiểu",
+            "gloss_ja": "理解力",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "incomprehension",
@@ -17441,7 +20220,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "nhà tù",
+          "gloss_ja": "刑務所",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "surprise",
@@ -17453,7 +20239,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "sự ngạc nhiên",
+          "gloss_ja": "驚き",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "comprehensive",
@@ -17466,7 +20259,14 @@
           "roots": [
             "comprehendo",
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "toàn diện",
+          "gloss_ja": "総合的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "comprise",
@@ -17480,7 +20280,14 @@
             "comprehendere",
             "comprehendo",
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "gồm có",
+          "gloss_ja": "含む",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "prize",
@@ -17492,7 +20299,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "giải thưởng",
+          "gloss_ja": "賞品",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "apprehend",
@@ -17504,7 +20318,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "bắt giữ",
+          "gloss_ja": "逮捕する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "entry"
         },
         {
           "term": "apprentice",
@@ -17516,7 +20337,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "người học nghề",
+          "gloss_ja": "見習い",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "incomprehensible",
@@ -17529,7 +20357,14 @@
           "roots": [
             "comprehendo",
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "khó hiểu",
+          "gloss_ja": "分かりにくい",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "reprisal",
@@ -17541,7 +20376,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "sự trả đũa",
+          "gloss_ja": "報復",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "impregnable",
@@ -17968,7 +20810,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 130
+            "bnc_count": 130,
+            "gloss_vi": "được hiểu rõ",
+            "gloss_ja": "理解された",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "noun": [
@@ -17980,7 +20829,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 508
+            "bnc_count": 508,
+            "gloss_vi": "nỗi lo sợ",
+            "gloss_ja": "不安",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "misapprehension",
@@ -18017,7 +20873,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "nhà tù",
+          "gloss_ja": "刑務所",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "surprise",
@@ -18029,7 +20892,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "sự ngạc nhiên",
+          "gloss_ja": "驚き",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "comprehensive",
@@ -18041,7 +20911,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "toàn diện",
+          "gloss_ja": "総合的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "comprise",
@@ -18053,7 +20930,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "gồm có",
+          "gloss_ja": "含む",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "prize",
@@ -18065,7 +20949,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "giải thưởng",
+          "gloss_ja": "賞品",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "comprehend",
@@ -18077,7 +20968,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "hiểu thấu",
+          "gloss_ja": "理解する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "entry"
         },
         {
           "term": "apprentice",
@@ -18090,7 +20988,14 @@
           "roots": [
             "apprehendo",
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "người học nghề",
+          "gloss_ja": "見習い",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "incomprehensible",
@@ -18102,7 +21007,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "khó hiểu",
+          "gloss_ja": "分かりにくい",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "reprisal",
@@ -18114,7 +21026,14 @@
           "relationship": "cognate",
           "roots": [
             "prehendo"
-          ]
+          ],
+          "gloss_vi": "sự trả đũa",
+          "gloss_ja": "報復",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "impregnable",
@@ -18511,7 +21430,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 330
+            "bnc_count": 330,
+            "gloss_vi": "bối rối",
+            "gloss_ja": "困惑した",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "noun": [
@@ -18895,7 +21821,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 93
+            "bnc_count": 93,
+            "gloss_vi": "sự tầm thường",
+            "gloss_ja": "平凡さ",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -18910,7 +21843,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "xấu tính",
+          "gloss_ja": "意地悪",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "immediate",
@@ -18922,7 +21862,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "ngay lập tức",
+          "gloss_ja": "即座",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "media",
@@ -18934,7 +21881,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "truyền thông",
+          "gloss_ja": "メディア",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "medium",
@@ -18946,7 +21900,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "mức trung bình",
+          "gloss_ja": "中くらい",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "medal",
@@ -18958,7 +21919,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "huy chương",
+          "gloss_ja": "メダル",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "mediate",
@@ -18970,7 +21938,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "hoà giải",
+          "gloss_ja": "間に立つ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "medieval",
@@ -18982,7 +21957,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "thời trung cổ",
+          "gloss_ja": "中世の",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "intermediate",
@@ -18994,7 +21976,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "ở giữa",
+          "gloss_ja": "中間",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "median",
@@ -19006,7 +21995,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "ở giữa",
+          "gloss_ja": "真ん中の",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "intermediary",
@@ -19018,7 +22014,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "người trung gian",
+          "gloss_ja": "橋渡し",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "milieu",
@@ -19030,7 +22033,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "môi trường sống",
+          "gloss_ja": "環境",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "medallion",
@@ -19042,7 +22052,14 @@
           "relationship": "cognate",
           "roots": [
             "medius"
-          ]
+          ],
+          "gloss_vi": "huy chương",
+          "gloss_ja": "メダル",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "meridian",
@@ -19475,7 +22492,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 735
+            "bnc_count": 735,
+            "gloss_vi": "danh giá",
+            "gloss_ja": "栄誉ある",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           }
         ]
       },
@@ -19834,7 +22858,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 521
+            "bnc_count": 521,
+            "gloss_vi": "bị kìm nén",
+            "gloss_ja": "抑えられた",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "inhibitory",
@@ -19844,7 +22875,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 243
+            "bnc_count": 243,
+            "gloss_vi": "có tính kìm hãm",
+            "gloss_ja": "抑制的",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "uninhibited",
@@ -19854,7 +22892,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 101
+            "bnc_count": 101,
+            "gloss_vi": "phóng khoáng",
+            "gloss_ja": "奔放",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "noun": [
@@ -19866,7 +22911,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 807
+            "bnc_count": 807,
+            "gloss_vi": "tính e dè, ngại ngùng",
+            "gloss_ja": "気後れ・内気さ",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "inhibitor",
@@ -19876,7 +22928,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 196
+            "bnc_count": 196,
+            "gloss_vi": "chất kìm hãm",
+            "gloss_ja": "抑制剤",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "adverb": [
@@ -19903,7 +22962,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "có thể làm được",
+          "gloss_ja": "できる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "average",
@@ -19915,7 +22981,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "trung bình",
+          "gloss_ja": "平均的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "due",
@@ -19927,7 +23000,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "đến hạn trả",
+          "gloss_ja": "期限が来た",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "habit",
@@ -19939,7 +23019,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "thói quen",
+          "gloss_ja": "習慣",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "disabled",
@@ -19951,7 +23038,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "vô hiệu hoá",
+          "gloss_ja": "無効にする",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "exhibit",
@@ -19963,7 +23057,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "thể hiện",
+          "gloss_ja": "示す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "inhabit",
@@ -19975,7 +23076,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "sống ở",
+          "gloss_ja": "住む",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "prohibit",
@@ -19987,7 +23095,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "cấm",
+          "gloss_ja": "禁じる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "habitat",
@@ -19999,7 +23114,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "nơi sinh sống",
+          "gloss_ja": "生息地",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "rehabilitate",
@@ -20011,7 +23133,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "phục hồi",
+          "gloss_ja": "修復する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "habitual",
@@ -20023,7 +23152,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "thành thói quen",
+          "gloss_ja": "普段",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "debilitate",
@@ -20035,7 +23171,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "làm suy yếu",
+          "gloss_ja": "弱らせる",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "debit",
@@ -20047,7 +23190,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "khoản ghi nợ",
+          "gloss_ja": "借り方",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "edible",
@@ -20059,7 +23209,14 @@
           "relationship": "cognate",
           "roots": [
             "habeo"
-          ]
+          ],
+          "gloss_vi": "đồ ăn được",
+          "gloss_ja": "食べられるもの",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "habitation",
@@ -20555,7 +23712,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 264
+            "bnc_count": 264,
+            "gloss_vi": "không nương tay",
+            "gloss_ja": "容赦なく",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           }
         ],
         "noun": [
@@ -20951,7 +24115,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 18
+            "bnc_count": 18,
+            "gloss_vi": "riêng rẽ",
+            "gloss_ja": "個別に",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -20967,7 +24138,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "chắc chắn",
+          "gloss_ja": "確か",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "concern",
@@ -20980,7 +24158,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "mối quan tâm",
+          "gloss_ja": "関心事",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "crime",
@@ -20993,7 +24178,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "tội phạm",
+          "gloss_ja": "犯罪",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "criminal",
@@ -21006,7 +24198,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "phạm tội",
+          "gloss_ja": "犯罪の",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "secret",
@@ -21019,7 +24218,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "bí mật",
+          "gloss_ja": "秘密",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "concrete",
@@ -21032,7 +24238,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "đổ bê tông",
+          "gloss_ja": "コンクリートを打つ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "discreet",
@@ -21047,7 +24260,14 @@
             "cernos",
             "discerno",
             "discretus"
-          ]
+          ],
+          "gloss_vi": "kín đáo, ý tứ",
+          "gloss_ja": "慎重な",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "entry"
         },
         {
           "term": "discriminate",
@@ -21061,7 +24281,14 @@
             "cerno",
             "cernos",
             "discerno"
-          ]
+          ],
+          "gloss_vi": "phân biệt đối xử",
+          "gloss_ja": "差別する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "secretary",
@@ -21074,7 +24301,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "thư ký",
+          "gloss_ja": "秘書",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "certificate",
@@ -21087,7 +24321,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "giấy chứng nhận",
+          "gloss_ja": "証明書",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "decree",
@@ -21100,7 +24341,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "ra sắc lệnh",
+          "gloss_ja": "命令する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "discern",
@@ -21114,7 +24362,14 @@
             "cerno",
             "cernos",
             "discerno"
-          ]
+          ],
+          "gloss_vi": "nhận ra",
+          "gloss_ja": "悟る",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "ascertain",
@@ -21127,7 +24382,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "xác định rõ",
+          "gloss_ja": "確かめる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "secrete",
@@ -21140,7 +24402,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "giấu kín",
+          "gloss_ja": "隠す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "discernible",
@@ -21154,7 +24423,14 @@
             "cerno",
             "cernos",
             "discerno"
-          ]
+          ],
+          "gloss_vi": "có thể thấy rõ",
+          "gloss_ja": "見分けられる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "excrete",
@@ -21167,7 +24443,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "thải ra ngoài",
+          "gloss_ja": "排泄する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "crayon",
@@ -21180,7 +24463,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "bút sáp màu",
+          "gloss_ja": "クレヨン",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "excrement",
@@ -21620,7 +24910,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 603
+            "bnc_count": 603,
+            "gloss_vi": "thuộc quyền tự quyết",
+            "gloss_ja": "裁量による",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "indiscreet",
@@ -21630,7 +24927,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 58
+            "bnc_count": 58,
+            "gloss_vi": "thiếu thận trọng",
+            "gloss_ja": "不用意",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "discreetest",
@@ -21662,7 +24966,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 311
+            "bnc_count": 311,
+            "gloss_vi": "kín đáo",
+            "gloss_ja": "控えめに",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 4
+            },
+            "gloss_ja_source": "llm"
           },
           {
             "term": "indiscreetly",
@@ -21684,7 +24995,14 @@
             "band_rank": 6000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 1887
+            "bnc_count": 1887,
+            "gloss_vi": "quyền tự quyết",
+            "gloss_ja": "裁量",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "indiscretion",
@@ -21694,7 +25012,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 64
+            "bnc_count": 64,
+            "gloss_vi": "lỗi lầm nhỏ",
+            "gloss_ja": "過ち",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 4
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "discreetness",
@@ -21732,7 +25057,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "chắc chắn",
+          "gloss_ja": "確か",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "concern",
@@ -21745,7 +25077,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "mối quan tâm",
+          "gloss_ja": "関心事",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "crime",
@@ -21758,7 +25097,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "tội phạm",
+          "gloss_ja": "犯罪",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "criminal",
@@ -21771,7 +25117,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "phạm tội",
+          "gloss_ja": "犯罪の",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "secret",
@@ -21784,7 +25137,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "bí mật",
+          "gloss_ja": "秘密",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "concrete",
@@ -21797,7 +25157,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "đổ bê tông",
+          "gloss_ja": "コンクリートを打つ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "discriminate",
@@ -21811,7 +25178,14 @@
             "cerno",
             "cernos",
             "discerno"
-          ]
+          ],
+          "gloss_vi": "phân biệt đối xử",
+          "gloss_ja": "差別する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "secretary",
@@ -21824,7 +25198,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "thư ký",
+          "gloss_ja": "秘書",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "certificate",
@@ -21837,7 +25218,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "giấy chứng nhận",
+          "gloss_ja": "証明書",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "decree",
@@ -21850,7 +25238,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "ra sắc lệnh",
+          "gloss_ja": "命令する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "discern",
@@ -21864,7 +25259,14 @@
             "cerno",
             "cernos",
             "discerno"
-          ]
+          ],
+          "gloss_vi": "nhận ra",
+          "gloss_ja": "悟る",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "ascertain",
@@ -21877,7 +25279,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "xác định rõ",
+          "gloss_ja": "確かめる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "discrete",
@@ -21892,7 +25301,14 @@
             "cernos",
             "discerno",
             "discretus"
-          ]
+          ],
+          "gloss_vi": "riêng rẽ, tách bạch",
+          "gloss_ja": "個別の",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "entry"
         },
         {
           "term": "secrete",
@@ -21905,7 +25321,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "giấu kín",
+          "gloss_ja": "隠す",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "discernible",
@@ -21919,7 +25342,14 @@
             "cerno",
             "cernos",
             "discerno"
-          ]
+          ],
+          "gloss_vi": "có thể thấy rõ",
+          "gloss_ja": "見分けられる",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "excrete",
@@ -21932,7 +25362,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "thải ra ngoài",
+          "gloss_ja": "排泄する",
+          "gloss_d7": {
+            "vi": 4,
+            "ja": 4
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "crayon",
@@ -21945,7 +25382,14 @@
           "roots": [
             "cerno",
             "cernos"
-          ]
+          ],
+          "gloss_vi": "bút sáp màu",
+          "gloss_ja": "クレヨン",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "excrement",
@@ -22398,7 +25842,14 @@
             "band_rank": 12000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 57
+            "bnc_count": 57,
+            "gloss_vi": "đàn điện tử",
+            "gloss_ja": "シンセ",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "noun": [
@@ -22420,7 +25871,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 36
+            "bnc_count": 36,
+            "gloss_vi": "đàn điện tử",
+            "gloss_ja": "シンセサイザー",
+            "gloss_d7": {
+              "vi": 4,
+              "ja": 5
+            },
+            "gloss_ja_source": "jmdict"
           },
           {
             "term": "syntheses",
@@ -22430,7 +25888,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 30
+            "bnc_count": 30,
+            "gloss_vi": "sự tổng hợp",
+            "gloss_ja": "総合",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ],
         "verb": [
@@ -22452,7 +25917,14 @@
             "band_rank": 20000,
             "band_source": "wordfreq~",
             "relationship": "derivative",
-            "bnc_count": 45
+            "bnc_count": 45,
+            "gloss_vi": "tổng hợp",
+            "gloss_ja": "合成する",
+            "gloss_d7": {
+              "vi": 5,
+              "ja": 5
+            },
+            "gloss_ja_source": "llm"
           }
         ]
       },
@@ -22467,7 +25939,14 @@
           "relationship": "cognate",
           "roots": [
             "τιθημι"
-          ]
+          ],
+          "gloss_vi": "tháng Hai",
+          "gloss_ja": "２月",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "hypothesis",
@@ -22481,7 +25960,14 @@
             "θεσισ",
             "σισ",
             "τιθημι"
-          ]
+          ],
+          "gloss_vi": "giả thuyết",
+          "gloss_ja": "仮説",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "phase",
@@ -22493,7 +25979,14 @@
           "relationship": "cognate",
           "roots": [
             "σισ"
-          ]
+          ],
+          "gloss_vi": "giai đoạn",
+          "gloss_ja": "段階",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "theme",
@@ -22505,7 +25998,14 @@
           "relationship": "cognate",
           "roots": [
             "τιθημι"
-          ]
+          ],
+          "gloss_vi": "chủ đề",
+          "gloss_ja": "テーマ",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "diagnose",
@@ -22517,7 +26017,14 @@
           "relationship": "cognate",
           "roots": [
             "σισ"
-          ]
+          ],
+          "gloss_vi": "chẩn đoán",
+          "gloss_ja": "診断する",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "diagnosis",
@@ -22529,7 +26036,14 @@
           "relationship": "cognate",
           "roots": [
             "σισ"
-          ]
+          ],
+          "gloss_vi": "chẩn đoán",
+          "gloss_ja": "診断",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "thesis",
@@ -22543,7 +26057,14 @@
             "θεσισ",
             "σισ",
             "τιθημι"
-          ]
+          ],
+          "gloss_vi": "luận văn",
+          "gloss_ja": "論文",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "analytic",
@@ -22555,7 +26076,14 @@
           "relationship": "cognate",
           "roots": [
             "σισ"
-          ]
+          ],
+          "gloss_vi": "có tính phân tích",
+          "gloss_ja": "分析的",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "synthetic",
@@ -22571,7 +26099,14 @@
             "συνθεσισ",
             "συντιθημι",
             "τιθημι"
-          ]
+          ],
+          "gloss_vi": "nhân tạo",
+          "gloss_ja": "人造",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 4
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "hypothetical",
@@ -22585,7 +26120,14 @@
             "θεσισ",
             "σισ",
             "τιθημι"
-          ]
+          ],
+          "gloss_vi": "tình huống giả định",
+          "gloss_ja": "仮定の話",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "paralysis",
@@ -22597,7 +26139,14 @@
           "relationship": "cognate",
           "roots": [
             "σισ"
-          ]
+          ],
+          "gloss_vi": "chứng liệt",
+          "gloss_ja": "麻痺",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "jmdict"
         },
         {
           "term": "syntax",
@@ -22609,7 +26158,14 @@
           "relationship": "cognate",
           "roots": [
             "σισ"
-          ]
+          ],
+          "gloss_vi": "cú pháp",
+          "gloss_ja": "構文",
+          "gloss_d7": {
+            "vi": 5,
+            "ja": 5
+          },
+          "gloss_ja_source": "llm"
         },
         {
           "term": "anathema",
