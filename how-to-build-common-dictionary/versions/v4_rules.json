@@ -4,22 +4,22 @@
   "note": "Mỗi luật ghi rõ **ai thực thi**: “máy chặn” = sai thì dữ liệu không ghi ra được · “nguồn quyết định” = tra danh sách, AI không được chọn · “đề bài cho AI” = nằm trong prompt, chưa có máy chặn · “vòng chấm” = bắt bằng vòng chấm độc lập. Luật **MỚI** là luật vừa nhận, **chưa áp** lên 35 từ của bản này.",
   "anchor_howto": "Chọn dòng theo **loại từ của nghĩa đang viết ví dụ** (không phải loại từ của headword nói chung): một từ hai loại như *produce* (v) / *produce* (n) dùng hai mỏ neo khác nhau. Từ trừu tượng vs cụ thể phân theo “sờ/nhìn được không”. **Động từ nội động (intransitive) nằm NGOÀI dòng “động từ hành động”** — PO chốt 2026-08-20: dòng đó chỉ áp cho động từ **ngoại động**. Nghĩa nội động (*ice began to form*, *they posed for a photo*) khai `động từ nội động` và giữ luật nền VD-1…VD-5; **máy kiểm lại lời khai đó** (câu có tân ngữ mà khai nội động thì bị chặn). Giới từ, liên từ, cụm cố định thì khai “không áp mỏ neo” kèm lý do.",
   "counts": {
-    "total": 63,
+    "total": 64,
     "hard": 48,
     "prompt": 9,
-    "judge": 6,
-    "live": 61,
+    "judge": 7,
+    "live": 62,
     "new": 0,
     "todo": 2
   },
   "summary": [
     [
       "Đổi gì",
-      "**Nới toàn bộ luật dịch** (PO nhắc 2 vòng): mọi phần nội dung — cụm từ, đồng nghĩa, gia đình từ, từ cùng gốc — nay **được có nghĩa Việt/Nhật**; nguyên tắc cũ “từ vựng mục tiêu không dịch” bỏ. Kèm theo là **bảng gloss dùng chung**: mỗi từ dịch **một lần**, mọi mục đọc chung, và **máy chọn nghĩa đời thường** để đem đi dịch (*conductor* → “nhạc trưởng”, không phải “vật dẫn điện”). **Và áp ba luật soạn câu ví dụ PO giao 02/08** — không thương hiệu · mỏ neo tư duy theo loại từ · khai mỏ neo — ba luật này ở bản v3 mới chỉ ghi vào sổ, nay có máy chặn, nên **câu ví dụ đổi thật**. Bảng này liệt kê **toàn bộ 63 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
+      "**Nới toàn bộ luật dịch** (PO nhắc 2 vòng): mọi phần nội dung — cụm từ, đồng nghĩa, gia đình từ, từ cùng gốc — nay **được có nghĩa Việt/Nhật**; nguyên tắc cũ “từ vựng mục tiêu không dịch” bỏ. Kèm theo là **bảng gloss dùng chung**: mỗi từ dịch **một lần**, mọi mục đọc chung, và **máy chọn nghĩa đời thường** để đem đi dịch (*conductor* → “nhạc trưởng”, không phải “vật dẫn điện”). **Và áp ba luật soạn câu ví dụ PO giao 02/08** — không thương hiệu · mỏ neo tư duy theo loại từ · khai mỏ neo — ba luật này ở bản v3 mới chỉ ghi vào sổ, nay có máy chặn, nên **câu ví dụ đổi thật**. Bảng này liệt kê **toàn bộ 64 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
     ],
     [
       "Bằng chứng",
-      "63 luật: **48** do máy hoặc nguồn quyết định (AI không cãi được), 9 nằm ở đề bài cho AI, 6 bắt bằng vòng chấm. 61 đang chạy · 0 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
+      "64 luật: **48** do máy hoặc nguồn quyết định (AI không cãi được), 9 nằm ở đề bài cho AI, 7 bắt bằng vòng chấm. 62 đang chạy · 0 mới nhận, chưa áp · 2 đã chốt nhưng chưa code."
     ],
     [
       "PO vừa chốt",
@@ -515,10 +515,17 @@
         },
         {
           "id": "B8-12",
-          "text": "**Từ ở mục ② (từ cùng thân) và ③ (từ cùng gốc) được dịch theo PHẠM VI khai trước, và chỗ không dịch phải nói ra trên trang.** PO vòng 5: *“dịch nghĩa luôn của các word_root… aqueduct (kênh dẫn nước), conductor (nhạc trưởng) — nghĩa thông dụng gần gũi, không chọn nghĩa khó”*. Nhưng dịch HẾT thì mục cùng gốc nuốt cả trang: `manufacture` có 111 từ cùng gốc, `sever` 52, cả bộ v4 là **854 lượt / 777 mục**. Phạm vi bản v4 = **band High/Mid** (Du chốt ở CF-1h) **cộng mọi mục đang bày thẳng** — hai vế cộng nhau chứ không thay nhau, vì mục ② chỉ gập band `ít gặp` nên 65 mục band Low của nó nằm ngay trước mắt người đọc, và ngược lại 98 mục band Mid nằm trong khối gập của những nhóm gốc lớn (gập không phải là bỏ). Ra **466/777 mục**; 311 mục còn lại (band Low/ít gặp trong khối gập) **để trống KÈM LÝ DO in trên trang**, không để một khoảng trắng im lặng. Nghĩa đem đi dịch chọn trong tập ứng viên đóng của B8-7/B8-8 và lệch hạng nhất thì khai theo B8-9 — ở lớp từ Latinh hiếm của mục ②③ công thức B8-7 lật ngược khá nhiều (SemCor = 0 cho mọi nghĩa nên thứ hạng rơi về các vế phụ): `abductor` được máy xếp nghĩa **giải phẫu** trên nghĩa “kẻ bắt cóc”, đúng ca `conductor` PO đã chỉ mặt. Tiếng Nhật đi nguồn ② **JMdict** (EDRDG, CC BY-SA 4.0) qua một tập ứng viên đóng máy dò ngược và xếp hạng; không ứng viên nào dùng được thì khai lý do trong danh sách đóng, và lời khai “JMdict không có mục nào” máy đối chiếu được.",
+          "text": "**Từ ở mục ② (từ cùng thân) và ③ (từ cùng gốc) được dịch theo PHẠM VI khai trước, và chỗ không dịch phải nói ra trên trang.** PO vòng 5: *“dịch nghĩa luôn của các word_root… aqueduct (kênh dẫn nước), conductor (nhạc trưởng) — nghĩa thông dụng gần gũi, không chọn nghĩa khó”*. Nhưng dịch HẾT thì mục cùng gốc nuốt cả trang: `manufacture` có 111 từ cùng gốc, `sever` 52, cả bộ v4 là **854 lượt / 777 mục**. Phạm vi bản v4 = **band High/Mid** (Du chốt ở CF-1h) **cộng mọi mục đang bày thẳng** — hai vế cộng nhau chứ không thay nhau, vì mục ② chỉ gập band `ít gặp` nên 65 mục band Low của nó nằm ngay trước mắt người đọc, và ngược lại 98 mục band Mid nằm trong khối gập của những nhóm gốc lớn (gập không phải là bỏ). Ra **466/777 mục**; 311 mục còn lại (band Low/ít gặp trong khối gập) **để trống KÈM LÝ DO in trên trang**, không để một khoảng trắng im lặng. Nghĩa đem đi dịch chọn trong tập ứng viên đóng của B8-7/B8-8 và lệch hạng nhất thì khai theo B8-9 — ở lớp từ Latinh hiếm của mục ②③ công thức B8-7 lật ngược khá nhiều (SemCor = 0 cho mọi nghĩa nên thứ hạng rơi về các vế phụ): `abductor` được máy xếp nghĩa **giải phẫu** trên nghĩa “kẻ bắt cóc”, đúng ca `conductor` PO đã chỉ mặt. **63 ca đã khai là SÀN, không phải tổng** — nó đếm ca người viết ĐÈ thứ hạng; ca máy sai mà không ai đè thì không nằm trong đó (`secrete` → “giấu kín”, nghĩa “tiết ra” bị chính điểm phạt chuyên ngành đẩy xuống). Bộ đo cho vòng sửa công thức: `scripts/66` (63 đã khai · 67 mục có ứng viên bị phạt · 2 mục mà bỏ điểm phạt là đổi hạng nhất). Cửa ① hỏi thêm một câu ĐỨNG TRƯỚC — xem `B8-13`. Tiếng Nhật đi nguồn ② **JMdict** (EDRDG, CC BY-SA 4.0) qua một tập ứng viên đóng máy dò ngược được; không ứng viên nào dùng được thì khai lý do trong danh sách đóng, và lời khai “JMdict không có mục nào” máy đối chiếu được. **Thứ tự trong tập tiếng Nhật là thứ tự ĐỌC, không ràng buộc ai** (ADR-033): đo trên chính bộ này, 158/306 mục chọn lệch chữ đứng đầu và 107/158 chữ đứng đầu không dính gì tới nghĩa đã chốt (`august` → ８月, `evoke` → 買う), nên cửa giữ chất lượng bản Nhật là tập-đóng + D7, không phải thứ hạng.",
           "by": "máy chặn",
           "status": "đang áp",
-          "where": "src/member_gloss.scope · MemberGloss.gate_errors · scripts/65_build_jmdict_candidates.py · cf1_pilot/make_member_gloss.py --check"
+          "where": "ADR-033 · src/member_gloss.scope · MemberGloss.gate_errors · scripts/65_build_jmdict_candidates.py · scripts/66_b8_7_measure_set.py · cf1_pilot/make_member_gloss.py --check"
+        },
+        {
+          "id": "B8-13",
+          "text": "**Cửa chấm “chọn nghĩa” hỏi HAI câu, theo đúng thứ tự này.** Câu một: *trong tập ứng viên đóng, có nghĩa nào là nghĩa ĐỜI THƯỜNG của mục không?* Câu hai (chỉ hỏi khi câu một trả lời CÓ): *mục này đã chọn đúng nghĩa đó chưa?* Thứ tự không phải hình thức: câu hai **giả định sẵn** câu một là CÓ, nên khi giả định sai thì nó tự trả lời — tập chỉ một ứng viên ⇒ “chọn ứng viên duy nhất → không thể sai” ⇒ 5/5. Ca đo được: trang của `apprehend` in nghĩa nhanh “bắt giữ”, rồi ngay mục ② bày `apprehended (được hiểu rõ)` — hai dòng cạnh nhau nói ngược nhau, cả hai 5/5. Chính giám khảo đã viết ra chỗ này ở **34 lượt chấm / 29 mục**, nhưng lời khai đó không có ô nào để rơi vào nên không đếm được và không đổi được gì. Câu một có **ba đáp án đóng**, và ba đáp án ấy tách được hai chuyện vốn bị gộp: `has_common` (tập có — hỏi tiếp câu hai) · `word_is_technical` (từ vốn không có nghĩa đời thường nào, nghĩa chuyên ngành CHÍNH LÀ nghĩa của nó — `photosynthesis`, `verdict`; vẫn dịch) · `common_missing` (từ CÓ nghĩa đời thường nhưng nghĩa ấy nằm NGOÀI tập — `apprehended` = bị bắt giữ). Trả lời `common_missing` thì mục **để trống KÈM LÝ DO in trên trang**, không lấp bằng nghĩa viết ngoài tập: viết ngoài tập là phá chính B8-8, mà lấp bằng nghĩa sai thì tệ hơn để trống (B3-6 — chặn cái sai chỉ TRỪ ĐI). Đo trên bộ v4: 442 `has_common` · 15 `word_is_technical` · **4 `common_missing`** (`apprehended` · `deconstruct` · `extinguished` · `sacrifice`) — và 10/29 mục vòng trước gắn cờ là gắn NHẦM, giám khảo đọc lời tả của định nghĩa thấy chữ nghe chuyên ngành rồi kết luận nghĩa là chuyên ngành (`vowel`, `graphite`, `algorithm`).",
+          "by": "vòng chấm",
+          "status": "đang áp",
+          "where": "QC CF-1h finding ⑤ · src/member_gloss.SET_SENSE_ANSWERS · NO_SENSE_REASONS[no_common_sense] · MemberGloss.gate_errors · cf1_pilot/make_member_gloss.py --check"
         }
       ]
     },

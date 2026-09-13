@@ -6172,13 +6172,7 @@
             "construo",
             "struo"
           ],
-          "gloss_vi": "giải cấu trúc",
-          "gloss_ja": "脱構築する",
-          "gloss_d7": {
-            "vi": 4,
-            "ja": 5
-          },
-          "gloss_ja_source": "llm"
+          "gloss_none": "chưa có nghĩa — từ điển nguồn không có nghĩa đời thường của từ này, và bản này để trống thay vì lấy một nghĩa chuyên ngành nói ngược điều người học đã biết. Vòng chấm cửa ① (câu hỏi đầu, B8-13) 2026-09-13: Nghĩa người học gặp trước là 'mổ xẻ, tháo rời ra thành từng phần' (deconstruct an argument, a deconstructed burger). Tập chỉ có nghĩa lý luận văn học của Derrida, nên 'giải cấu trúc' đang hiện không phải điều người học hiểu về từ này."
         }
       ],
       "excluded": [],
@@ -8216,13 +8210,7 @@
           "roots": [
             "facio"
           ],
-          "gloss_vi": "cái giá phải trả",
-          "gloss_ja": "代償",
-          "gloss_d7": {
-            "vi": 4,
-            "ja": 5
-          },
-          "gloss_ja_source": "llm"
+          "gloss_none": "chưa có nghĩa — từ điển nguồn không có nghĩa đời thường của từ này, và bản này để trống thay vì lấy một nghĩa chuyên ngành nói ngược điều người học đã biết. Vòng chấm cửa ① (câu hỏi đầu, B8-13) 2026-09-13: Nghĩa ai cũng biết của sacrifice là 'sự hy sinh — từ bỏ thứ quý giá vì điều lớn hơn' (cha mẹ hy sinh cho con). Tập không có nghĩa đó: chỉ có mất mát như hình phạt cho lỗi, nhân sự bị thí, lỗ khi bán rẻ, bóng chày, giết vật tế thần — nên 'cái giá phải trả' đang hiện là sai hướng."
         },
         {
           "term": "satisfaction",
@@ -14103,13 +14091,7 @@
             "band_source": "wordfreq~",
             "relationship": "derivative",
             "bnc_count": 206,
-            "gloss_vi": "(phản xạ) đã bị dập tắt",
-            "gloss_ja": "(反射が)消去された",
-            "gloss_d7": {
-              "vi": 5,
-              "ja": 4
-            },
-            "gloss_ja_source": "llm"
+            "gloss_none": "chưa có nghĩa — từ điển nguồn không có nghĩa đời thường của từ này, và bản này để trống thay vì lấy một nghĩa chuyên ngành nói ngược điều người học đã biết. Vòng chấm cửa ① (câu hỏi đầu, B8-13) 2026-09-13: Người học gặp 'extinguished' là 'đã bị dập tắt' (ngọn lửa, điếu thuốc, ánh đèn). Tập chỉ có nghĩa tâm lý học hành vi 'phản xạ có điều kiện bị tắt dần', nên chữ đang hiện '(phản xạ) đã bị dập tắt' lệch hẳn khỏi nghĩa quen."
           },
           {
             "term": "inextinguishable",
@@ -20811,13 +20793,7 @@
             "band_source": "wordfreq~",
             "relationship": "derivative",
             "bnc_count": 130,
-            "gloss_vi": "được hiểu rõ",
-            "gloss_ja": "理解された",
-            "gloss_d7": {
-              "vi": 5,
-              "ja": 5
-            },
-            "gloss_ja_source": "llm"
+            "gloss_none": "chưa có nghĩa — từ điển nguồn không có nghĩa đời thường của từ này, và bản này để trống thay vì lấy một nghĩa chuyên ngành nói ngược điều người học đã biết. Vòng chấm cửa ① (câu hỏi đầu, B8-13) 2026-09-13: Người học gặp 'apprehended' là 'bị bắt giữ' (the apprehended suspect / the suspect was apprehended) — dùng như tính từ được. Tập chỉ có 'fully understood or grasped', nên chữ đang hiện 'được hiểu rõ' nói ngược với điều người học biết."
           }
         ],
         "noun": [
