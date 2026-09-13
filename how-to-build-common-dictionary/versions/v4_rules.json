@@ -15,7 +15,7 @@
   "summary": [
     [
       "Đổi gì",
-      "**Nới toàn bộ luật dịch** (PO nhắc 2 vòng): mọi phần nội dung — cụm từ, đồng nghĩa, gia đình từ, từ cùng gốc — nay **được có nghĩa Việt/Nhật**; nguyên tắc cũ “từ vựng mục tiêu không dịch” bỏ. Kèm theo là **bảng gloss dùng chung**: mỗi từ dịch **một lần**, mọi mục đọc chung, và **máy chọn nghĩa đời thường** để đem đi dịch (*conductor* → “nhạc trưởng”, không phải “vật dẫn điện”). **Và áp ba luật soạn câu ví dụ PO giao 02/08** — không thương hiệu · mỏ neo tư duy theo loại từ · khai mỏ neo — ba luật này ở bản v3 mới chỉ ghi vào sổ, nay có máy chặn, nên **câu ví dụ đổi thật**. Bảng này liệt kê **toàn bộ 64 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
+      "**Nới toàn bộ luật dịch** (PO nhắc 2 vòng): mọi phần nội dung — cụm từ, đồng nghĩa, từ cùng thân, từ cùng gốc — nay **được có nghĩa Việt/Nhật**; nguyên tắc cũ “từ vựng mục tiêu không dịch” bỏ. Kèm theo là **bảng gloss dùng chung**: mỗi từ dịch **một lần**, mọi mục đọc chung, và **máy chọn nghĩa đời thường** để đem đi dịch (*conductor* → “nhạc trưởng”, không phải “vật dẫn điện”). **Và áp ba luật soạn câu ví dụ PO giao 02/08** — không thương hiệu · mỏ neo tư duy theo loại từ · khai mỏ neo — ba luật này ở bản v3 mới chỉ ghi vào sổ, nay có máy chặn, nên **câu ví dụ đổi thật**. Bảng này liệt kê **toàn bộ 64 luật** đang ràng AI, theo bước làm và theo từng trường dữ liệu."
     ],
     [
       "Bằng chứng",
@@ -36,7 +36,7 @@
     },
     {
       "id": "VD-2",
-      "text": "Ưu tiên câu **có chứa một từ trong gia đình từ** của headword — học 1 câu, ôn 2 từ.",
+      "text": "Ưu tiên câu **có chứa một từ cùng thân** với headword — học 1 câu, ôn 2 từ.",
       "by": "đề bài cho AI",
       "status": "đang áp",
       "where": "PF5"
@@ -246,7 +246,7 @@
       "rules": [
         {
           "id": "B4-1",
-          "text": "**② cùng thân từ**: ứng viên = **trọn danh sách gia đình từ BNC/COCA** của chính từ đó.",
+          "text": "**② từ cùng thân**: ứng viên = **trọn danh sách từ cùng thân BNC/COCA** của chính từ đó.",
           "by": "nguồn quyết định",
           "status": "đang áp",
           "where": "build_report_v2.bnc_family · ADR-023"
@@ -349,14 +349,14 @@
       "rules": [
         {
           "id": "B6-1",
-          "text": "Cụm từ = **AI gợi nhớ ứng viên → máy đối chứng bằng số thật** trên ngữ liệu lớn: Google Books Ngram v3 (23,6 tỷ cụm; chỉ tính sách 1990–2019), tra qua ngrams.dev. *(Luật cũ bản v3: máy đếm n-gram trên ngữ liệu tự dựng 1,17 triệu từ, AI không tham gia. Đổi bởi ADR-028 — ngữ liệu đó quá nhỏ và 76% là Simple English Wikipedia nên cụm lấy ra mang giọng bách khoa: `first described`, `photographic film`.)*",
+          "text": "Cụm từ = **AI gợi nhớ ứng viên → máy đối chứng bằng số thật** trên ngữ liệu lớn: Google Books Ngram v3 (**23,6 tỷ cụm KHÁC NHAU**; chỉ tính sách 1990–2019), tra qua ngrams.dev. *(Luật cũ bản v3: máy đếm n-gram trên ngữ liệu tự dựng 1,17 triệu từ, AI không tham gia. Đổi bởi ADR-028 — ngữ liệu đó quá nhỏ và 76% là Simple English Wikipedia nên cụm lấy ra mang giọng bách khoa: `first described`, `photographic film`.)*",
           "by": "nguồn quyết định",
           "status": "đang áp",
           "where": "scripts/60 · src/collocation_verify · ADR-028"
         },
         {
           "id": "B6-2",
-          "text": "Mỗi từ **3–5 cụm**; nhãn hay gặp / trung bình / ít gặp suy ra từ **số lần trên một triệu cụm** (≥0,30 · ≥0,05), không gán tay. *(Luật cũ bản v3 tính theo số lần TUYỆT ĐỐI, ngưỡng ≥10 của một ngữ liệu nhỏ → 43/58 cụm đều ra “hay gặp”, nhãn hết nghĩa.)*",
+          "text": "Mỗi từ **3–5 cụm**; nhãn hay gặp / trung bình / ít gặp suy ra từ **số lần trên một triệu cụm** (≥0,30 · ≥0,05), không gán tay. **Mẫu số là số LƯỢT xuất hiện, không phải số cụm khác nhau**: với cụm 2 từ, sách 1990–2019 đóng góp **812 tỷ lượt** — đó là cái chia, còn 23,6 tỷ là số cụm khác nhau mà bộ dữ liệu biết. *(Luật cũ bản v3 tính theo số lần TUYỆT ĐỐI, ngưỡng ≥10 của một ngữ liệu nhỏ → 43/58 cụm đều ra “hay gặp”, nhãn hết nghĩa.)*",
           "by": "máy chặn",
           "status": "đang áp",
           "where": "schema_v3.Collocation.derive_rank_from_frequency"
@@ -438,14 +438,14 @@
       "rules": [
         {
           "id": "B8-1",
-          "text": "**Mọi phần nội dung đều được có nghĩa Việt/Nhật**: nghĩa · câu ví dụ · phân biệt sắc thái · **cụm từ** · **đồng nghĩa dễ hơn** · **② gia đình từ** · **③ từ cùng gốc** · nghĩa nhanh cạnh đầu từ. *(Luật cũ bản v3: “chỉ dịch 3 chỗ — nghĩa, ví dụ, sắc thái”. Đảo bởi ADR-027: PO nhắc 2 vòng rằng mục nào không có nghĩa thì người học phải đi tra tiếp, mất mạch học.)*",
+          "text": "**Mọi phần nội dung đều được có nghĩa Việt/Nhật**: nghĩa · câu ví dụ · phân biệt sắc thái · **cụm từ** · **đồng nghĩa dễ hơn** · **② từ cùng thân** · **③ từ cùng gốc** · nghĩa nhanh cạnh đầu từ. *(Luật cũ bản v3: “chỉ dịch 3 chỗ — nghĩa, ví dụ, sắc thái”. Đảo bởi ADR-027: PO nhắc 2 vòng rằng mục nào không có nghĩa thì người học phải đi tra tiếp, mất mạch học.)*",
           "by": "máy chặn",
           "status": "đang áp",
           "where": "ADR-027 · specs/translation_spec.md §0"
         },
         {
           "id": "B8-2",
-          "text": "**Vẫn KHÔNG dịch 3 thứ**: chính **từ tiếng Anh** (headword và mọi mục vốn từ — dịch là ghi thêm bên cạnh, không thay), **IPA**, và **câu ví dụ tiếng Anh gốc** (bản dịch là dòng thêm bên dưới). *(Luật cũ bản v3 cấm dịch cả collocation/đồng nghĩa/gia đình từ/gốc từ vì “đó là phần phải học”; ADR-027 bỏ nguyên tắc đó — lý do PO đưa là ma sát tra cứu, không phải sư phạm.)*",
+          "text": "**Vẫn KHÔNG dịch 3 thứ**: chính **từ tiếng Anh** (headword và mọi từ liên quan — dịch là ghi thêm bên cạnh, không thay), **IPA**, và **câu ví dụ tiếng Anh gốc** (bản dịch là dòng thêm bên dưới). *(Luật cũ bản v3 cấm dịch cả collocation/đồng nghĩa/từ cùng thân/gốc từ vì “đó là phần phải học”; ADR-027 bỏ nguyên tắc đó — lý do PO đưa là ma sát tra cứu, không phải sư phạm.)*",
           "by": "đề bài cho AI",
           "status": "đang áp",
           "where": "ADR-027 · specs/translation_spec.md §0"
@@ -501,10 +501,10 @@
         },
         {
           "id": "B8-10",
-          "text": "**Hai cửa chấm, hỏi hai câu khác nhau, cả hai ≥4 mới lên trang.** ① *“đây có phải nghĩa người học gặp đầu tiên không”* — chấm LỰA CHỌN, vết ở `judge_v4_quick_gloss.json`; ② **D7** cho bản dịch, 4 tiêu chí con, vết ở `judge_v4_lang.json` (`kind=quick_gloss`), điểm trên trang = min của 4. Dịch hay tới đâu mà chọn sai nghĩa thì vẫn là nghĩa nhanh sai, nên **không gộp hai cửa thành một con số**. Và **“ngắn” là số đo, không phải cảm tính**: mỗi nghĩa ≤ 28 ký tự · ≤ 6 âm tiết (tiếng Việt), ≤ 10 ký tự (tiếng Nhật), không kết thúc bằng dấu câu, và **phải ngắn hơn hẳn nghĩa đầy đủ** — bằng hoặc dài hơn là chép lại chứ không phải rút gọn.",
+          "text": "**Hai cửa chấm, hỏi hai câu khác nhau, cả hai ≥4 mới lên trang.** ① *“đây có phải nghĩa người học gặp đầu tiên không”* — chấm LỰA CHỌN, có vết ở **sổ chấm chọn nghĩa**; ② **D7** cho bản dịch, 4 tiêu chí con, vết ở **sổ chấm bản dịch**, điểm trên trang = min của 4. Dịch hay tới đâu mà chọn sai nghĩa thì vẫn là nghĩa nhanh sai, nên **không gộp hai cửa thành một con số**. Và **“ngắn” là số đo, không phải cảm tính**: mỗi nghĩa ≤ 28 ký tự · ≤ 6 âm tiết (tiếng Việt), ≤ 10 ký tự (tiếng Nhật), không kết thúc bằng dấu câu, và **phải ngắn hơn hẳn nghĩa đầy đủ** — bằng hoặc dài hơn là chép lại chứ không phải rút gọn.",
           "by": "vòng chấm",
           "status": "đang áp",
-          "where": "src/quick_gloss.short_text_errors · gate_errors · cf1_pilot/apply_judge_v4.py · eval_rubric §D7"
+          "where": "src/quick_gloss.short_text_errors · gate_errors · eval_rubric §D7"
         },
         {
           "id": "B8-11",
@@ -515,7 +515,7 @@
         },
         {
           "id": "B8-12",
-          "text": "**Từ ở mục ② (từ cùng thân) và ③ (từ cùng gốc) được dịch theo PHẠM VI khai trước, và chỗ không dịch phải nói ra trên trang.** PO vòng 5: *“dịch nghĩa luôn của các word_root… aqueduct (kênh dẫn nước), conductor (nhạc trưởng) — nghĩa thông dụng gần gũi, không chọn nghĩa khó”*. Nhưng dịch HẾT thì mục cùng gốc nuốt cả trang: `manufacture` có 111 từ cùng gốc, `sever` 52, cả bộ v4 là **854 lượt / 777 mục**. Phạm vi bản v4 = **band High/Mid** (Du chốt ở CF-1h) **cộng mọi mục đang bày thẳng** — hai vế cộng nhau chứ không thay nhau, vì mục ② chỉ gập band `ít gặp` nên 65 mục band Low của nó nằm ngay trước mắt người đọc, và ngược lại 98 mục band Mid nằm trong khối gập của những nhóm gốc lớn (gập không phải là bỏ). Ra **466/777 mục**; 311 mục còn lại (band Low/ít gặp trong khối gập) **để trống KÈM LÝ DO in trên trang**, không để một khoảng trắng im lặng. Nghĩa đem đi dịch chọn trong tập ứng viên đóng của B8-7/B8-8 và lệch hạng nhất thì khai theo B8-9 — ở lớp từ Latinh hiếm của mục ②③ công thức B8-7 lật ngược khá nhiều (SemCor = 0 cho mọi nghĩa nên thứ hạng rơi về các vế phụ): `abductor` được máy xếp nghĩa **giải phẫu** trên nghĩa “kẻ bắt cóc”, đúng ca `conductor` PO đã chỉ mặt. **63 ca đã khai là SÀN, không phải tổng** — nó đếm ca người viết ĐÈ thứ hạng; ca máy sai mà không ai đè thì không nằm trong đó (`secrete` → “giấu kín”, nghĩa “tiết ra” bị chính điểm phạt chuyên ngành đẩy xuống). Bộ đo cho vòng sửa công thức: `scripts/66` (63 đã khai · 67 mục có ứng viên bị phạt · 2 mục mà bỏ điểm phạt là đổi hạng nhất). Cửa ① hỏi thêm một câu ĐỨNG TRƯỚC — xem `B8-13`. Tiếng Nhật đi nguồn ② **JMdict** (EDRDG, CC BY-SA 4.0) qua một tập ứng viên đóng máy dò ngược được; không ứng viên nào dùng được thì khai lý do trong danh sách đóng, và lời khai “JMdict không có mục nào” máy đối chiếu được. **Thứ tự trong tập tiếng Nhật là thứ tự ĐỌC, không ràng buộc ai** (ADR-033): đo trên chính bộ này, 158/306 mục chọn lệch chữ đứng đầu và 107/158 chữ đứng đầu không dính gì tới nghĩa đã chốt (`august` → ８月, `evoke` → 買う), nên cửa giữ chất lượng bản Nhật là tập-đóng + D7, không phải thứ hạng.",
+          "text": "**Từ ở mục ② (từ cùng thân) và ③ (từ cùng gốc) được dịch theo PHẠM VI khai trước, và chỗ không dịch phải nói ra trên trang.** PO vòng 5: *“dịch nghĩa luôn của các word_root… aqueduct (kênh dẫn nước), conductor (nhạc trưởng) — nghĩa thông dụng gần gũi, không chọn nghĩa khó”*. Nhưng dịch HẾT thì mục cùng gốc nuốt cả trang: `manufacture` có 111 từ cùng gốc, `sever` 52, cả bộ v4 là **853 lượt / 777 mục**. Phạm vi bản v4 = **band High/Mid** (Du chốt ở CF-1h) **cộng mọi mục đang bày thẳng** — hai vế cộng nhau chứ không thay nhau, vì mục ② chỉ gập band `ít gặp` nên 65 mục band Low của nó nằm ngay trước mắt người đọc, và ngược lại **98 mục** band Mid không được bày thẳng ở BẤT KỲ trang nào — chúng chỉ nằm trong khối gập của những nhóm gốc lớn (tính theo lượt hiển thị là 110 lượt / 101 mục; gập không phải là bỏ). Ra **466/777 mục**; 311 mục còn lại (band Low/ít gặp trong khối gập) **để trống KÈM LÝ DO in trên trang**, không để một khoảng trắng im lặng. Nghĩa đem đi dịch chọn trong tập ứng viên đóng của B8-7/B8-8 và lệch hạng nhất thì khai theo B8-9 — ở lớp từ Latinh hiếm của mục ②③ công thức B8-7 lật ngược khá nhiều (SemCor = 0 cho mọi nghĩa nên thứ hạng rơi về các vế phụ): `abductor` được máy xếp nghĩa **giải phẫu** trên nghĩa “kẻ bắt cóc”, đúng ca `conductor` PO đã chỉ mặt. **63 ca đã khai là SÀN, không phải tổng** — nó đếm ca người viết ĐÈ thứ hạng; ca máy sai mà không ai đè thì không nằm trong đó (`secrete` → “giấu kín”, nghĩa “tiết ra” bị chính điểm phạt chuyên ngành đẩy xuống). Bộ đo cho vòng sửa công thức: `scripts/66` (63 đã khai · 67 mục có ứng viên bị phạt · 2 mục mà bỏ điểm phạt là đổi hạng nhất). Cửa ① hỏi thêm một câu ĐỨNG TRƯỚC — xem `B8-13`. Tiếng Nhật đi nguồn ② **JMdict** (EDRDG, CC BY-SA 4.0) qua một tập ứng viên đóng máy dò ngược được; không ứng viên nào dùng được thì khai lý do trong danh sách đóng, và lời khai “JMdict không có mục nào” máy đối chiếu được. **Thứ tự trong tập tiếng Nhật là thứ tự ĐỌC, không ràng buộc ai** (ADR-033): đo trên chính bộ này, 158/306 mục chọn lệch chữ đứng đầu và 107/158 chữ đứng đầu không dính gì tới nghĩa đã chốt (`august` → ８月, `evoke` → 買う), nên cửa giữ chất lượng bản Nhật là tập-đóng + D7, không phải thứ hạng.",
           "by": "máy chặn",
           "status": "đang áp",
           "where": "ADR-033 · src/member_gloss.scope · MemberGloss.gate_errors · scripts/65_build_jmdict_candidates.py · scripts/66_b8_7_measure_set.py · cf1_pilot/make_member_gloss.py --check"
@@ -707,7 +707,7 @@
     ],
     [
       "gloss_index (bảng gloss dùng chung)",
-      "**chưa có trong schema_v3** — bảng rời `data/input/gloss_index.json`; gloss chỉ hiện khi `status=published` + có điểm D7",
+      "**chưa có trong schema_v3** — còn là bảng rời; gloss chỉ hiện khi `status=published` + có điểm D7",
       "Mỗi từ một dòng, dịch một lần; nghĩa EN đem đi dịch do máy chọn (B8-7), AI không tự chọn; chỗ máy chưa chắc phải chờ người chốt",
       "D7",
       "đang áp"
@@ -721,8 +721,8 @@
     ]
   ],
   "open_items": [
-    "**Nguồn nghĩa cho bảng gloss còn mỏng ở đuôi.** Chạy khung trên 12 từ mẫu: 497 từ cần nghĩa, WordNet **không biết 36 từ**, và **302 từ máy tự nhận là chưa chắc** (hai nghĩa sát điểm hoặc từ không có tần suất dùng thật) — phần lớn là từ ít gặp ở mục ③. Chưa chốt: bổ sung nguồn nghĩa thứ hai (Wiktextract) hay chỉ gloss các từ thuộc band High/Mid rồi thu gọn phần “ít gặp”. Quyết ở CF-1h.",
-    "**Tiếng Nhật của bảng gloss định lấy JMdict nhưng chưa tải/khớp.** Tiếng Việt thì không có nguồn song ngữ free đủ dùng → phải AI + vòng chấm D7, đúng cách CF-1b đã chạy. Số lượng cần dịch ở tập lớn là điểm chi phí thật, chưa ước lượng xong.",
+    "✅ **ĐÃ CHỐT ở bản v4 — phạm vi dịch mục ②③ là band High/Mid CỘNG mọi mục đang bày thẳng** (`B8-12`), thay cho câu hỏi cũ “bổ sung nguồn nghĩa thứ hai hay thu gọn phần ít gặp”. **Nguồn nghĩa vẫn mỏng ở đuôi, và đây là số đo mới nhất** (chạy trên cả 35 từ, bảng gloss 1.046 mục): WordNet **không có nghĩa nào cho 55 mục** — hầu hết là từ hiếm (`formlessness`, `astrophotography`, `petrography`) và trong phạm vi đang hiển thị chỉ rơi vào 2 mục; **323 trong 991 mục còn lại máy tự khai là chưa chắc** (hai nghĩa sát điểm, hoặc nghĩa đứng đầu không có tần suất dùng thật). Phần chưa chắc nằm trong phạm vi thì có vòng chấm chọn-nghĩa soi; phần ngoài phạm vi để lại cho vòng sau.",
+    "✅ **ĐÃ CHẠY ở bản v4 — tiếng Nhật của bảng gloss lấy được từ JMdict**: 306 trong 461 mục thuộc phạm vi. 151 mục còn lại phải tự viết, chia ba lý do đếm được (JMdict không có mục từ · có mục nhưng không mục nào khớp nghĩa đã chọn · mục khớp đều là chữ chuyên ngành hoặc hiếm). Tiếng Việt thì không có nguồn song ngữ free đủ dùng → vẫn phải AI + vòng chấm D7. **Còn hở:** số lượng cần dịch ở tập lớn là điểm chi phí thật, chưa ước lượng xong.",
     "✅ **ĐÃ CHỐT 2026-08-20 — “không dùng thương hiệu” áp cho CẢ bộ chuyên ngành.** Trước đó luật chấm của bộ MBA còn **cho điểm cao** câu có công ty thật. Đã sửa: tiêu chí D6 (bảng chấm bộ MBA) và đề bài `prompts/system_prompt.py` nay đòi lấy độ cụ thể từ **vai + ngành + tình huống**. Đo trên bộ 292 từ đã phát hành: **762 câu, đúng 1 câu vướng** (`obeya` — “Toyota used an obeya…”), còn lại chỉ có tên nước/tên nhà kinh tế. Câu đó chờ sửa cùng lúc mở lại nhánh MBA (đang tạm dừng) vì phải dịch lại VI/JA.",
     "✅ **ĐÃ CHỐT 2026-08-20 — dòng “động từ hành động” chỉ áp cho động từ NGOẠI ĐỘNG.** Trước đó 3 câu có nghĩa nội động (*ice began to form*, *they posed for a photo* — không có gì bị tác động) phải khai “không áp mỏ neo”, nghe như bảng mỏ neo bị thiếu. Nay đó là **phạm vi luật định**: nghĩa nội động khai `động từ nội động`, và **máy kiểm lại lời khai** — câu có tân ngữ mà khai nội động thì bị chặn, nên không thành cửa lách. Bảng mỏ neo vẫn đúng 5 dòng của PO, không thêm dòng nào.",
     "**Bộ chấm câu chưa nhận ra văn cổ và cụm không có chủ ngữ.** Câu nguồn điểm cao nhất của *photograph* là trích dẫn năm 1891 và của *pose* là cụm nguyên mẫu “To pose a model for a picture.” — cả hai đạt 0,85–1,00. Nay chặn được bằng **mốc năm 1990** (VD-1) và bằng mắt người, chưa chặn được bằng cấu trúc câu. Cần một dấu hiệu “thiếu chủ–vị” trong `src/example_score.py` trước khi chạy tập lớn.",
